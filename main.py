@@ -1,16 +1,12 @@
 # pip install fastapi "uvicorn[standard]" openai pydantic
 import asyncio
-import json
 
 from fastapi import (
     FastAPI,
-    Header,
-    HTTPException,
     WebSocket,
     WebSocketDisconnect,
     status,
 )
-from fastapi.responses import JSONResponse, StreamingResponse
 from openai import AsyncOpenAI
 from pydantic import BaseModel
 
@@ -60,46 +56,7 @@ def verify_token(token: str) -> bool:
     return token == MY_SECRET_KEY
 
 
-# --- 1. & 2. HTTPエンドポイント (通常 & SSE) ---
-
-
-@app.post("/llm/http")
-async def llm_http_endpoint(
-    request_data: LLMRequest, authorization: str = Header(None)
-):
-    # 認証チェック
-    if not authorization or not authorization.startswith("Bearer "):
-        raise HTTPException(
-            status_code=401, detail="Missing or invalid Authorization header"
-        )
-
-    token = authorization.split(" ")[1]
-    if not verify_token(token):
-        raise HTTPException(status_code=401, detail="Invalid API Key")
-
-    # ストリーミング (SSE) の場合
-    if request_data.streaming:
-
-        async def sse_generator():
-            async for chunk in my_actual_llm_generator_async(request_data.prompt):
-                # SSEフォーマット: data: {...}\n\n
-                payload = json.dumps({"token": chunk}, ensure_ascii=False)
-                yield f"data: {payload}\n\n"
-            # ストリーム終了を示すイベントを送るのが一般的
-            yield "data: [DONE]\n\n"
-
-        return StreamingResponse(sse_generator(), media_type="text/event-stream")
-
-    # 通常レスポンスの場合
-    else:
-        chunks = []
-        async for chunk in my_actual_llm_generator_async(request_data.prompt):
-            chunks.append(chunk)
-        full_response = "".join(chunks)
-        return JSONResponse(content={"response": full_response})
-
-
-# --- 3. WebSocket エンドポイント (新規追加) ---
+# --- WebSocket エンドポイント ---
 
 
 @app.websocket("/llm/ws")
