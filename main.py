@@ -54,7 +54,7 @@ async def my_actual_llm_generator_async(prompt: str):
     # ダミーのストリーム生成器（実際にはOpenAIのストリームを使用）
     results = f"This is a simulated response from the LLM. You said: {prompt}"
     for char in results:
-        await asyncio.sleep(0.1)  # 擬似的な遅延
+        await asyncio.sleep(0.01)  # 擬似的な遅延
         yield char
 
 def verify_token(token: str) -> bool:
