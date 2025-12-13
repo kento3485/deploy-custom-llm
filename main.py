@@ -30,26 +30,32 @@ class LLMRequest(BaseModel):
 # --- 共通ロジック ---
 
 
+# async def my_actual_llm_generator_async(prompt: str):
+#     """
+#     OpenAIのストリームをラップする共通ジェネレータ。
+#     """
+#     try:
+#         stream = await client.chat.completions.create(
+#             model="gpt-4o-mini",
+#             messages=[{"role": "user", "content": prompt}],
+#             stream=True,
+#         )
+
+#         async for chunk in stream:
+#             content = chunk.choices[0].delta.content
+#             if content is not None:
+#                 yield content
+
+#     except Exception as e:
+#         print(f"Error: {e}")
+#         yield f"[System Error: {str(e)}]"
+
 async def my_actual_llm_generator_async(prompt: str):
-    """
-    OpenAIのストリームをラップする共通ジェネレータ。
-    """
-    try:
-        stream = await client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            stream=True,
-        )
-
-        async for chunk in stream:
-            content = chunk.choices[0].delta.content
-            if content is not None:
-                yield content
-
-    except Exception as e:
-        print(f"Error: {e}")
-        yield f"[System Error: {str(e)}]"
-
+    # ダミーのストリーム生成器（実際にはOpenAIのストリームを使用）
+    results = f"This is a simulated response from the LLM. You said: {prompt}"
+    for char in results:
+        await asyncio.sleep(0.1)  # 擬似的な遅延
+        yield char
 
 def verify_token(token: str) -> bool:
     """トークン検証用ヘルパー関数"""
