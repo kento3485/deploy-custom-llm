@@ -41,6 +41,7 @@ async def my_actual_llm_generator_async(prompt: str):
             stream=True,
         )
 
+        yield "[custom_llm]"
         async for chunk in stream:
             content = chunk.choices[0].delta.content
             if content is not None:
