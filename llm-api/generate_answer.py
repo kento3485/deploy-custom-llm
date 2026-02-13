@@ -4,7 +4,7 @@ import json
 from typing import Any
 
 from openai import AsyncOpenAI
-from elasticsearch import AsyncElasticsearch
+from elasticsearch import Elasticsearch
 
 from settings import settings
 
@@ -21,9 +21,9 @@ ES_USER = settings.ELASTIC_USER
 ES_PASSWORD = settings.ELASTIC_PASSWORD
 
 if ES_USER and ES_PASSWORD:
-    es = AsyncElasticsearch([ES_URL], basic_auth=(ES_USER, ES_PASSWORD), verify_certs=False)
+    es = Elasticsearch([ES_URL], basic_auth=(ES_USER, ES_PASSWORD), verify_certs=False)
 else:
-    es = AsyncElasticsearch([ES_URL])
+    es = Elasticsearch([ES_URL])
 
 
 # --- RAG ヘルパー関数 ---
@@ -50,7 +50,7 @@ async def _semantic_search(query: str, *, top_k: int = 3) -> list[dict[str, Any]
         "_source": ["text", "metadata.source", "metadata"],
     }
     try:
-        res = await es.search(index=ES_INDEX, body=body)
+        res = es.search(index=ES_INDEX, body=body)
         hits = res.get("hits", {}).get("hits", [])
         return [h.get("_source", {}) for h in hits]
     except Exception as exc:
