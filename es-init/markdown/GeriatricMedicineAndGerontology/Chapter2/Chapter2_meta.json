@@ -1,0 +1,818 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Epidemiology of Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.30214959383011,
+          55.4879150390625
+        ],
+        [
+          376.11212158203125,
+          55.4879150390625
+        ],
+        [
+          376.11212158203125,
+          80.84956046193838
+        ],
+        [
+          120.30214959383011,
+          80.84956046193838
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.599467515945435,
+          209.36278635263443
+        ],
+        [
+          144.96400451660156,
+          209.36278635263443
+        ],
+        [
+          144.96400451660156,
+          221.50125360488892
+        ],
+        [
+          59.599467515945435,
+          221.50125360488892
+        ]
+      ]
+    },
+    {
+      "title": "The causes and results of the aging \nof populations",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.948033452034,
+          441.1673278808594
+        ],
+        [
+          248.2649688720703,
+          441.1673278808594
+        ],
+        [
+          248.2649688720703,
+          464.56359565258026
+        ],
+        [
+          58.752720952034,
+          464.56359565258026
+        ]
+      ]
+    },
+    {
+      "title": "Longevity",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.79742023348808,
+          585.0673217773438
+        ],
+        [
+          111.96400451660156,
+          585.0673217773438
+        ],
+        [
+          111.96400451660156,
+          596.2139441370964
+        ],
+        [
+          58.79742023348808,
+          597.7432410120964
+        ]
+      ]
+    },
+    {
+      "title": "Why do we age?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          288.198486328125
+        ],
+        [
+          404.8009948730469,
+          287.4812803566456
+        ],
+        [
+          404.8009948730469,
+          299.198486328125
+        ],
+        [
+          317.2590208053589,
+          299.8766216933727
+        ]
+      ]
+    },
+    {
+      "title": "QUALITY OF LIFE AND DISABILITY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.43144088983536,
+          451.7626037597656
+        ],
+        [
+          235.55499267578125,
+          451.7626037597656
+        ],
+        [
+          235.55499267578125,
+          463.031405210495
+        ],
+        [
+          53.43144088983536,
+          463.031405210495
+        ]
+      ]
+    },
+    {
+      "title": "Changes with time",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.07769927382469,
+          189.07470703125
+        ],
+        [
+          159.02198791503906,
+          189.07470703125
+        ],
+        [
+          159.02198791503906,
+          200.07470703125
+        ],
+        [
+          59.07769927382469,
+          200.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Measuring differences: predicting future \nquality of life",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          59.56494140625
+        ],
+        [
+          531.31201171875,
+          59.56494140625
+        ],
+        [
+          531.31201171875,
+          82.56591796875
+        ],
+        [
+          318.0,
+          83.1485753506422
+        ]
+      ]
+    },
+    {
+      "title": "Measuring differences: cross-sectional versus \nlongitudinal data",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          485.1649169921875
+        ],
+        [
+          558.822998046875,
+          484.8405470252037
+        ],
+        [
+          558.822998046875,
+          508.1659240722656
+        ],
+        [
+          317.76989579200745,
+          508.1659240722656
+        ]
+      ]
+    },
+    {
+      "title": "Measuring differences: age",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.0,
+          134.07489013671875
+        ],
+        [
+          195.1959991455078,
+          134.07489013671875
+        ],
+        [
+          195.1959991455078,
+          145.07489013671875
+        ],
+        [
+          54.0,
+          145.07489013671875
+        ]
+      ]
+    },
+    {
+      "title": "Measuring differences: sex",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.315762758255,
+          233.07489013671875
+        ],
+        [
+          451.9750061035156,
+          233.07489013671875
+        ],
+        [
+          451.9750061035156,
+          244.07489013671875
+        ],
+        [
+          311.315762758255,
+          244.07489013671875
+        ]
+      ]
+    },
+    {
+      "title": "Measuring differences: marriage",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.0,
+          530.1542205810547
+        ],
+        [
+          487.3119812011719,
+          530.1542205810547
+        ],
+        [
+          487.3119812011719,
+          541.1542205810547
+        ],
+        [
+          318.0,
+          541.1542205810547
+        ]
+      ]
+    },
+    {
+      "title": "Measuring differences: features of older \ncompared with younger people in the \npopulation",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          54.0,
+          88.07470703125
+        ],
+        [
+          265.4859924316406,
+          87.11395235359669
+        ],
+        [
+          265.4859924316406,
+          123.07666015625
+        ],
+        [
+          52.97387856245041,
+          123.88507618010044
+        ]
+      ]
+    },
+    {
+      "title": "Indices of dependency",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0,
+          59.5648193359375
+        ],
+        [
+          428.7430114746094,
+          59.274015851318836
+        ],
+        [
+          428.7430114746094,
+          70.5648193359375
+        ],
+        [
+          312.0,
+          71.37867037206888
+        ]
+      ]
+    },
+    {
+      "title": "Is aging inevitable?",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0,
+          309.96484375
+        ],
+        [
+          412.8699951171875,
+          309.57161155343056
+        ],
+        [
+          412.8699951171875,
+          320.96484375
+        ],
+        [
+          311.35924458503723,
+          321.8464964926243
+        ]
+      ]
+    },
+    {
+      "title": "Living alone",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.495113015174866,
+          59.5648193359375
+        ],
+        [
+          123.58000183105469,
+          59.30379742383957
+        ],
+        [
+          123.58000183105469,
+          70.5648193359375
+        ],
+        [
+          58.495113015174866,
+          71.24075339734554
+        ]
+      ]
+    },
+    {
+      "title": "Ethnicity, emigration, and immigration \n(internal and external)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.80804896354675,
+          256.5648193359375
+        ],
+        [
+          266.59100341796875,
+          256.223661929369
+        ],
+        [
+          266.59100341796875,
+          279.5657958984375
+        ],
+        [
+          58.61273646354675,
+          280.5970175564289
+        ]
+      ]
+    },
+    {
+      "title": "Inequalities",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.619156539440155,
+          477.46484375
+        ],
+        [
+          122.02701383829117,
+          477.46484375
+        ],
+        [
+          120.83170133829117,
+          488.46484375
+        ],
+        [
+          58.423844039440155,
+          489.1794041991234
+        ]
+      ]
+    },
+    {
+      "title": "Table 2-2. Older People by Sex and Ethnicity \u2013 \nUnited Kingdom",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          59.99993896484375
+        ],
+        [
+          513.5700073242188,
+          59.99993896484375
+        ],
+        [
+          513.5700073242188,
+          80.99993896484375
+        ],
+        [
+          318.0,
+          80.99993896484375
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.9998779296875,
+          441.1850280761719
+        ],
+        [
+          399.3118591308594,
+          440.3709479570389
+        ],
+        [
+          399.3118591308594,
+          452.1850280761719
+        ],
+        [
+          317.20649242401123,
+          453.26953661441803
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS\nThe Epidemiology of Aging",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.53873443603516,
+          613.8034820556641
+        ],
+        [
+          434.50408935546875,
+          613.6219704151154
+        ],
+        [
+          434.50408935546875,
+          635.9769134521484
+        ],
+        [
+          316.34342193603516,
+          635.9769134521484
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          600
+        ],
+        [
+          "TableCell",
+          288
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Figure",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          101
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          33
+        ],
+        [
+          "Line",
+          15
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter2"
+}

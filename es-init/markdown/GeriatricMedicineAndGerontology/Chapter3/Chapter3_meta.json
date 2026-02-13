@@ -1,0 +1,370 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Future of Old Age",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          121.0,
+          55.4879150390625
+        ],
+        [
+          330.1177496910095,
+          55.4879150390625
+        ],
+        [
+          330.1177496910095,
+          79.79186251759529
+        ],
+        [
+          121.0,
+          79.79186251759529
+        ]
+      ]
+    },
+    {
+      "title": "HISTORICAL DETERMINANTS OF THE \nFUTURE HEALTH OF THE ELDERLY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.246925830841064,
+          528.1748199462891
+        ],
+        [
+          255.6959991455078,
+          528.1748199462891
+        ],
+        [
+          255.6959991455078,
+          551.2004011273384
+        ],
+        [
+          53.246925830841064,
+          551.2004011273384
+        ]
+      ]
+    },
+    {
+      "title": "CURRENT AND FUTURE BIOMEDICAL \nINPUTS TO AGING",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.6675293445587,
+          484.1748046875
+        ],
+        [
+          519.7068481445312,
+          483.64681059122086
+        ],
+        [
+          519.7068481445312,
+          507.1758117675781
+        ],
+        [
+          316.6675293445587,
+          507.954827606678
+        ]
+      ]
+    },
+    {
+      "title": "THE FUTURE OF AGING",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          276.1749267578125
+        ],
+        [
+          186.29724848270416,
+          276.1749267578125
+        ],
+        [
+          185.9169921875,
+          287.2038479447365
+        ],
+        [
+          59.13268992304802,
+          287.2038479447365
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0096130371094,
+          349.925048828125
+        ],
+        [
+          389.6786599159241,
+          349.0137778222561
+        ],
+        [
+          389.3616027832031,
+          361.925048828125
+        ],
+        [
+          316.85017490386963,
+          362.92422822117805
+        ]
+      ]
+    },
+    {
+      "title": "The Future of Old Age",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          363.0984802246094
+        ],
+        [
+          412.817010641098,
+          363.0984802246094
+        ],
+        [
+          412.0140075683594,
+          373.4300702512264
+        ],
+        [
+          317.60319113731384,
+          374.9593671262264
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          216
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          235
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "ListItem",
+          10
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter3"
+}

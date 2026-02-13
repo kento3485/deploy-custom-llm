@@ -1,0 +1,1387 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Cardiac Arrhythmias",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.49609375,
+          55.4879150390625
+        ],
+        [
+          318.8542785644531,
+          55.4879150390625
+        ],
+        [
+          318.8542785644531,
+          79.87147644907236
+        ],
+        [
+          120.49609375,
+          79.87147644907236
+        ]
+      ]
+    },
+    {
+      "title": "VENTRICULAR ARRHYTHMIAS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.88033938407898,
+          110.78166264295578
+        ],
+        [
+          221.96400451660156,
+          109.25236576795578
+        ],
+        [
+          221.96400451660156,
+          122.14544677734375
+        ],
+        [
+          58.88033938407898,
+          123.26124411821365
+        ]
+      ]
+    },
+    {
+      "title": "Prognosis of ventricular arrhythmias\nNO HEART DISEASE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.90168809890747,
+          494.1688939332962
+        ],
+        [
+          253.63730192184448,
+          492.6395970582962
+        ],
+        [
+          252.44198942184448,
+          518.8245544433594
+        ],
+        [
+          58.70637559890747,
+          519.2515468597412
+        ]
+      ]
+    },
+    {
+      "title": "HEART DISEASE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          652.0231992602348
+        ],
+        [
+          131.00099182128906,
+          650.4939023852348
+        ],
+        [
+          131.00099182128906,
+          662.0223403573036
+        ],
+        [
+          58.90022447705269,
+          663.5516372323036
+        ]
+      ]
+    },
+    {
+      "title": "General therapy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          232.77690115571022
+        ],
+        [
+          402.9793932437897,
+          231.24760428071022
+        ],
+        [
+          402.3699951171875,
+          244.01959228515625
+        ],
+        [
+          317.6568138599396,
+          244.84242251515388
+        ]
+      ]
+    },
+    {
+      "title": "Class I antiarrhythmic drugs",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          529.1388189196587
+        ],
+        [
+          465.4638726711273,
+          527.6095220446587
+        ],
+        [
+          465.31201171875,
+          540.9197082519531
+        ],
+        [
+          316.82766795158386,
+          541.829630792141
+        ]
+      ]
+    },
+    {
+      "title": "Table 45-1. Effect of Class I Antiarrhythmic Drugs on Mortality in Persons With Heart Disease and Complex Ventricular \nArrhythmias",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          52.182496547698975,
+          59.99993896484375
+        ],
+        [
+          542.8699951171875,
+          59.99993896484375
+        ],
+        [
+          542.8699951171875,
+          81.32249533385038
+        ],
+        [
+          52.182496547698975,
+          81.32249533385038
+        ]
+      ]
+    },
+    {
+      "title": "Calcium channel blockers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.6234095096588,
+          442.1133117675781
+        ],
+        [
+          445.2539978027344,
+          442.1133117675781
+        ],
+        [
+          445.2539978027344,
+          453.1133117675781
+        ],
+        [
+          310.6234095096588,
+          453.1133117675781
+        ]
+      ]
+    },
+    {
+      "title": "\u03b2-blockers",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.9464681148529,
+          606.91162109375
+        ],
+        [
+          366.11417269706726,
+          606.8751987218857
+        ],
+        [
+          366.11417269706726,
+          618.0133056640625
+        ],
+        [
+          311.9464681148529,
+          618.0133056640625
+        ]
+      ]
+    },
+    {
+      "title": "Angiotensin-converting enzyme inhibitors",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.17286592721939,
+          156.07470703125
+        ],
+        [
+          280.63800048828125,
+          156.07470703125
+        ],
+        [
+          280.63800048828125,
+          167.11486342549324
+        ],
+        [
+          59.17286592721939,
+          167.11486342549324
+        ]
+      ]
+    },
+    {
+      "title": "Class III antiarrhythmic drugs",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.90417778491974,
+          342.9747314453125
+        ],
+        [
+          213.81057500839233,
+          342.9747314453125
+        ],
+        [
+          213.81057500839233,
+          353.9747314453125
+        ],
+        [
+          58.90417778491974,
+          353.9747314453125
+        ]
+      ]
+    },
+    {
+      "title": "Invasive intervention",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.35459327697754,
+          354.07470703125
+        ],
+        [
+          428.04400634765625,
+          354.07470703125
+        ],
+        [
+          428.04400634765625,
+          365.07470703125
+        ],
+        [
+          317.35459327697754,
+          365.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Automatic implantable \ncardioverter-defibrillator",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.51972937583923,
+          573.0747222900391
+        ],
+        [
+          446.3699951171875,
+          573.0747222900391
+        ],
+        [
+          446.3699951171875,
+          596.3742104172707
+        ],
+        [
+          316.32441687583923,
+          596.3742104172707
+        ]
+      ]
+    },
+    {
+      "title": "Table 45-4. Effect of the Automatic Implantable Cardioverter-Defibrillator on Mortality in Persons With Ventricular \nTachyarrhythmias",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.548362135887146,
+          59.57916259765625
+        ],
+        [
+          524.5699462890625,
+          59.57916259765625
+        ],
+        [
+          524.5699462890625,
+          80.57916259765625
+        ],
+        [
+          53.548362135887146,
+          80.57916259765625
+        ]
+      ]
+    },
+    {
+      "title": "ATRIAL FIBRILLATION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.05808186531067,
+          351.8273751139641
+        ],
+        [
+          428.7352259159088,
+          351.8273751139641
+        ],
+        [
+          428.7352259159088,
+          364.1647050976753
+        ],
+        [
+          311.05808186531067,
+          364.1647050976753
+        ]
+      ]
+    },
+    {
+      "title": "Predisposing factors",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.16546416282654,
+          518.7262710928917
+        ],
+        [
+          419.5143792629242,
+          517.1969742178917
+        ],
+        [
+          419.5143792629242,
+          529.9389038085938
+        ],
+        [
+          310.16546416282654,
+          530.1026567816734
+        ]
+      ]
+    },
+    {
+      "title": "Associated risks",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.97575998306274,
+          694.8388137817383
+        ],
+        [
+          396.9639892578125,
+          693.8539118170738
+        ],
+        [
+          396.9639892578125,
+          705.8388137817383
+        ],
+        [
+          311.97575998306274,
+          706.6159427762032
+        ]
+      ]
+    },
+    {
+      "title": "Table 45-5. Echocardiographic Findings in 254 Persons \nWith Chronic Atrial Fibrillation and 1,445 Persons With \nSinus Rhythm, Mean Age 81 Years",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          60.00006103515625
+        ],
+        [
+          291.99447441101074,
+          59.50189009308815
+        ],
+        [
+          291.99447441101074,
+          92.00006103515625
+        ],
+        [
+          60.0,
+          92.01509495079517
+        ]
+      ]
+    },
+    {
+      "title": "Clinical symptoms",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.0,
+          409.0749206542969
+        ],
+        [
+          414.5690002441406,
+          408.10100108385086
+        ],
+        [
+          414.5690002441406,
+          420.0749206542969
+        ],
+        [
+          318.0,
+          421.4021689295769
+        ]
+      ]
+    },
+    {
+      "title": "Diagnostic tests",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.7908616065979,
+          551.9749145507812
+        ],
+        [
+          402.47165536880493,
+          551.6244020462036
+        ],
+        [
+          402.3479919433594,
+          563.1022492647171
+        ],
+        [
+          315.5955491065979,
+          564.6315461397171
+        ]
+      ]
+    },
+    {
+      "title": "General treatment measures",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.32158064842224,
+          694.8749084472656
+        ],
+        [
+          468.3809814453125,
+          694.2933139801025
+        ],
+        [
+          468.3809814453125,
+          705.8749084472656
+        ],
+        [
+          317.32158064842224,
+          707.2019834518433
+        ]
+      ]
+    },
+    {
+      "title": "Control of very fast rapid ventricular rate",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.43335598707199,
+          200.02449864149094
+        ],
+        [
+          267.9609680175781,
+          200.02449864149094
+        ],
+        [
+          267.9609680175781,
+          211.07470703125
+        ],
+        [
+          53.43335598707199,
+          211.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Control of fast ventricular rate",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.538567781448364,
+          298.9748229980469
+        ],
+        [
+          212.32296752929688,
+          298.9748229980469
+        ],
+        [
+          212.32296752929688,
+          309.9748229980469
+        ],
+        [
+          53.538567781448364,
+          309.9748229980469
+        ]
+      ]
+    },
+    {
+      "title": "Nondrug therapies",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          311.7692942619324,
+          90.07470703125
+        ],
+        [
+          410.406005859375,
+          90.07470703125
+        ],
+        [
+          410.406005859375,
+          101.44442501664162
+        ],
+        [
+          311.7692942619324,
+          101.44442501664162
+        ]
+      ]
+    },
+    {
+      "title": "Tachycardia-bradycardia syndrome",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0,
+          331.9747314453125
+        ],
+        [
+          495.9859924316406,
+          331.9747314453125
+        ],
+        [
+          495.9859924316406,
+          343.24069145321846
+        ],
+        [
+          312.0,
+          343.24069145321846
+        ]
+      ]
+    },
+    {
+      "title": "Wolff-Parkinson-White syndrome",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          311.4335868358612,
+          496.87481689453125
+        ],
+        [
+          486.4995195865631,
+          496.87481689453125
+        ],
+        [
+          486.4995195865631,
+          508.0059784054756
+        ],
+        [
+          311.4335868358612,
+          508.0059784054756
+        ]
+      ]
+    },
+    {
+      "title": "Slow ventricular rate",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          310.34106945991516,
+          683.7748107910156
+        ],
+        [
+          422.0438537597656,
+          683.3649644851685
+        ],
+        [
+          422.0438537597656,
+          694.7748107910156
+        ],
+        [
+          310.34106945991516,
+          694.7748107910156
+        ]
+      ]
+    },
+    {
+      "title": "Elective cardioversion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          60.0,
+          145.07470703125
+        ],
+        [
+          175.01181757450104,
+          145.02494059503078
+        ],
+        [
+          174.927978515625,
+          156.07470703125
+        ],
+        [
+          58.896166294813156,
+          156.64555267989635
+        ]
+      ]
+    },
+    {
+      "title": "Use of antiarrhythmic drugs to maintain \nsinus rhythm",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          276.1748046875
+        ],
+        [
+          531.927978515625,
+          275.2361244857311
+        ],
+        [
+          531.927978515625,
+          299.1758117675781
+        ],
+        [
+          317.55887031555176,
+          300.3883630335331
+        ]
+      ]
+    },
+    {
+      "title": "Ventricular rate control",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.69610732793808,
+          156.07501220703125
+        ],
+        [
+          176.2539825439453,
+          156.07501220703125
+        ],
+        [
+          176.2539825439453,
+          167.09756036102772
+        ],
+        [
+          53.69610732793808,
+          167.09756036102772
+        ]
+      ]
+    },
+    {
+      "title": "Table 45-6. Risk Factors for New Thromboembolic \nStroke in 312 Elderly Persons With Chronic Atrial \nFibrillation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.0,
+          60.00006103515625
+        ],
+        [
+          524.22998046875,
+          60.00006103515625
+        ],
+        [
+          524.22998046875,
+          92.00006103515625
+        ],
+        [
+          312.0,
+          92.00006103515625
+        ]
+      ]
+    },
+    {
+      "title": "RISK FACTORS FOR THROMBOEMBOLIC \nSTROKE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          311.97608828544617,
+          352.0289306640625
+        ],
+        [
+          529.0079345703125,
+          352.0289306640625
+        ],
+        [
+          529.0079345703125,
+          375.0299377441406
+        ],
+        [
+          310.78077578544617,
+          375.0299377441406
+        ]
+      ]
+    },
+    {
+      "title": "Antithrombotic therapy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          311.40845346450806,
+          661.9289093017578
+        ],
+        [
+          436.0690002441406,
+          661.9289093017578
+        ],
+        [
+          436.0690002441406,
+          672.9905464053154
+        ],
+        [
+          311.40845346450806,
+          672.9905464053154
+        ]
+      ]
+    },
+    {
+      "title": "ATRIAL FLUTTER",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          318.0,
+          364.1750183105469
+        ],
+        [
+          409.0094690322876,
+          363.50133150815964
+        ],
+        [
+          408.4640197753906,
+          375.1750183105469
+        ],
+        [
+          317.3240246772766,
+          376.0770540833473
+        ]
+      ]
+    },
+    {
+      "title": "ATRIAL PREMATURE COMPLEXES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.29883408546448,
+          232.17486572265625
+        ],
+        [
+          235.51100158691406,
+          232.17486572265625
+        ],
+        [
+          235.51100158691406,
+          243.17486572265625
+        ],
+        [
+          53.29883408546448,
+          243.17486572265625
+        ]
+      ]
+    },
+    {
+      "title": "SUPRAVENTRICULAR TACHYCARDIA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.971580386161804,
+          375.1748046875
+        ],
+        [
+          251.41700744628906,
+          375.1748046875
+        ],
+        [
+          251.41700744628906,
+          386.1748046875
+        ],
+        [
+          52.776267886161804,
+          386.1748046875
+        ]
+      ]
+    },
+    {
+      "title": "ACCELERATED ATRIOVENTRICULAR \nRHYTHM",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          311.4910397529602,
+          110.14658300578594
+        ],
+        [
+          508.1960144042969,
+          110.14658300578594
+        ],
+        [
+          508.1960144042969,
+          133.17584228515625
+        ],
+        [
+          311.4910397529602,
+          133.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "PAROXYSMAL ATRIAL TACHYCARDIA \nWITH ATRIOVENTRICULAR BLOCK",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          312.0,
+          275.1748046875
+        ],
+        [
+          516.7429809570312,
+          275.1748046875
+        ],
+        [
+          516.7429809570312,
+          298.1758117675781
+        ],
+        [
+          312.0,
+          298.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "MULTIFOCAL ATRIAL TACHYCARDIA",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          311.9309649467468,
+          430.1748046875
+        ],
+        [
+          506.9750061035156,
+          430.1748046875
+        ],
+        [
+          506.9750061035156,
+          441.29926961660385
+        ],
+        [
+          311.9309649467468,
+          441.29926961660385
+        ]
+      ]
+    },
+    {
+      "title": "BRADYARRHYTHMIAS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          311.7420451641083,
+          573.1748199462891
+        ],
+        [
+          431.17401123046875,
+          573.1748199462891
+        ],
+        [
+          431.17401123046875,
+          584.390502333641
+        ],
+        [
+          311.7420451641083,
+          584.390502333641
+        ]
+      ]
+    },
+    {
+      "title": "Table 45-7. Class I Indications for Permanent Pacing",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          318.00048828125,
+          59.99993896484375
+        ],
+        [
+          537.6959781646729,
+          59.99993896484375
+        ],
+        [
+          537.6959781646729,
+          70.053466796875
+        ],
+        [
+          318.00048828125,
+          70.67615778744221
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "TableCell",
+          30
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          269
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter45"
+}

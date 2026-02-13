@@ -1,0 +1,308 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Successful Aging: \nThe Centenarians",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          114.74609375,
+          54.78514239192009
+        ],
+        [
+          293.37811279296875,
+          54.78514239192009
+        ],
+        [
+          293.37811279296875,
+          105.47991943359375
+        ],
+        [
+          114.74609375,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "Demography of centenarians",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.5825375020504,
+          133.23587156832218
+        ],
+        [
+          205.57998657226562,
+          133.23587156832218
+        ],
+        [
+          205.57998657226562,
+          145.48765464127064
+        ],
+        [
+          53.5825375020504,
+          145.48765464127064
+        ]
+      ]
+    },
+    {
+      "title": "Definitions of healthy aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.816995561122894,
+          441.369788646698
+        ],
+        [
+          198.85897827148438,
+          441.369788646698
+        ],
+        [
+          198.85897827148438,
+          453.03741455078125
+        ],
+        [
+          53.816995561122894,
+          453.03741455078125
+        ]
+      ]
+    },
+    {
+      "title": "DISTINGUISHING BETWEEN \nCOMPRESSION OF MORBIDITY AND \nCOMPRESSION OF DISABILITY AND THE \nROLE OF RESILIENCE (FUNCTIONAL \nRESERVE AND ADAPTIVE CAPACITY)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.76907539367676,
+          414.01857912540436
+        ],
+        [
+          529.6019287109375,
+          414.01857912540436
+        ],
+        [
+          529.6019287109375,
+          474.1247253417969
+        ],
+        [
+          310.57376289367676,
+          474.1247253417969
+        ]
+      ]
+    },
+    {
+      "title": "The gender disparity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.0,
+          618.0237121582031
+        ],
+        [
+          168.19598388671875,
+          618.0237121582031
+        ],
+        [
+          168.19598388671875,
+          629.1600989699364
+        ],
+        [
+          58.904971182346344,
+          630.6893958449364
+        ]
+      ]
+    },
+    {
+      "title": "Heritability and familiality of exceptional \nlongevity",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.0000915527344,
+          672.1236190795898
+        ],
+        [
+          533.7980346679688,
+          672.1236190795898
+        ],
+        [
+          533.7980346679688,
+          695.7496182918549
+        ],
+        [
+          318.0000915527344,
+          697.2789151668549
+        ]
+      ]
+    },
+    {
+      "title": "Supercentenarians",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.81425058841705,
+          508.07470703125
+        ],
+        [
+          153.4078792333603,
+          508.07470703125
+        ],
+        [
+          153.4078792333603,
+          519.07470703125
+        ],
+        [
+          53.81425058841705,
+          519.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.2252151966095,
+          373.3272399902344
+        ],
+        [
+          383.3616027832031,
+          373.3272399902344
+        ],
+        [
+          383.3616027832031,
+          385.3272399902344
+        ],
+        [
+          310.2252151966095,
+          385.3272399902344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter30"
+}

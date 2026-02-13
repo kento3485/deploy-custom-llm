@@ -1,0 +1,427 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Disorders of Water, Electrolyte, \nand Mineral Ion Metabolism",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.99609375,
+          55.019276306033134
+        ],
+        [
+          427.5721435546875,
+          55.019276306033134
+        ],
+        [
+          427.5721435546875,
+          105.47991943359375
+        ],
+        [
+          120.99609375,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.627988785505295,
+          131.84417080879211
+        ],
+        [
+          145.17204916477203,
+          131.84417080879211
+        ],
+        [
+          145.17204916477203,
+          144.8051345050335
+        ],
+        [
+          59.627988785505295,
+          144.8051345050335
+        ]
+      ]
+    },
+    {
+      "title": "WATER BALANCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.84775075316429,
+          351.03745463490486
+        ],
+        [
+          155.85143387317657,
+          351.03745463490486
+        ],
+        [
+          154.7319793701172,
+          364.1847229003906
+        ],
+        [
+          58.65243825316429,
+          364.1847229003906
+        ]
+      ]
+    },
+    {
+      "title": "ELECTROLYTE BALANCE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.5382602214813,
+          317.7222299873829
+        ],
+        [
+          449.89774346351624,
+          317.7222299873829
+        ],
+        [
+          449.4169921875,
+          331.0633239746094
+        ],
+        [
+          316.3429477214813,
+          331.0633239746094
+        ]
+      ]
+    },
+    {
+      "title": "Table 85-1. Causes of Hyperkalemia",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.48753044009209,
+          450.1971130371094
+        ],
+        [
+          206.79000854492188,
+          450.1971130371094
+        ],
+        [
+          206.79000854492188,
+          460.2506103515625
+        ],
+        [
+          53.48753044009209,
+          460.2506103515625
+        ]
+      ]
+    },
+    {
+      "title": "Excessive Potassium Load",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.490361630916595,
+          470.84619140625
+        ],
+        [
+          154.19359803199768,
+          470.84619140625
+        ],
+        [
+          154.19359803199768,
+          480.172056555748
+        ],
+        [
+          60.490361630916595,
+          480.172056555748
+        ]
+      ]
+    },
+    {
+      "title": "Reduced Potassium Excretion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          65.42388010025024,
+          530.5593736767769
+        ],
+        [
+          162.88800048828125,
+          529.0300768017769
+        ],
+        [
+          162.88800048828125,
+          538.6433868408203
+        ],
+        [
+          64.22856760025024,
+          538.8062265515327
+        ]
+      ]
+    },
+    {
+      "title": "Redistribution of Potassium",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.668976187705994,
+          635.5405731201172
+        ],
+        [
+          155.33599853515625,
+          635.5405731201172
+        ],
+        [
+          155.33599853515625,
+          644.5171929001808
+        ],
+        [
+          63.668976187705994,
+          646.0464897751808
+        ]
+      ]
+    },
+    {
+      "title": "MINERAL ION BALANCE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.6601519584656,
+          287.1748046875
+        ],
+        [
+          440.9570846557617,
+          285.8099420070648
+        ],
+        [
+          440.3590087890625,
+          298.1748046875
+        ],
+        [
+          310.4648394584656,
+          298.86193639039993
+        ]
+      ]
+    },
+    {
+      "title": "Table 85-3. Clinical Symptoms/Diseases Arising Because \nof Hypophosphatemia",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          315.4633891582489,
+          371.40435791015625
+        ],
+        [
+          559.6699829101562,
+          371.40435791015625
+        ],
+        [
+          559.6699829101562,
+          392.40435791015625
+        ],
+        [
+          315.4633891582489,
+          392.40435791015625
+        ]
+      ]
+    },
+    {
+      "title": "Table 85-4. Causes of Hyperphosphatemia",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          573.5532068610191
+        ],
+        [
+          495.2300109863281,
+          573.5532068610191
+        ],
+        [
+          495.2300109863281,
+          583.6842651367188
+        ],
+        [
+          318.0,
+          583.6842651367188
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.69362226128578,
+          111.1749267578125
+        ],
+        [
+          127.97499084472656,
+          111.1749267578125
+        ],
+        [
+          127.97499084472656,
+          122.40785184502602
+        ],
+        [
+          53.69362226128578,
+          122.40785184502602
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          299
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "TableCell",
+          74
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          47
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter85"
+}

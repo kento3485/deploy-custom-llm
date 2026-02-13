@@ -1,0 +1,803 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Disorders of the Parathyroid \nGlands",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          121.29608917236328,
+          54.75221639871597
+        ],
+        [
+          397.22412109375,
+          54.75221639871597
+        ],
+        [
+          397.22412109375,
+          105.47991943359375
+        ],
+        [
+          121.29608917236328,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.29616171121597,
+          143.32917027175426
+        ],
+        [
+          144.96400451660156,
+          143.32917027175426
+        ],
+        [
+          144.96400451660156,
+          155.39674513041973
+        ],
+        [
+          59.29616171121597,
+          155.39674513041973
+        ]
+      ]
+    },
+    {
+      "title": "PHYSIOLOGY OF PARATHYROID \nHORMONE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.57399672269821,
+          263.20191898941994
+        ],
+        [
+          234.2069854736328,
+          263.20191898941994
+        ],
+        [
+          234.2069854736328,
+          287.53728488087654
+        ],
+        [
+          58.37868422269821,
+          287.53728488087654
+        ]
+      ]
+    },
+    {
+      "title": "CALCIUM HOMEOSTASIS AND CHANGES \nWITH AGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.7060227394104,
+          273.66629433631897
+        ],
+        [
+          541.6959838867188,
+          273.66629433631897
+        ],
+        [
+          541.6959838867188,
+          298.13970947265625
+        ],
+        [
+          317.7060227394104,
+          298.13970947265625
+        ]
+      ]
+    },
+    {
+      "title": "Table 91-1. Clinical Investigation of Parathyroid \nDisorders",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0,
+          59.99993896484375
+        ],
+        [
+          256.80999755859375,
+          59.70857012271881
+        ],
+        [
+          256.80999755859375,
+          80.99993896484375
+        ],
+        [
+          54.0,
+          81.72949071228504
+        ]
+      ]
+    },
+    {
+      "title": "Measurement of",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          64.90701359510422,
+          90.632568359375
+        ],
+        [
+          131.73411279916763,
+          89.17849496752024
+        ],
+        [
+          131.73411279916763,
+          98.632568359375
+        ],
+        [
+          64.90701359510422,
+          99.74621616303921
+        ]
+      ]
+    },
+    {
+      "title": "Table 91-2. PTH Assay, Calcium, and Vitamin D Assays",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0,
+          227.41802978515625
+        ],
+        [
+          283.989990234375,
+          226.60352244973183
+        ],
+        [
+          283.989990234375,
+          237.4715576171875
+        ],
+        [
+          53.09417402744293,
+          238.6384280025959
+        ]
+      ]
+    },
+    {
+      "title": "PTH Assay",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.514701426029205,
+          247.3670654296875
+        ],
+        [
+          101.1296369433403,
+          246.0157639682293
+        ],
+        [
+          100.656005859375,
+          255.3670654296875
+        ],
+        [
+          62.319388926029205,
+          256.38243475556374
+        ]
+      ]
+    },
+    {
+      "title": "Calcium and Vitamin D Assay",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          63.95403841137886,
+          307.3150939941406
+        ],
+        [
+          162.01914131641388,
+          306.18767818808556
+        ],
+        [
+          161.10211181640625,
+          315.3150939941406
+        ],
+        [
+          62.75872591137886,
+          316.5182727277279
+        ]
+      ]
+    },
+    {
+      "title": "SECONDARY HYPERPARATHYROIDISM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0,
+          496.13232421875
+        ],
+        [
+          262.18210101127625,
+          495.51239579916
+        ],
+        [
+          261.8009948730469,
+          507.13232421875
+        ],
+        [
+          53.26765447854996,
+          507.91207748651505
+        ]
+      ]
+    },
+    {
+      "title": "Case Report: Secondary \nHyperparathyroidism",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.965181350708,
+          126.253662109375
+        ],
+        [
+          451.3896179199219,
+          124.68997786939144
+        ],
+        [
+          451.3896179199219,
+          152.6536865234375
+        ],
+        [
+          310.769868850708,
+          153.29389192163944
+        ]
+      ]
+    },
+    {
+      "title": "PRIMARY HYPERPARATHYROIDISM",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.3657376766205,
+          507.07470703125
+        ],
+        [
+          500.8479919433594,
+          505.9366579055786
+        ],
+        [
+          500.8479919433594,
+          518.07470703125
+        ],
+        [
+          311.3657376766205,
+          518.8044440746307
+        ]
+      ]
+    },
+    {
+      "title": "Case Report: Primary \nHyperparathyroidism",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.50386768579483,
+          59.50628662109375
+        ],
+        [
+          183.38169860839844,
+          58.61531513929367
+        ],
+        [
+          183.38169860839844,
+          85.90631103515625
+        ],
+        [
+          59.50386768579483,
+          86.74812613427639
+        ]
+      ]
+    },
+    {
+      "title": "Table 91-3. Symptoms and Signs of Acute Hypercalcemia",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          59.99993896484375
+        ],
+        [
+          559.0612041950226,
+          59.34295392036438
+        ],
+        [
+          559.0612041950226,
+          70.053466796875
+        ],
+        [
+          318.0,
+          71.00810126960278
+        ]
+      ]
+    },
+    {
+      "title": "Table 91-4. Indications for Parathyroidectomy: National \nInstitutes of Health Consensus Conference on Primary \nHyperparathyroidism 1991 and 2002 Recommendations \nfor Surgery33",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          273.63698530197144
+        ],
+        [
+          554.1300048828125,
+          272.10768842697144
+        ],
+        [
+          554.1300048828125,
+          318.05938720703125
+        ],
+        [
+          317.0968029499054,
+          318.10280406475067
+        ]
+      ]
+    },
+    {
+      "title": "1991 Recommendations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          330.0,
+          328.0084533691406
+        ],
+        [
+          405.9840087890625,
+          327.0935837030411
+        ],
+        [
+          405.9840087890625,
+          336.0084533691406
+        ],
+        [
+          330.0,
+          336.6204666495323
+        ]
+      ]
+    },
+    {
+      "title": "LITHIUM",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.52391728758812,
+          474.21612548828125
+        ],
+        [
+          100.60813772678375,
+          474.21612548828125
+        ],
+        [
+          100.60813772678375,
+          485.53934347629547
+        ],
+        [
+          53.52391728758812,
+          485.53934347629547
+        ]
+      ]
+    },
+    {
+      "title": "TERTIARY HYPERPARATHYROIDISM",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.0,
+          418.8415487408638
+        ],
+        [
+          503.9059753417969,
+          418.8415487408638
+        ],
+        [
+          503.9059753417969,
+          430.1548156738281
+        ],
+        [
+          311.01770067214966,
+          430.1548156738281
+        ]
+      ]
+    },
+    {
+      "title": "Case Report: Lithium-Induced Hyperparathyroidism",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.009700775146484,
+          563.3296661376953
+        ],
+        [
+          346.20613503456116,
+          562.9129073023796
+        ],
+        [
+          346.0537109375,
+          575.3296661376953
+        ],
+        [
+          53.51154667139053,
+          576.2863209843636
+        ]
+      ]
+    },
+    {
+      "title": "Case Report: Tertiary \nHyperparathyroidism",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.99720001220703,
+          59.5064697265625
+        ],
+        [
+          182.72119140625,
+          59.5064697265625
+        ],
+        [
+          182.72119140625,
+          86.16070284694433
+        ],
+        [
+          59.99720001220703,
+          86.16070284694433
+        ]
+      ]
+    },
+    {
+      "title": "HYPOPARATHYROIDISM",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          315.87497091293335,
+          67.06494140625
+        ],
+        [
+          448.18236351013184,
+          65.99462293088436
+        ],
+        [
+          448.18236351013184,
+          78.06494140625
+        ],
+        [
+          315.87497091293335,
+          78.41647307574749
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.77864146232605,
+          213.10638427734375
+        ],
+        [
+          391.7448127269745,
+          211.79431611299515
+        ],
+        [
+          390.5495002269745,
+          225.10638427734375
+        ],
+        [
+          315.58332896232605,
+          226.28338658809662
+        ]
+      ]
+    },
+    {
+      "title": "Disorders of the Parathyroid Glands",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.99908447265625,
+          226.27978515625
+        ],
+        [
+          470.5220642089844,
+          225.49626633524895
+        ],
+        [
+          470.5220642089844,
+          235.27978515625
+        ],
+        [
+          317.24691009521484,
+          236.6960977613926
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          174
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          211
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          107
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter91"
+}

@@ -1,0 +1,954 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Connective Tissues and Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.39073652029037,
+          55.4879150390625
+        ],
+        [
+          410.2720031738281,
+          55.4879150390625
+        ],
+        [
+          410.2720031738281,
+          79.4879150390625
+        ],
+        [
+          120.39073652029037,
+          79.4879150390625
+        ]
+      ]
+    },
+    {
+      "title": "THE PROPERTIES OF CONNECTIVE \nTISSUES",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.40072602033615,
+          473.07590997219086
+        ],
+        [
+          247.03297424316406,
+          471.54661309719086
+        ],
+        [
+          247.03297424316406,
+          496.0870361328125
+        ],
+        [
+          58.20541352033615,
+          496.66398882865906
+        ]
+      ]
+    },
+    {
+      "title": "The collagens\nSTRUCTURE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          219.86130112409592
+        ],
+        [
+          392.37518978118896,
+          218.33200424909592
+        ],
+        [
+          391.17987728118896,
+          243.76513671875
+        ],
+        [
+          317.79313230514526,
+          243.76513671875
+        ]
+      ]
+    },
+    {
+      "title": "BIOSYNTHESIS7",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.729598730802536,
+          166.17486572265625
+        ],
+        [
+          138.80020141601562,
+          166.17486572265625
+        ],
+        [
+          138.80020141601562,
+          177.17486572265625
+        ],
+        [
+          53.729598730802536,
+          177.17486572265625
+        ]
+      ]
+    },
+    {
+      "title": "DEGRADATION OF CONNECTIVE TISSUE \nCOMPONENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0,
+          385.1748046875
+        ],
+        [
+          273.4280090332031,
+          385.1748046875
+        ],
+        [
+          273.4280090332031,
+          408.21347683668137
+        ],
+        [
+          53.09674572944641,
+          408.21347683668137
+        ]
+      ]
+    },
+    {
+      "title": "Elastin",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.0,
+          222.07470703125
+        ],
+        [
+          347.4530029296875,
+          222.07470703125
+        ],
+        [
+          347.4530029296875,
+          233.51546081900597
+        ],
+        [
+          312.0,
+          233.51546081900597
+        ]
+      ]
+    },
+    {
+      "title": "The proteoglycans",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.68656796216965,
+          68.06951904296875
+        ],
+        [
+          157.18499755859375,
+          67.22400974482298
+        ],
+        [
+          157.18499755859375,
+          79.06951904296875
+        ],
+        [
+          59.68656796216965,
+          79.45574786514044
+        ]
+      ]
+    },
+    {
+      "title": "Table 12-1. Properties and Tissue Distribution \nof Glycosaminoglycans",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.99452477693558,
+          493.0895690917969
+        ],
+        [
+          255.010009765625,
+          492.95550924539566
+        ],
+        [
+          255.010009765625,
+          514.0895690917969
+        ],
+        [
+          58.99452477693558,
+          515.4353519082069
+        ]
+      ]
+    },
+    {
+      "title": "The structural glycoproteins",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.6156301498413,
+          563.0747222900391
+        ],
+        [
+          466.4290452003479,
+          562.5935881733894
+        ],
+        [
+          465.9169921875,
+          574.0747222900391
+        ],
+        [
+          316.4203176498413,
+          574.7295818924904
+        ]
+      ]
+    },
+    {
+      "title": "FIBRONECTIN",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.7015998363495,
+          674.6538391113281
+        ],
+        [
+          378.3492000102997,
+          673.7163650393486
+        ],
+        [
+          378.3492000102997,
+          683.6538391113281
+        ],
+        [
+          316.7015998363495,
+          684.7738983035088
+        ]
+      ]
+    },
+    {
+      "title": "LAMININ",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.998163759708405,
+          663.754035949707
+        ],
+        [
+          93.4182425737381,
+          662.3908501267433
+        ],
+        [
+          93.4182425737381,
+          672.754035949707
+        ],
+        [
+          53.998163759708405,
+          673.4021796584129
+        ]
+      ]
+    },
+    {
+      "title": "ENTACTIN/NIDOGEN",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.0,
+          366.7540588378906
+        ],
+        [
+          404.00701904296875,
+          365.5055234134197
+        ],
+        [
+          404.00701904296875,
+          375.7540588378906
+        ],
+        [
+          311.123122215271,
+          376.1380290091038
+        ]
+      ]
+    },
+    {
+      "title": "THROMBOSPONDIN",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.9091875553131,
+          608.7540283203125
+        ],
+        [
+          401.211448431015,
+          607.2825382947922
+        ],
+        [
+          401.211448431015,
+          617.7540283203125
+        ],
+        [
+          311.9091875553131,
+          618.1896060705185
+        ]
+      ]
+    },
+    {
+      "title": "INTEGRINS AND CELL ATTACHMENT PROTEINS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.247199058532715,
+          157.7540283203125
+        ],
+        [
+          268.52996826171875,
+          157.7540283203125
+        ],
+        [
+          268.52996826171875,
+          167.0901980996132
+        ],
+        [
+          59.247199058532715,
+          167.0901980996132
+        ]
+      ]
+    },
+    {
+      "title": "AGING AND THE PROPERTIES \nOF CONNECTIVE TISSUES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.55343222618103,
+          363.1749267578125
+        ],
+        [
+          221.9639892578125,
+          363.1749267578125
+        ],
+        [
+          221.9639892578125,
+          386.33757296204567
+        ],
+        [
+          59.55343222618103,
+          386.33757296204567
+        ]
+      ]
+    },
+    {
+      "title": "Cellular senescence",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.0,
+          59.56494140625
+        ],
+        [
+          420.7070007324219,
+          59.56494140625
+        ],
+        [
+          420.7070007324219,
+          70.56494140625
+        ],
+        [
+          318.0,
+          70.56494140625
+        ]
+      ]
+    },
+    {
+      "title": "Inflammatory and growth factors",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.4390399456024,
+          409.11492919921875
+        ],
+        [
+          492.18499755859375,
+          409.11492919921875
+        ],
+        [
+          492.18499755859375,
+          420.31880807876587
+        ],
+        [
+          317.4390399456024,
+          420.31880807876587
+        ]
+      ]
+    },
+    {
+      "title": "Mechanisms of cutaneous aging",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.514574348926544,
+          156.07470703125
+        ],
+        [
+          223.2899932861328,
+          156.07470703125
+        ],
+        [
+          223.2899932861328,
+          167.34019996225834
+        ],
+        [
+          53.514574348926544,
+          167.34019996225834
+        ]
+      ]
+    },
+    {
+      "title": "Diabetes mellitus",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0,
+          475.07470703125
+        ],
+        [
+          403.47739148139954,
+          474.5513491630554
+        ],
+        [
+          403.0799865722656,
+          486.07470703125
+        ],
+        [
+          310.89538979530334,
+          486.43989622592926
+        ]
+      ]
+    },
+    {
+      "title": "Nonenzymatic glycosylation and collagen \ncross-linking",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.27203148603439,
+          243.17486572265625
+        ],
+        [
+          281.2759704589844,
+          243.17486572265625
+        ],
+        [
+          281.2759704589844,
+          266.17584228515625
+        ],
+        [
+          59.27203148603439,
+          266.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "The arthritides\u2014osteoarthritis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.093626499176025,
+          673.0747146606445
+        ],
+        [
+          218.92799377441406,
+          673.0747146606445
+        ],
+        [
+          218.92799377441406,
+          684.0747146606445
+        ],
+        [
+          59.093626499176025,
+          684.0747146606445
+        ]
+      ]
+    },
+    {
+      "title": "Osteoporosis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          316.8651673793793,
+          288.07470703125
+        ],
+        [
+          387.67401123046875,
+          288.07470703125
+        ],
+        [
+          387.67401123046875,
+          299.07470703125
+        ],
+        [
+          316.8651673793793,
+          299.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Arterial aging",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.53128129243851,
+          101.07501220703125
+        ],
+        [
+          125.5219955444336,
+          101.07501220703125
+        ],
+        [
+          125.5219955444336,
+          112.70871998369694
+        ],
+        [
+          53.53128129243851,
+          112.70871998369694
+        ]
+      ]
+    },
+    {
+      "title": "Werner's syndrome",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.745617151260376,
+          639.9750213623047
+        ],
+        [
+          156.953782081604,
+          639.9750213623047
+        ],
+        [
+          156.953782081604,
+          651.0663152933121
+        ],
+        [
+          53.745617151260376,
+          651.0663152933121
+        ]
+      ]
+    },
+    {
+      "title": "Alzheimer's disease",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.0,
+          233.07501220703125
+        ],
+        [
+          415.9169921875,
+          233.07501220703125
+        ],
+        [
+          415.9169921875,
+          244.07501220703125
+        ],
+        [
+          312.0,
+          244.07501220703125
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          310.5974006652832,
+          694.0750122070312
+        ],
+        [
+          371.27899169921875,
+          693.5750559568405
+        ],
+        [
+          371.27899169921875,
+          705.0750122070312
+        ],
+        [
+          310.5974006652832,
+          705.7553865909576
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.591697692871094,
+          59.19787886738777
+        ],
+        [
+          149.32846677303314,
+          57.66858199238777
+        ],
+        [
+          149.32846677303314,
+          73.32954713702202
+        ],
+        [
+          59.591697692871094,
+          74.85884401202202
+        ]
+      ]
+    },
+    {
+      "title": "Connective Tissues and Aging",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          60.0,
+          72.60687255859375
+        ],
+        [
+          188.51998901367188,
+          72.60687255859375
+        ],
+        [
+          188.51998901367188,
+          82.7894580066204
+        ],
+        [
+          59.723903238773346,
+          84.3187548816204
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          307
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          75
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter12"
+}

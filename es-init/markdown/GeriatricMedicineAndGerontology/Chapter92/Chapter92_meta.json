@@ -1,0 +1,1860 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Diabetes Mellitus",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          113.64103102684021,
+          55.4879150390625
+        ],
+        [
+          283.3481140136719,
+          55.4879150390625
+        ],
+        [
+          283.3481140136719,
+          79.71492630243301
+        ],
+        [
+          113.64103102684021,
+          79.71492630243301
+        ]
+      ]
+    },
+    {
+      "title": "DIABETES DEFINITION, CLASSIFICATION, \nAND DIAGNOSIS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.56740367412567,
+          406.169451713562
+        ],
+        [
+          275.8919982910156,
+          406.169451713562
+        ],
+        [
+          275.8919982910156,
+          430.1578369140625
+        ],
+        [
+          53.56740367412567,
+          430.1578369140625
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-1. Aims in Managing the Elderly Diabetic \nPerson",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.356569707393646,
+          650.7960934638977
+        ],
+        [
+          266.7900085449219,
+          650.7960934638977
+        ],
+        [
+          266.7900085449219,
+          673.2873237133026
+        ],
+        [
+          53.356569707393646,
+          673.2873237133026
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-2. Classification of Diabetes in Elderly People",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.70413541793823,
+          611.7193100452423
+        ],
+        [
+          541.4710083007812,
+          611.7193100452423
+        ],
+        [
+          541.4710083007812,
+          622.0013580322266
+        ],
+        [
+          310.70413541793823,
+          622.0013580322266
+        ]
+      ]
+    },
+    {
+      "title": "IMPAIRMENT OF GLUCOSE TOLERANCE \nWITH AGING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.652068853378296,
+          407.1037902832031
+        ],
+        [
+          276.9859924316406,
+          406.1750521659851
+        ],
+        [
+          276.9859924316406,
+          430.10479736328125
+        ],
+        [
+          58.456756353378296,
+          430.46160078048706
+        ]
+      ]
+    },
+    {
+      "title": "EPIDEMIOLOGY OF DIABETES MELLITUS \nIN THE ELDERLY POPULATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.8662314414978,
+          682.1038131713867
+        ],
+        [
+          279.4280090332031,
+          680.955556511879
+        ],
+        [
+          279.4280090332031,
+          705.1048126220703
+        ],
+        [
+          58.6709189414978,
+          705.6087480783463
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-4. Mechanisms of Decreased Glucose \nTolerance in Old Age",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.04211986064911,
+          331.82027220726013
+        ],
+        [
+          254.55001831054688,
+          331.82027220726013
+        ],
+        [
+          254.55001831054688,
+          352.8639831542969
+        ],
+        [
+          53.04211986064911,
+          352.8639831542969
+        ]
+      ]
+    },
+    {
+      "title": "IMPACT OF DIABETES MELLITUS IN THE \nELDERLY POPULATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.0,
+          64.03790652751923
+        ],
+        [
+          528.9749755859375,
+          62.508609652519226
+        ],
+        [
+          528.9749755859375,
+          93.19312678277493
+        ],
+        [
+          312.0,
+          94.72242365777493
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.25450706481934,
+          90.20220947265625
+        ],
+        [
+          362.13800048828125,
+          90.20220947265625
+        ],
+        [
+          362.13800048828125,
+          101.70770461857319
+        ],
+        [
+          310.25450706481934,
+          103.23700149357319
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-5. Prevalence of Diabetes in Different Screened Elderly Populations",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.807876110076904,
+          496.1139831542969
+        ],
+        [
+          373.4104743003845,
+          495.40556716918945
+        ],
+        [
+          373.4104743003845,
+          506.16748046875
+        ],
+        [
+          52.807876110076904,
+          507.3543190956116
+        ]
+      ]
+    },
+    {
+      "title": "Visual loss",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.37412440776825,
+          321.07470703125
+        ],
+        [
+          116.65019595623016,
+          321.07470703125
+        ],
+        [
+          116.23199462890625,
+          332.07470703125
+        ],
+        [
+          58.17881190776825,
+          333.0611457824707
+        ]
+      ]
+    },
+    {
+      "title": "Foot disease",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.37170147895813,
+          695.0747146606445
+        ],
+        [
+          385.2946922779083,
+          694.8758543729782
+        ],
+        [
+          385.2946922779083,
+          706.0747146606445
+        ],
+        [
+          317.37170147895813,
+          706.8084583282471
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-6. Reasons for Referral to an Ophthalmologist",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          52.97534680366516,
+          484.8700427412987
+        ],
+        [
+          282.3500061035156,
+          484.8700427412987
+        ],
+        [
+          282.3500061035156,
+          495.0286560058594
+        ],
+        [
+          52.97534680366516,
+          495.0286560058594
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-8. Risk Factors for Foot Ulceration \nin the Elderly Population",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.57622194290161,
+          60.00006103515625
+        ],
+        [
+          244.45001220703125,
+          58.929401345551014
+        ],
+        [
+          244.45001220703125,
+          81.00006103515625
+        ],
+        [
+          58.57622194290161,
+          81.52181310206652
+        ]
+      ]
+    },
+    {
+      "title": "General Principles of Foot Care Education",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.009700775146484,
+          341.36094626784325
+        ],
+        [
+          296.9218007326126,
+          339.83164939284325
+        ],
+        [
+          296.0616760253906,
+          355.1610412597656
+        ],
+        [
+          59.47451198101044,
+          356.26566365361214
+        ]
+      ]
+    },
+    {
+      "title": "Mortality",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.0,
+          277.1360168457031
+        ],
+        [
+          367.88131499290466,
+          275.8209517300129
+        ],
+        [
+          366.68600249290466,
+          288.1360168457031
+        ],
+        [
+          317.7475712299347,
+          289.2584905922413
+        ]
+      ]
+    },
+    {
+      "title": "Dementia",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.887318611145,
+          695.0359115600586
+        ],
+        [
+          368.73199462890625,
+          693.6216797232628
+        ],
+        [
+          368.73199462890625,
+          706.0359115600586
+        ],
+        [
+          316.692006111145,
+          707.1090626120567
+        ]
+      ]
+    },
+    {
+      "title": "RESIDENTIAL CARE AND THE \nHOUSEBOUND",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          310.6507315635681,
+          110.09979248046875
+        ],
+        [
+          470.9060363769531,
+          110.09979248046875
+        ],
+        [
+          470.9060363769531,
+          133.10076904296875
+        ],
+        [
+          310.6507315635681,
+          133.10076904296875
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-9. Care Received by Diabetic Subjects \nin Care Home or Free Living151",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.426069140434265,
+          59.927991181612015
+        ],
+        [
+          261.69000244140625,
+          58.398694306612015
+        ],
+        [
+          261.69000244140625,
+          80.99993896484375
+        ],
+        [
+          59.426069140434265,
+          82.18488916754723
+        ]
+      ]
+    },
+    {
+      "title": "Improving Care Within Residential \nNursing Home Settings",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.87849807739258,
+          432.59808003902435
+        ],
+        [
+          257.9384765625,
+          431.06878316402435
+        ],
+        [
+          257.9384765625,
+          459.1660461425781
+        ],
+        [
+          58.93708097934723,
+          460.3097720146179
+        ]
+      ]
+    },
+    {
+      "title": "GLUCOSE CONTROL IN DIABETES \nMELLITUS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          60.0,
+          669.1968078613281
+        ],
+        [
+          243.9969940185547,
+          667.752769947052
+        ],
+        [
+          243.9969940185547,
+          695.7433644533157
+        ],
+        [
+          59.07427489757538,
+          697.2726613283157
+        ]
+      ]
+    },
+    {
+      "title": "Overview",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          60.0,
+          695.200813293457
+        ],
+        [
+          112.00152540206909,
+          695.200813293457
+        ],
+        [
+          110.80621290206909,
+          706.9427758455276
+        ],
+        [
+          59.33825281262398,
+          708.4720727205276
+        ]
+      ]
+    },
+    {
+      "title": "Pathologic basis for the treatment \nof type 2 diabetes",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          318.0,
+          682.6037229895592
+        ],
+        [
+          500.1490173339844,
+          681.0744261145592
+        ],
+        [
+          500.1490173339844,
+          706.1758117675781
+        ],
+        [
+          317.7163095474243,
+          707.2874370217323
+        ]
+      ]
+    },
+    {
+      "title": "Treatments to Improve Glucose Control",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.009700775146484,
+          58.46083599328995
+        ],
+        [
+          279.1642166376114,
+          56.93153911828995
+        ],
+        [
+          279.1642166376114,
+          71.5064697265625
+        ],
+        [
+          54.009700775146484,
+          71.51210698485374
+        ]
+      ]
+    },
+    {
+      "title": "Initial Care Plan for the Older Adult With Diabetes",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          60.5,
+          339.7013922035694
+        ],
+        [
+          274.9707008600235,
+          338.1720953285694
+        ],
+        [
+          273.7753883600235,
+          349.1064653098583
+        ],
+        [
+          59.6621915102005,
+          350.6357621848583
+        ]
+      ]
+    },
+    {
+      "title": "Treatments for glucose control",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          662.1546173095703
+        ],
+        [
+          217.43264400959015,
+          659.186271250248
+        ],
+        [
+          216.23733150959015,
+          673.1546173095703
+        ],
+        [
+          52.91149199008942,
+          674.5008950829506
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-10. Risk Factors for Hypoglycemia174,175",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.62932801246643,
+          60.00018310546875
+        ],
+        [
+          511.459109544754,
+          57.47999842464924
+        ],
+        [
+          510.263797044754,
+          70.0537109375
+        ],
+        [
+          310.43401551246643,
+          71.47025527060032
+        ]
+      ]
+    },
+    {
+      "title": "DIETARY TREATMENT",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          312.0,
+          210.47449949383736
+        ],
+        [
+          408.8732235431671,
+          208.94520261883736
+        ],
+        [
+          408.49798583984375,
+          221.76080322265625
+        ],
+        [
+          312.0,
+          222.54002085328102
+        ]
+      ]
+    },
+    {
+      "title": "SULFONYLUREAS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.8805522918701,
+          428.53616523742676
+        ],
+        [
+          408.9980149269104,
+          427.00686836242676
+        ],
+        [
+          408.9980149269104,
+          441.18182373046875
+        ],
+        [
+          311.8805522918701,
+          441.8473205566406
+        ]
+      ]
+    },
+    {
+      "title": "METFORMIN",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.6233730316162,
+          673.5141887068748
+        ],
+        [
+          369.2883095741272,
+          671.9848918318748
+        ],
+        [
+          368.0929970741272,
+          683.7609405517578
+        ],
+        [
+          309.4280605316162,
+          684.7794987559319
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-11. Contraindications to Metformin",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.66919529438019,
+          60.11260986328125
+        ],
+        [
+          247.35470688343048,
+          58.903213396668434
+        ],
+        [
+          247.35470688343048,
+          70.1661376953125
+        ],
+        [
+          59.66919529438019,
+          70.24115431308746
+        ]
+      ]
+    },
+    {
+      "title": "ACARBOSE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          60.0,
+          410.744140625
+        ],
+        [
+          110.56507480144501,
+          409.2506806254387
+        ],
+        [
+          109.50899505615234,
+          419.744140625
+        ],
+        [
+          59.142051100730896,
+          421.01312416791916
+        ]
+      ]
+    },
+    {
+      "title": "THIAZOLIDINEDIONES (TZDS)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          60.0,
+          575.744140625
+        ],
+        [
+          189.74126815795898,
+          574.4293976426125
+        ],
+        [
+          189.00599670410156,
+          584.744140625
+        ],
+        [
+          59.11359366774559,
+          585.9267531037331
+        ]
+      ]
+    },
+    {
+      "title": "Prandial glucose regulators, the meglitinides, \nand amino acid derivatives",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          317.92069602012634,
+          265.17498779296875
+        ],
+        [
+          558.2289428710938,
+          264.6869956254959
+        ],
+        [
+          558.2289428710938,
+          288.176025390625
+        ],
+        [
+          316.72538352012634,
+          288.7496661543846
+        ]
+      ]
+    },
+    {
+      "title": "Table 92-12. Indications for Insulin",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          54.0,
+          59.98681640625
+        ],
+        [
+          204.1053364276886,
+          59.98681640625
+        ],
+        [
+          204.1053364276886,
+          70.04034423828125
+        ],
+        [
+          54.0,
+          70.04034423828125
+        ]
+      ]
+    },
+    {
+      "title": "INSULIN",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.67870730161667,
+          166.2286376953125
+        ],
+        [
+          99.24299621582031,
+          166.2286376953125
+        ],
+        [
+          99.24299621582031,
+          177.2286376953125
+        ],
+        [
+          53.67870730161667,
+          177.2286376953125
+        ]
+      ]
+    },
+    {
+      "title": "Choice of treatment strategy",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.93115359544754,
+          695.1286163330078
+        ],
+        [
+          204.98599243164062,
+          695.1286163330078
+        ],
+        [
+          204.98599243164062,
+          706.1286163330078
+        ],
+        [
+          53.93115359544754,
+          706.1286163330078
+        ]
+      ]
+    },
+    {
+      "title": "HOME MONITORING OF DIABETIC \nCONTROL",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.484123945236206,
+          66.0648193359375
+        ],
+        [
+          243.97499084472656,
+          65.07911230623722
+        ],
+        [
+          243.97499084472656,
+          89.06585693359375
+        ],
+        [
+          59.484123945236206,
+          89.219197422266
+        ]
+      ]
+    },
+    {
+      "title": "HYPOGLYCEMIA IN THE ELDERLY \nPATIENT",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.855926394462585,
+          253.0648193359375
+        ],
+        [
+          241.53297424316406,
+          251.79820775985718
+        ],
+        [
+          241.53297424316406,
+          276.0657958984375
+        ],
+        [
+          58.660613894462585,
+          277.4819759130478
+        ]
+      ]
+    },
+    {
+      "title": "HYPERGLYCEMIC COMA",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          60.0,
+          547.8496037721634
+        ],
+        [
+          190.5302699804306,
+          546.3203068971634
+        ],
+        [
+          190.18499755859375,
+          559.0648193359375
+        ],
+        [
+          58.9585437476635,
+          560.0398285388947
+        ]
+      ]
+    },
+    {
+      "title": "Immediate Management of \nHyerglycemic Comas",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.997703552246094,
+          571.6361541748047
+        ],
+        [
+          217.6186637878418,
+          570.2484732270241
+        ],
+        [
+          217.35369873046875,
+          598.0361633300781
+        ],
+        [
+          59.33422654867172,
+          598.0361633300781
+        ]
+      ]
+    },
+    {
+      "title": "Management of hyperglycemic coma",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          318.0,
+          464.07470703125
+        ],
+        [
+          512.3590087890625,
+          463.1830374598503
+        ],
+        [
+          512.3590087890625,
+          475.07470703125
+        ],
+        [
+          318.0,
+          476.02832847833633
+        ]
+      ]
+    },
+    {
+      "title": "BLOOD PRESSURE CONTROL IN \nDIABETES MELLITUS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.72207057476044,
+          484.1748046875
+        ],
+        [
+          227.61297607421875,
+          484.1748046875
+        ],
+        [
+          227.61297607421875,
+          507.1758117675781
+        ],
+        [
+          53.72207057476044,
+          507.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "LIPID CONTROL IN DIABETES MELLITUS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          311.4769592285156,
+          518.1748046875
+        ],
+        [
+          524.7179565429688,
+          517.0167329907417
+        ],
+        [
+          524.7179565429688,
+          529.1748046875
+        ],
+        [
+          310.2816467285156,
+          530.3813726305962
+        ]
+      ]
+    },
+    {
+      "title": "VASCULAR PROPHYLAXIS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.68898007273674,
+          507.1748046875
+        ],
+        [
+          200.5800018310547,
+          506.18909829854965
+        ],
+        [
+          200.5800018310547,
+          518.1748046875
+        ],
+        [
+          58.49366757273674,
+          519.1368775963783
+        ]
+      ]
+    },
+    {
+      "title": "CARE ISSUES AND FUTURE INITIATIVES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          317.76540899276733,
+          352.8768998980522
+        ],
+        [
+          533.7775797843933,
+          351.3476030230522
+        ],
+        [
+          532.5822672843933,
+          364.1748046875
+        ],
+        [
+          316.57009649276733,
+          365.5342957377434
+        ]
+      ]
+    },
+    {
+      "title": "Models of care",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          318.0,
+          475.07470703125
+        ],
+        [
+          395.010986328125,
+          474.0617296099663
+        ],
+        [
+          395.010986328125,
+          486.07470703125
+        ],
+        [
+          317.1444067955017,
+          487.1161041855812
+        ]
+      ]
+    },
+    {
+      "title": "Diabetes specialist nurses for elderly people",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          53.73925173282623,
+          156.07470703125
+        ],
+        [
+          284.4609680175781,
+          156.07470703125
+        ],
+        [
+          284.4609680175781,
+          167.2981032282114
+        ],
+        [
+          53.73925173282623,
+          167.2981032282114
+        ]
+      ]
+    },
+    {
+      "title": "Roles of the Diabetic Specialist Nurse \nfor Elderly People",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          53.56008982658386,
+          266.7586729824543
+        ],
+        [
+          269.5091552734375,
+          266.7586729824543
+        ],
+        [
+          269.5091552734375,
+          295.35448971390724
+        ],
+        [
+          53.56008982658386,
+          295.35448971390724
+        ]
+      ]
+    },
+    {
+      "title": "Roles of the Geriatrician in Elderly \nDiabetic Care",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          53.997703552246094,
+          552.3781585693359
+        ],
+        [
+          250.73770141601562,
+          551.2891216278076
+        ],
+        [
+          250.73770141601562,
+          578.7781677246094
+        ],
+        [
+          53.997703552246094,
+          579.5194154977798
+        ]
+      ]
+    },
+    {
+      "title": "Special considerations",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          312.0,
+          123.07470703125
+        ],
+        [
+          431.4274513721466,
+          123.07470703125
+        ],
+        [
+          430.2321388721466,
+          134.07470703125
+        ],
+        [
+          311.47604727745056,
+          135.4455417394638
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS\nDiabetes Mellitus",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          312.0,
+          461.666434943676
+        ],
+        [
+          386.19734144210815,
+          460.137138068676
+        ],
+        [
+          385.5119934082031,
+          484.26947021484375
+        ],
+        [
+          311.0957636833191,
+          484.26947021484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          292
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "TableCell",
+          43
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          481
+        ],
+        [
+          "TableCell",
+          177
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          190
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter92"
+}

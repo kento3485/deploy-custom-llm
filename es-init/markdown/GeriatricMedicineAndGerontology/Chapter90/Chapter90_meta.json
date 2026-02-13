@@ -1,0 +1,2005 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Disorders of the Thyroid",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.68169456720352,
+          55.4879150390625
+        ],
+        [
+          351.7880859375,
+          55.4879150390625
+        ],
+        [
+          351.7880859375,
+          80.21688435226679
+        ],
+        [
+          119.68169456720352,
+          80.21688435226679
+        ]
+      ]
+    },
+    {
+      "title": "MORPHOLOGY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.270909786224365,
+          296.95743253827095
+        ],
+        [
+          140.06900024414062,
+          296.95743253827095
+        ],
+        [
+          140.06900024414062,
+          309.2984924316406
+        ],
+        [
+          59.270909786224365,
+          309.2984924316406
+        ]
+      ]
+    },
+    {
+      "title": "Hypothalamic\u2013pituitary\u2013thyroid regulation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.493453204631805,
+          518.9787581562996
+        ],
+        [
+          284.46208691596985,
+          518.9787581562996
+        ],
+        [
+          284.46208691596985,
+          530.1985168457031
+        ],
+        [
+          59.493453204631805,
+          530.1985168457031
+        ]
+      ]
+    },
+    {
+      "title": "Thyroid hormone secretion and metabolism",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          420.0586203932762
+        ],
+        [
+          549.9434080123901,
+          420.0586203932762
+        ],
+        [
+          548.7480955123901,
+          431.198486328125
+        ],
+        [
+          317.9599828720093,
+          431.198486328125
+        ]
+      ]
+    },
+    {
+      "title": "Thyroid hormone action",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.344563871622086,
+          299.07470703125
+        ],
+        [
+          180.510986328125,
+          299.07470703125
+        ],
+        [
+          180.510986328125,
+          310.07470703125
+        ],
+        [
+          53.344563871622086,
+          310.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Thyroid function in advanced aging",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.588287353515625,
+          562.9747161865234
+        ],
+        [
+          239.1959686279297,
+          562.9747161865234
+        ],
+        [
+          239.1959686279297,
+          573.9747161865234
+        ],
+        [
+          53.588287353515625,
+          573.9747161865234
+        ]
+      ]
+    },
+    {
+      "title": "ASSESSMENT OF THYROID FUNCTION\nCirculating thyroid hormones",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.6889970302582,
+          97.63503228127956
+        ],
+        [
+          518.6019897460938,
+          97.63503228127956
+        ],
+        [
+          518.6019897460938,
+          123.17779541015625
+        ],
+        [
+          310.6889970302582,
+          123.17779541015625
+        ]
+      ]
+    },
+    {
+      "title": "Low T4 states",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.0,
+          475.07470703125
+        ],
+        [
+          385.3590087890625,
+          475.07470703125
+        ],
+        [
+          385.3590087890625,
+          486.07470703125
+        ],
+        [
+          311.47991394996643,
+          486.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Low T3 states",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.62609648704529,
+          178.07470703125
+        ],
+        [
+          134.23589551448822,
+          177.94168138504028
+        ],
+        [
+          133.35899353027344,
+          189.07470703125
+        ],
+        [
+          58.43078398704529,
+          190.3400796353817
+        ]
+      ]
+    },
+    {
+      "title": "High T4 states",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.992126286029816,
+          441.9747314453125
+        ],
+        [
+          136.07870239019394,
+          441.32918536663055
+        ],
+        [
+          135.18499755859375,
+          452.9747314453125
+        ],
+        [
+          58.796813786029816,
+          454.154781460762
+        ]
+      ]
+    },
+    {
+      "title": "Thyrotropin-releasing hormone test",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.58535051345825,
+          584.8747253417969
+        ],
+        [
+          247.6379852294922,
+          583.8640131354332
+        ],
+        [
+          247.6379852294922,
+          595.8747253417969
+        ],
+        [
+          59.58535051345825,
+          596.5161818861961
+        ]
+      ]
+    },
+    {
+      "title": "Measures of iodine uptake",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          112.07470703125
+        ],
+        [
+          457.9178788661957,
+          111.75971165299416
+        ],
+        [
+          456.7539978027344,
+          123.07470703125
+        ],
+        [
+          318.0,
+          124.24505692720413
+        ]
+      ]
+    },
+    {
+      "title": "Other thyroid imaging procedures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          419.9747314453125
+        ],
+        [
+          496.4749755859375,
+          419.5631203651428
+        ],
+        [
+          496.4749755859375,
+          430.9747314453125
+        ],
+        [
+          317.1644697189331,
+          432.3836760520935
+        ]
+      ]
+    },
+    {
+      "title": "Antithyroid antibodies",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.9503161907196,
+          595.8747253417969
+        ],
+        [
+          435.9639892578125,
+          595.0054598450661
+        ],
+        [
+          435.9639892578125,
+          606.8747253417969
+        ],
+        [
+          317.9503161907196,
+          607.4838278889656
+        ]
+      ]
+    },
+    {
+      "title": "Thyroid-stimulating immunoglobulins",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.51269572973251,
+          298.96297788619995
+        ],
+        [
+          253.68724036216736,
+          298.96297788619995
+        ],
+        [
+          253.68724036216736,
+          310.0749206542969
+        ],
+        [
+          53.51269572973251,
+          310.0749206542969
+        ]
+      ]
+    },
+    {
+      "title": "Serum thyroglobulin",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.829010516405106,
+          507.9749450683594
+        ],
+        [
+          162.8715784549713,
+          507.9749450683594
+        ],
+        [
+          162.8715784549713,
+          518.9749450683594
+        ],
+        [
+          53.829010516405106,
+          518.9749450683594
+        ]
+      ]
+    },
+    {
+      "title": "SCREENING FOR THYROID \nDYSFUNCTION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.396160364151,
+          66.12262827157974
+        ],
+        [
+          456.2649841308594,
+          66.12262827157974
+        ],
+        [
+          456.2649841308594,
+          89.16595458984375
+        ],
+        [
+          311.396160364151,
+          89.16595458984375
+        ]
+      ]
+    },
+    {
+      "title": "HYPERTHYROIDISM",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.67007398605347,
+          342.1649169921875
+        ],
+        [
+          417.73199462890625,
+          342.1649169921875
+        ],
+        [
+          417.73199462890625,
+          353.1649169921875
+        ],
+        [
+          311.67007398605347,
+          353.1649169921875
+        ]
+      ]
+    },
+    {
+      "title": "Demography",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.0,
+          420.0649108886719
+        ],
+        [
+          379.8370056152344,
+          420.0649108886719
+        ],
+        [
+          379.8370056152344,
+          431.29121446609497
+        ],
+        [
+          312.0,
+          431.29121446609497
+        ]
+      ]
+    },
+    {
+      "title": "Etiology",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.5957682132721,
+          540.9649200439453
+        ],
+        [
+          355.3949890136719,
+          540.9649200439453
+        ],
+        [
+          355.3949890136719,
+          552.1228423118591
+        ],
+        [
+          311.5957682132721,
+          552.1228423118591
+        ]
+      ]
+    },
+    {
+      "title": "Table 90-1. Etiology of Hyperthyroidism \nand Hypothyroidism in the Elderly Population",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.36178570985794,
+          60.00006103515625
+        ],
+        [
+          242.2100067138672,
+          59.216144509613514
+        ],
+        [
+          242.2100067138672,
+          81.00006103515625
+        ],
+        [
+          59.36178570985794,
+          81.7009692415595
+        ]
+      ]
+    },
+    {
+      "title": "T3 TOXICOSIS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.85863944888115,
+          608.3495178222656
+        ],
+        [
+          122.88609910011292,
+          606.8202209472656
+        ],
+        [
+          122.01898956298828,
+          617.7392272949219
+        ],
+        [
+          58.66332694888115,
+          619.0282738208771
+        ]
+      ]
+    },
+    {
+      "title": "Clinical presentation of hyperthyroidism",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.57036089897156,
+          68.06494140625
+        ],
+        [
+          529.4696323871613,
+          67.08237080276012
+        ],
+        [
+          529.4696323871613,
+          79.06494140625
+        ],
+        [
+          317.57036089897156,
+          80.14869301021099
+        ]
+      ]
+    },
+    {
+      "title": "Diagnosis of hyperthyroidism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          311.86939001083374,
+          68.1252217143774
+        ],
+        [
+          466.6269836425781,
+          68.1252217143774
+        ],
+        [
+          466.6269836425781,
+          79.13623046875
+        ],
+        [
+          311.86939001083374,
+          79.13623046875
+        ]
+      ]
+    },
+    {
+      "title": "Management of hyperthyroidism",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0,
+          430.8298305273056
+        ],
+        [
+          484.9639892578125,
+          430.8298305273056
+        ],
+        [
+          484.9639892578125,
+          442.03619384765625
+        ],
+        [
+          312.0,
+          442.03619384765625
+        ]
+      ]
+    },
+    {
+      "title": "ATRIAL FIBRILLATION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          58.6439208984375
+        ],
+        [
+          413.7894058227539,
+          57.75199373066425
+        ],
+        [
+          413.7894058227539,
+          67.6439208984375
+        ],
+        [
+          318.0,
+          68.85420227050781
+        ]
+      ]
+    },
+    {
+      "title": "ACUTE HYPERTHYROIDISM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          397.0648193359375
+        ],
+        [
+          464.0690002441406,
+          396.69731318950653
+        ],
+        [
+          464.0690002441406,
+          408.0648193359375
+        ],
+        [
+          318.0,
+          409.1206101179123
+        ]
+      ]
+    },
+    {
+      "title": "SUBCLINICAL HYPERTHYROIDISM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          317.68942523002625,
+          694.064811706543
+        ],
+        [
+          499.5439758300781,
+          693.2974601984024
+        ],
+        [
+          499.5439758300781,
+          705.067464351654
+        ],
+        [
+          317.68942523002625,
+          706.596761226654
+        ]
+      ]
+    },
+    {
+      "title": "Demography",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.53246682882309,
+          112.07501220703125
+        ],
+        [
+          121.83699798583984,
+          112.07501220703125
+        ],
+        [
+          121.83699798583984,
+          123.38581918179989
+        ],
+        [
+          53.53246682882309,
+          123.38581918179989
+        ]
+      ]
+    },
+    {
+      "title": "Clinical presentation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.69357666373253,
+          463.97503662109375
+        ],
+        [
+          161.5909881591797,
+          463.97503662109375
+        ],
+        [
+          161.5909881591797,
+          474.97503662109375
+        ],
+        [
+          53.69357666373253,
+          474.97503662109375
+        ]
+      ]
+    },
+    {
+      "title": "Table 90-3. Findings and Potential Adverse Effects \nof Subclinical Hyperthyroidism",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          310.3056492805481,
+          60.00018310546875
+        ],
+        [
+          524.7899780273438,
+          60.00018310546875
+        ],
+        [
+          524.7899780273438,
+          81.88206803798676
+        ],
+        [
+          310.3056492805481,
+          81.88206803798676
+        ]
+      ]
+    },
+    {
+      "title": "Treatment",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.0,
+          475.1505126953125
+        ],
+        [
+          367.010986328125,
+          475.1505126953125
+        ],
+        [
+          367.010986328125,
+          486.1505126953125
+        ],
+        [
+          312.0,
+          486.1505126953125
+        ]
+      ]
+    },
+    {
+      "title": "HYPOTHYROIDISM",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.79913008213043,
+          177.175048828125
+        ],
+        [
+          160.70808398723602,
+          176.68612995743752
+        ],
+        [
+          160.23199462890625,
+          188.175048828125
+        ],
+        [
+          58.60381758213043,
+          189.36266067624092
+        ]
+      ]
+    },
+    {
+      "title": "Demography",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.789527237415314,
+          354.07501220703125
+        ],
+        [
+          127.83699798583984,
+          354.07501220703125
+        ],
+        [
+          127.83699798583984,
+          365.1632657647133
+        ],
+        [
+          58.594214737415314,
+          366.6925626397133
+        ]
+      ]
+    },
+    {
+      "title": "Etiology",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          60.0,
+          661.9750061035156
+        ],
+        [
+          103.91846537590027,
+          661.1705115437508
+        ],
+        [
+          103.3949966430664,
+          673.2686088681221
+        ],
+        [
+          59.02878677845001,
+          674.7979057431221
+        ]
+      ]
+    },
+    {
+      "title": "Clinical presentation of hypothyroidism",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.772884488105774,
+          134.07470703125
+        ],
+        [
+          261.20697021484375,
+          134.07470703125
+        ],
+        [
+          261.20697021484375,
+          145.07470703125
+        ],
+        [
+          53.772884488105774,
+          145.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "MYXEDEMA COMA",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.85174509882927,
+          355.7539367675781
+        ],
+        [
+          144.51469659805298,
+          354.5940919518471
+        ],
+        [
+          143.98800659179688,
+          364.7539367675781
+        ],
+        [
+          58.65643259882927,
+          366.06260508298874
+        ]
+      ]
+    },
+    {
+      "title": "Laboratory diagnosis of hypothyroidism",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          59.34873569011688,
+          607.0747222900391
+        ],
+        [
+          270.5209633111954,
+          606.9747467637062
+        ],
+        [
+          270.5209633111954,
+          618.0747222900391
+        ],
+        [
+          59.34873569011688,
+          619.0846983790398
+        ]
+      ]
+    },
+    {
+      "title": "Therapy for hypothyroidism",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          318.0,
+          255.07470703125
+        ],
+        [
+          465.694997549057,
+          254.80460062623024
+        ],
+        [
+          464.68499755859375,
+          266.07470703125
+        ],
+        [
+          318.0,
+          267.11103478074074
+        ]
+      ]
+    },
+    {
+      "title": "SUBCLINICAL HYPOTHYROIDISM",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          311.07354855537415,
+          100.17486572265625
+        ],
+        [
+          488.0439758300781,
+          100.17486572265625
+        ],
+        [
+          488.0439758300781,
+          111.376944065094
+        ],
+        [
+          311.07354855537415,
+          111.376944065094
+        ]
+      ]
+    },
+    {
+      "title": "Demography",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          312.0,
+          277.07470703125
+        ],
+        [
+          379.8370056152344,
+          277.07470703125
+        ],
+        [
+          379.8370056152344,
+          288.0747416317463
+        ],
+        [
+          312.0,
+          288.0747416317463
+        ]
+      ]
+    },
+    {
+      "title": "Clinical manifestations",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          59.2401542365551,
+          68.16485595703125
+        ],
+        [
+          179.4302934408188,
+          67.46673685312271
+        ],
+        [
+          179.4302934408188,
+          79.16485595703125
+        ],
+        [
+          59.2401542365551,
+          79.60450404882431
+        ]
+      ]
+    },
+    {
+      "title": "Table 90-4. Findings and Potential Adverse Effects \nof Subclinical Hypothyroidism",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          318.0,
+          59.99993896484375
+        ],
+        [
+          530.7899780273438,
+          59.99993896484375
+        ],
+        [
+          530.7899780273438,
+          80.99993896484375
+        ],
+        [
+          318.0,
+          81.65492885559797
+        ]
+      ]
+    },
+    {
+      "title": "Ventricular Function",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          327.0499827861786,
+          89.6490478515625
+        ],
+        [
+          402.366562128067,
+          89.3295321688056
+        ],
+        [
+          402.366562128067,
+          97.6490478515625
+        ],
+        [
+          327.0499827861786,
+          98.9003494977951
+        ]
+      ]
+    },
+    {
+      "title": "Mortality",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          329.8030536174774,
+          386.11309814453125
+        ],
+        [
+          359.7760009765625,
+          385.0623499453068
+        ],
+        [
+          359.7760009765625,
+          394.11309814453125
+        ],
+        [
+          328.6077411174774,
+          394.884260058403
+        ]
+      ]
+    },
+    {
+      "title": "Treatment",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          53.55961561203003,
+          343.07470703125
+        ],
+        [
+          109.01099395751953,
+          343.07470703125
+        ],
+        [
+          109.01099395751953,
+          354.07470703125
+        ],
+        [
+          53.55961561203003,
+          354.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "NODULAR THYROID DISEASE \nAND NEOPLASIA",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          311.8976240158081,
+          286.1748046875
+        ],
+        [
+          472.13800048828125,
+          286.1748046875
+        ],
+        [
+          472.13800048828125,
+          309.1758117675781
+        ],
+        [
+          310.7023115158081,
+          309.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Clinical presentations",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          311.89919257164,
+          453.07470703125
+        ],
+        [
+          425.09100341796875,
+          453.07470703125
+        ],
+        [
+          425.09100341796875,
+          464.18323159217834
+        ],
+        [
+          311.89919257164,
+          464.18323159217834
+        ]
+      ]
+    },
+    {
+      "title": "Table 90-5. Risk Factors for Malignancy in \na Thyroid Nodule",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          58.40017890930176,
+          60.02691650390625
+        ],
+        [
+          240.5600128173828,
+          59.395452328026295
+        ],
+        [
+          240.5600128173828,
+          81.02691650390625
+        ],
+        [
+          58.40017890930176,
+          81.83042136579752
+        ]
+      ]
+    },
+    {
+      "title": "Differential diagnosis",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          60.0,
+          497.0387878417969
+        ],
+        [
+          171.24298095703125,
+          496.15215414762497
+        ],
+        [
+          171.24298095703125,
+          508.0387878417969
+        ],
+        [
+          59.079313427209854,
+          509.0144332051277
+        ]
+      ]
+    },
+    {
+      "title": "Evaluation of a thyroid nodule",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          317.91956520080566,
+          684.1206207275391
+        ],
+        [
+          476.4484691619873,
+          683.6016302704811
+        ],
+        [
+          476.3119812011719,
+          695.1206207275391
+        ],
+        [
+          316.72425270080566,
+          696.4656828045845
+        ]
+      ]
+    },
+    {
+      "title": "Management of thyroid nodules",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          311.7671420574188,
+          431.0751953125
+        ],
+        [
+          480.6850891113281,
+          431.0751953125
+        ],
+        [
+          480.6850891113281,
+          442.0751953125
+        ],
+        [
+          311.7671420574188,
+          442.0751953125
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Management Algorithm",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          54.009700775146484,
+          57.784079656004906
+        ],
+        [
+          264.00970458984375,
+          57.784079656004906
+        ],
+        [
+          264.00970458984375,
+          72.666698589921
+        ],
+        [
+          54.009700775146484,
+          72.666698589921
+        ]
+      ]
+    },
+    {
+      "title": "Hyperthyroidism",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          64.38568764925003,
+          85.06689365208149
+        ],
+        [
+          138.50990295410156,
+          83.53759677708149
+        ],
+        [
+          138.50990295410156,
+          94.1439208984375
+        ],
+        [
+          64.38568764925003,
+          95.30167378485203
+        ]
+      ]
+    },
+    {
+      "title": "Subclinical Hyperthyroidism297",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          66.50090026855469,
+          182.36968994140625
+        ],
+        [
+          199.1988983154297,
+          181.4676212221384
+        ],
+        [
+          199.1988983154297,
+          192.94390869140625
+        ],
+        [
+          65.46644541621208,
+          194.14053498208523
+        ]
+      ]
+    },
+    {
+      "title": "Hypothyroidism",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          66.50090026855469,
+          304.05567929148674
+        ],
+        [
+          137.86080980300903,
+          302.52638241648674
+        ],
+        [
+          136.66549730300903,
+          313.5939636230469
+        ],
+        [
+          65.55233752727509,
+          314.37166598439217
+        ]
+      ]
+    },
+    {
+      "title": "Subclinical Hypothyroidism297",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          66.50090026855469,
+          439.16973876953125
+        ],
+        [
+          196.19288635253906,
+          437.9063755273819
+        ],
+        [
+          196.19288635253906,
+          449.74395751953125
+        ],
+        [
+          65.43635103106499,
+          450.8572350740433
+        ]
+      ]
+    },
+    {
+      "title": "Thyroid Nodules/Malignancy",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          66.50090026855469,
+          573.6521481871605
+        ],
+        [
+          191.33882403373718,
+          572.1228513121605
+        ],
+        [
+          191.01589965820312,
+          583.2138006091118
+        ],
+        [
+          65.63288560509682,
+          584.7430974841118
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          312.0096130371094,
+          57.70769181847572
+        ],
+        [
+          385.9118278026581,
+          56.17839494347572
+        ],
+        [
+          385.9118278026581,
+          74.50276024639606
+        ],
+        [
+          312.0096130371094,
+          76.03205712139606
+        ]
+      ]
+    },
+    {
+      "title": "Disorders of the Thyroid",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          312.0,
+          72.6796875
+        ],
+        [
+          415.5090026855469,
+          72.6796875
+        ],
+        [
+          415.5090026855469,
+          84.3104592114687
+        ],
+        [
+          312.0,
+          85.8397560864687
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "TableCell",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          237
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          264
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          189
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          218
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "ListItem",
+          41
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter90"
+}

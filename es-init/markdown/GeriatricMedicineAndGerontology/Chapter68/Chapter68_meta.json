@@ -1,0 +1,793 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Infections of the Central \nNervous System",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.49609375,
+          54.89966581016779
+        ],
+        [
+          348.48809814453125,
+          54.89966581016779
+        ],
+        [
+          348.48809814453125,
+          105.4879150390625
+        ],
+        [
+          112.49609375,
+          105.4879150390625
+        ]
+      ]
+    },
+    {
+      "title": "Table 68-1. Antibiotic of Choice for Bacterial Meningitis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.0,
+          318.0000915527344
+        ],
+        [
+          546.6629376411438,
+          317.8347057402134
+        ],
+        [
+          546.6629376411438,
+          328.0535888671875
+        ],
+        [
+          312.0,
+          328.1261904537678
+        ]
+      ]
+    },
+    {
+      "title": "FOCAL LESIONS, ENCEPHALITIS, \nAND CHRONIC MENINGITIS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.30859160423279,
+          250.17486572265625
+        ],
+        [
+          237.27598571777344,
+          250.17486572265625
+        ],
+        [
+          237.27598571777344,
+          273.17584228515625
+        ],
+        [
+          59.30859160423279,
+          273.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Brain abscess",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.22139996290207,
+          277.1798095703125
+        ],
+        [
+          131.65825670957565,
+          277.1798095703125
+        ],
+        [
+          131.65825670957565,
+          288.1798095703125
+        ],
+        [
+          59.22139996290207,
+          288.1798095703125
+        ]
+      ]
+    },
+    {
+      "title": "Subdural empyema",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.1530156135559,
+          387.07470703125
+        ],
+        [
+          420.68499755859375,
+          387.07470703125
+        ],
+        [
+          420.68499755859375,
+          398.127062022686
+        ],
+        [
+          317.1530156135559,
+          398.127062022686
+        ]
+      ]
+    },
+    {
+      "title": "Tuberculous meningitis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.95976400375366,
+          485.9747314453125
+        ],
+        [
+          441.4530029296875,
+          485.9747314453125
+        ],
+        [
+          441.4530029296875,
+          497.198738694191
+        ],
+        [
+          317.95976400375366,
+          497.198738694191
+        ]
+      ]
+    },
+    {
+      "title": "Cryptococcal meningitis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.696608901023865,
+          387.0749206542969
+        ],
+        [
+          180.52200317382812,
+          387.0749206542969
+        ],
+        [
+          180.52200317382812,
+          398.25787925720215
+        ],
+        [
+          53.696608901023865,
+          398.25787925720215
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Management Algorithm",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          312.0096130371094,
+          202.20501708984375
+        ],
+        [
+          522.1442942619324,
+          201.70106407999992
+        ],
+        [
+          522.0095825195312,
+          214.20501708984375
+        ],
+        [
+          311.69414949417114,
+          215.0733110010624
+        ]
+      ]
+    },
+    {
+      "title": "Pneumococcal Meningitis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          321.6782991886139,
+          227.942626953125
+        ],
+        [
+          436.1957881450653,
+          227.1967970430851
+        ],
+        [
+          435.0004756450653,
+          236.942626953125
+        ],
+        [
+          320.4829866886139,
+          237.00286254286766
+        ]
+      ]
+    },
+    {
+      "title": "Herpes Simplex Encephalitis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          324.5,
+          299.7926330566406
+        ],
+        [
+          446.5309753417969,
+          299.164897531271
+        ],
+        [
+          446.5309753417969,
+          308.7926330566406
+        ],
+        [
+          323.7685639858246,
+          309.81840482354164
+        ]
+      ]
+    },
+    {
+      "title": "Herpes simplex encephalitis",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          312.0,
+          398.0749206542969
+        ],
+        [
+          458.70697021484375,
+          397.6261948943138
+        ],
+        [
+          458.70697021484375,
+          409.0749206542969
+        ],
+        [
+          312.0,
+          410.1018560528755
+        ]
+      ]
+    },
+    {
+      "title": "Spirochetal infections\nNEUROSYPHILIS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.0,
+          165.27490234375
+        ],
+        [
+          175.38870871067047,
+          165.27490234375
+        ],
+        [
+          175.38870871067047,
+          188.85400390625
+        ],
+        [
+          60.0,
+          188.85400390625
+        ]
+      ]
+    },
+    {
+      "title": "Lyme disease",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.339187920093536,
+          68.0687255859375
+        ],
+        [
+          124.9169921875,
+          67.34945987910032
+        ],
+        [
+          124.9169921875,
+          79.0687255859375
+        ],
+        [
+          53.339187920093536,
+          80.03210442513227
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          54.09239959716797,
+          243.37030029296875
+        ],
+        [
+          127.44933807849884,
+          242.29713356494904
+        ],
+        [
+          126.25402557849884,
+          255.37030029296875
+        ],
+        [
+          53.32517123222351,
+          256.0278561115265
+        ]
+      ]
+    },
+    {
+      "title": "Infections of the Central\nNervous System",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          54.08270263671875,
+          256.543701171875
+        ],
+        [
+          155.5937042236328,
+          255.01858457922935
+        ],
+        [
+          155.5937042236328,
+          276.6010947525501
+        ],
+        [
+          54.08270263671875,
+          278.1303916275501
+        ]
+      ]
+    },
+    {
+      "title": "Focal Lesions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          60.434007614851,
+          435.7966613769531
+        ],
+        [
+          119.91326630115509,
+          434.96399116516113
+        ],
+        [
+          118.71795380115509,
+          444.7966613769531
+        ],
+        [
+          59.238695114851,
+          446.16536271572113
+        ]
+      ]
+    },
+    {
+      "title": "Tuberculous Meningitis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.9420166015625,
+          121.06494140625
+        ],
+        [
+          420.55943870544434,
+          120.0203673094511
+        ],
+        [
+          419.9490051269531,
+          130.06494140625
+        ],
+        [
+          318.9184799194336,
+          131.588358476758
+        ]
+      ]
+    },
+    {
+      "title": "Tuberculosis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.9420166015625,
+          131.27801513671875
+        ],
+        [
+          358.7820129394531,
+          131.27801513671875
+        ],
+        [
+          358.7820129394531,
+          141.3658033311367
+        ],
+        [
+          318.674587726593,
+          142.8951002061367
+        ]
+      ]
+    },
+    {
+      "title": "Cryptococcal Meningitis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          315.49724078178406,
+          204.96490478515625
+        ],
+        [
+          422.46002197265625,
+          204.50719410181046
+        ],
+        [
+          422.46002197265625,
+          214.59244215488434
+        ],
+        [
+          315.49724078178406,
+          216.12173902988434
+        ]
+      ]
+    },
+    {
+      "title": "Herpes Simplex Encephalitis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.9420166015625,
+          247.4151536822319
+        ],
+        [
+          442.645033121109,
+          245.8858568072319
+        ],
+        [
+          441.449720621109,
+          256.6649169921875
+        ],
+        [
+          318.9420166015625,
+          257.632199048996
+        ]
+      ]
+    },
+    {
+      "title": "Spirochetal Infections",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.6255977153778,
+          302.54936760663986
+        ],
+        [
+          414.9356553554535,
+          301.02007073163986
+        ],
+        [
+          413.7403428554535,
+          312.0649719238281
+        ],
+        [
+          317.4302852153778,
+          313.16586524248123
+        ]
+      ]
+    },
+    {
+      "title": "Neurosyphilis",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.9420166015625,
+          314.0325352549553
+        ],
+        [
+          363.5113184452057,
+          312.5032383799553
+        ],
+        [
+          362.926025390625,
+          322.585205078125
+        ],
+        [
+          318.3380048274994,
+          323.90449941158295
+        ]
+      ]
+    },
+    {
+      "title": "Lyme Disease",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.9420166015625,
+          398.6649475097656
+        ],
+        [
+          380.5551002025604,
+          397.28344720602036
+        ],
+        [
+          379.3597877025604,
+          407.9626699090004
+        ],
+        [
+          318.9420166015625,
+          409.4919667840004
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          214
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          248
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          266
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          11
+        ],
+        [
+          "ListGroup",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter68"
+}

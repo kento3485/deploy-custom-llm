@@ -1,0 +1,1689 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Disorders of the Autonomic \nNervous System",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.49609375,
+          55.327732890844345
+        ],
+        [
+          380.4320983886719,
+          55.327732890844345
+        ],
+        [
+          380.4320983886719,
+          105.47991943359375
+        ],
+        [
+          112.49609375,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "BASIC CONCEPTS \nOF AUTONOMIC PHYSIOLOGY\nAutonomic pathways",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.59815466403961,
+          337.4323922395706
+        ],
+        [
+          215.98599243164062,
+          337.4323922395706
+        ],
+        [
+          215.98599243164062,
+          376.3087728023529
+        ],
+        [
+          53.59815466403961,
+          376.3087728023529
+        ]
+      ]
+    },
+    {
+      "title": "Methods used to test autonomic function\nPOSTURE (ORTHOSTATIC) TEST",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.5195655822754,
+          396.1736708879471
+        ],
+        [
+          531.5679588317871,
+          394.6443740129471
+        ],
+        [
+          530.3726463317871,
+          419.8441467285156
+        ],
+        [
+          310.3242530822754,
+          421.0223182439804
+        ]
+      ]
+    },
+    {
+      "title": "NONINVASIVE AUTONOMIC TESTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          309.7152886390686,
+          630.2330056428909
+        ],
+        [
+          466.52099609375,
+          628.7037087678909
+        ],
+        [
+          466.52099609375,
+          640.3138200044632
+        ],
+        [
+          309.7152886390686,
+          641.8431168794632
+        ]
+      ]
+    },
+    {
+      "title": "SPECTRAL ANALYSIS OF HEART RATE \nAND BLOOD PRESSURE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.44883465766907,
+          356.7539367675781
+        ],
+        [
+          481.53302001953125,
+          355.860354244709
+        ],
+        [
+          481.53302001953125,
+          375.7529296875
+        ],
+        [
+          311.44883465766907,
+          376.36911767721176
+        ]
+      ]
+    },
+    {
+      "title": "Assessment of baroreflex function",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.17427945137024,
+          255.07470703125
+        ],
+        [
+          239.6849822998047,
+          255.07470703125
+        ],
+        [
+          239.6849822998047,
+          266.3776088654995
+        ],
+        [
+          59.17427945137024,
+          266.3776088654995
+        ]
+      ]
+    },
+    {
+      "title": "BIOCHEMICAL ASSESSMENT \nOF SYMPATHETIC FUNCTION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.443888664245605,
+          554.6201773881912
+        ],
+        [
+          189.5792691707611,
+          554.6201773881912
+        ],
+        [
+          189.5792691707611,
+          573.65283203125
+        ],
+        [
+          59.443888664245605,
+          573.65283203125
+        ]
+      ]
+    },
+    {
+      "title": "ESTIMATION OF NOREPINEPHRINE SPILLOVER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.90597426891327,
+          696.6538391113281
+        ],
+        [
+          264.0389709472656,
+          695.2288695573807
+        ],
+        [
+          264.0389709472656,
+          705.6538391113281
+        ],
+        [
+          59.90597426891327,
+          706.2495331764221
+        ]
+      ]
+    },
+    {
+      "title": "MUSCLE SYMPATHETIC NERVE ACTIVITY",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          318.0,
+          190.75396728515625
+        ],
+        [
+          499.0169677734375,
+          189.66542346775532
+        ],
+        [
+          499.0169677734375,
+          199.75396728515625
+        ],
+        [
+          317.5993974208832,
+          200.92190113663673
+        ]
+      ]
+    },
+    {
+      "title": "EFFECT OF AGING ON THE DIFFERENT \nCOMPONENTS OF AUTONOMIC \nCARDIOVASCULAR CONTROL\nBaroreflex function",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.4302031993866,
+          459.1748046875
+        ],
+        [
+          525.2179565429688,
+          459.1748046875
+        ],
+        [
+          525.2179565429688,
+          508.1798095703125
+        ],
+        [
+          316.4302031993866,
+          508.1798095703125
+        ]
+      ]
+    },
+    {
+      "title": "Cardiac parasympathetic function",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.4313795566559,
+          629.0747222900391
+        ],
+        [
+          494.64898681640625,
+          628.6189085841179
+        ],
+        [
+          494.64898681640625,
+          640.0747222900391
+        ],
+        [
+          317.4313795566559,
+          640.7157924771309
+        ]
+      ]
+    },
+    {
+      "title": "Systemic sympathetic function",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.0,
+          68.20355224609375
+        ],
+        [
+          216.57998657226562,
+          68.20355224609375
+        ],
+        [
+          216.57998657226562,
+          79.84480429440737
+        ],
+        [
+          54.0,
+          79.84480429440737
+        ]
+      ]
+    },
+    {
+      "title": "End-organ responsiveness",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          310.6560573577881,
+          68.20355224609375
+        ],
+        [
+          450.1269836425781,
+          68.20355224609375
+        ],
+        [
+          450.1269836425781,
+          79.40285275876522
+        ],
+        [
+          310.6560573577881,
+          79.40285275876522
+        ]
+      ]
+    },
+    {
+      "title": "Vascular changes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.589846432209015,
+          68.13983154296875
+        ],
+        [
+          152.31741374731064,
+          68.13983154296875
+        ],
+        [
+          152.31741374731064,
+          79.13983154296875
+        ],
+        [
+          59.589846432209015,
+          79.13983154296875
+        ]
+      ]
+    },
+    {
+      "title": "Neuroendocrine changes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.0,
+          354.0397033691406
+        ],
+        [
+          191.0143518447876,
+          354.0397033691406
+        ],
+        [
+          190.80099487304688,
+          365.45472264289856
+        ],
+        [
+          58.949442476034164,
+          365.45472264289856
+        ]
+      ]
+    },
+    {
+      "title": "EFFECT OF AGING ON AUTONOMIC \nRESPONSE TO STRESS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.82512980699539,
+          473.0397033691406
+        ],
+        [
+          253.15997314453125,
+          473.0397033691406
+        ],
+        [
+          253.15997314453125,
+          496.04071044921875
+        ],
+        [
+          58.62981730699539,
+          496.04071044921875
+        ]
+      ]
+    },
+    {
+      "title": "Orthostatic hypotension",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.49699613451958,
+          694.9397125244141
+        ],
+        [
+          188.48069643974304,
+          694.9397125244141
+        ],
+        [
+          188.48069643974304,
+          705.9397125244141
+        ],
+        [
+          59.49699613451958,
+          705.9397125244141
+        ]
+      ]
+    },
+    {
+      "title": "Postprandial and heat-induced hypotension",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.94944071769714,
+          640.0749206542969
+        ],
+        [
+          547.1824944019318,
+          640.0749206542969
+        ],
+        [
+          547.1824944019318,
+          651.0749206542969
+        ],
+        [
+          317.94944071769714,
+          652.2143613696098
+        ]
+      ]
+    },
+    {
+      "title": "DISORDERS OF THE AUTONOMIC \nNERVOUS SYSTEM IN ELDERLY PEOPLE\nNeurally mediated syncopal syndromes",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.436556935310364,
+          240.17486572265625
+        ],
+        [
+          268.9598125219345,
+          240.17486572265625
+        ],
+        [
+          268.9598125219345,
+          277.2375628352165
+        ],
+        [
+          53.436556935310364,
+          277.2375628352165
+        ]
+      ]
+    },
+    {
+      "title": "Baroreflex failure",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.15701031684875,
+          519.07470703125
+        ],
+        [
+          401.8699951171875,
+          519.07470703125
+        ],
+        [
+          401.8699951171875,
+          530.0747222900391
+        ],
+        [
+          311.15701031684875,
+          530.0747222900391
+        ]
+      ]
+    },
+    {
+      "title": "Chronic autonomic failure",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.74411663413048,
+          145.07470703125
+        ],
+        [
+          195.68499755859375,
+          145.07470703125
+        ],
+        [
+          195.68499755859375,
+          156.08799263834953
+        ],
+        [
+          59.74411663413048,
+          156.08799263834953
+        ]
+      ]
+    },
+    {
+      "title": "Primary autonomic failure",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.44446775317192,
+          375.9747314453125
+        ],
+        [
+          196.30099487304688,
+          375.9747314453125
+        ],
+        [
+          196.30099487304688,
+          386.9747314453125
+        ],
+        [
+          59.44446775317192,
+          386.9747314453125
+        ]
+      ]
+    },
+    {
+      "title": "PURE AUTONOMIC FAILURE (PAF)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          316.32583951950073,
+          91.64182479679585
+        ],
+        [
+          467.0297656059265,
+          91.64182479679585
+        ],
+        [
+          467.0297656059265,
+          101.3642218708992
+        ],
+        [
+          316.32583951950073,
+          101.3642218708992
+        ]
+      ]
+    },
+    {
+      "title": "MULTIPLE SYSTEM ATROPHY",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          318.0,
+          233.92347711324692
+        ],
+        [
+          448.01397705078125,
+          233.92347711324692
+        ],
+        [
+          448.01397705078125,
+          243.75396728515625
+        ],
+        [
+          318.0,
+          243.75396728515625
+        ]
+      ]
+    },
+    {
+      "title": "PARKINSON'S DISEASE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          317.8945412635803,
+          619.7539367675781
+        ],
+        [
+          421.0229797363281,
+          619.7539367675781
+        ],
+        [
+          421.0229797363281,
+          629.1140352487564
+        ],
+        [
+          317.8945412635803,
+          629.1140352487564
+        ]
+      ]
+    },
+    {
+      "title": "DIFFUSE LEWY BODY DISEASE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.71208471059799,
+          58.53121501207352
+        ],
+        [
+          188.531982421875,
+          58.53121501207352
+        ],
+        [
+          188.531982421875,
+          68.0566278398037
+        ],
+        [
+          53.71208471059799,
+          68.0566278398037
+        ]
+      ]
+    },
+    {
+      "title": "DIFFERENTIAL DIAGNOSIS \nAMONG THE \u03b1-SYNUCLEINOPATHIES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.939716815948486,
+          114.79376220703125
+        ],
+        [
+          218.8670883178711,
+          114.79376220703125
+        ],
+        [
+          218.8670883178711,
+          135.71662697196007
+        ],
+        [
+          53.939716815948486,
+          135.71662697196007
+        ]
+      ]
+    },
+    {
+      "title": "AUTONOMIC AND NEUROENDOCRINE \nTESTING",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.7600562572479,
+          132.175048828125
+        ],
+        [
+          519.8119506835938,
+          132.175048828125
+        ],
+        [
+          519.8119506835938,
+          155.63210414350033
+        ],
+        [
+          310.7600562572479,
+          155.63210414350033
+        ]
+      ]
+    },
+    {
+      "title": "Brain imaging",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.709032535553,
+          343.07501220703125
+        ],
+        [
+          385.3479919433594,
+          343.07501220703125
+        ],
+        [
+          385.3479919433594,
+          354.3326908349991
+        ],
+        [
+          311.709032535553,
+          354.3326908349991
+        ]
+      ]
+    },
+    {
+      "title": "TREATMENT",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.087872087955475,
+          146.754150390625
+        ],
+        [
+          115.49400329589844,
+          146.754150390625
+        ],
+        [
+          115.49400329589844,
+          156.17551137506962
+        ],
+        [
+          59.087872087955475,
+          156.17551137506962
+        ]
+      ]
+    },
+    {
+      "title": "Secondary autonomic failure\nCHOLINERGIC FAILURE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.312294125556946,
+          253.2750244140625
+        ],
+        [
+          213.1434828042984,
+          253.2750244140625
+        ],
+        [
+          213.1434828042984,
+          277.89685276150703
+        ],
+        [
+          59.312294125556946,
+          277.89685276150703
+        ]
+      ]
+    },
+    {
+      "title": "PANDYSAUTONOMIAS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.2731668651104,
+          641.6408938765526
+        ],
+        [
+          161.17505764961243,
+          641.6408938765526
+        ],
+        [
+          161.17505764961243,
+          650.8541412353516
+        ],
+        [
+          59.2731668651104,
+          650.8541412353516
+        ]
+      ]
+    },
+    {
+      "title": "AUTOIMMUNE AUTONOMIC GANGLIONOPATHY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          317.52830171585083,
+          685.7541351318359
+        ],
+        [
+          531.02099609375,
+          685.7541351318359
+        ],
+        [
+          531.02099609375,
+          694.7541351318359
+        ],
+        [
+          317.52830171585083,
+          694.7541351318359
+        ]
+      ]
+    },
+    {
+      "title": "MANAGEMENT OF ORTHOSTATIC \nHYPOTENSION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.3674036860466,
+          217.60133188962936
+        ],
+        [
+          238.56898498535156,
+          217.60133188962936
+        ],
+        [
+          238.56898498535156,
+          241.17584228515625
+        ],
+        [
+          53.3674036860466,
+          241.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "Pathophysiology-guided therapy",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.645603477954865,
+          244.1788330078125
+        ],
+        [
+          225.5518355369568,
+          244.1788330078125
+        ],
+        [
+          225.5518355369568,
+          255.1788330078125
+        ],
+        [
+          53.645603477954865,
+          255.1788330078125
+        ]
+      ]
+    },
+    {
+      "title": "DEFICIENT VASOCONSTRICTION",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.622699826955795,
+          344.4506691992283
+        ],
+        [
+          197.5585856437683,
+          344.4506691992283
+        ],
+        [
+          197.5585856437683,
+          353.7539367675781
+        ],
+        [
+          53.622699826955795,
+          353.7539367675781
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Management Algorithm",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.24526607990265,
+          506.34344482421875
+        ],
+        [
+          264.1513977050781,
+          506.34344482421875
+        ],
+        [
+          264.1513977050781,
+          518.4281403422356
+        ],
+        [
+          53.24526607990265,
+          518.4281403422356
+        ]
+      ]
+    },
+    {
+      "title": "Stepwise approach to the management of \northostatic hypotension in elderly people",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          66.47879773378372,
+          532.0812377929688
+        ],
+        [
+          250.17869567871094,
+          532.0812377929688
+        ],
+        [
+          250.17869567871094,
+          553.1787142753601
+        ],
+        [
+          65.28348523378372,
+          553.1787142753601
+        ]
+      ]
+    },
+    {
+      "title": "REDUCED INTRAVASCULAR VOLUME",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          311.53594422340393,
+          58.72265625
+        ],
+        [
+          476.5199890136719,
+          57.94862211495638
+        ],
+        [
+          476.5199890136719,
+          67.72265625
+        ],
+        [
+          311.53594422340393,
+          68.9259405657649
+        ]
+      ]
+    },
+    {
+      "title": "Nonpharmacologic treatment",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          312.0,
+          387.0434875488281
+        ],
+        [
+          467.24298095703125,
+          387.0434875488281
+        ],
+        [
+          467.24298095703125,
+          398.0434875488281
+        ],
+        [
+          311.0914957523346,
+          399.0789989233017
+        ]
+      ]
+    },
+    {
+      "title": "Pharmacologic treatment",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.840464264154434,
+          167.35821533203125
+        ],
+        [
+          193.24777472019196,
+          167.35821533203125
+        ],
+        [
+          193.24777472019196,
+          178.37529641389847
+        ],
+        [
+          59.840464264154434,
+          178.37529641389847
+        ]
+      ]
+    },
+    {
+      "title": "Fludrocortisone",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.68212220072746,
+          343.2582092285156
+        ],
+        [
+          142.510986328125,
+          343.2582092285156
+        ],
+        [
+          142.510986328125,
+          354.2582092285156
+        ],
+        [
+          59.68212220072746,
+          354.2582092285156
+        ]
+      ]
+    },
+    {
+      "title": "Desmopressin",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.64719903469086,
+          596.1582183837891
+        ],
+        [
+          134.55799865722656,
+          596.1582183837891
+        ],
+        [
+          134.55799865722656,
+          607.1582183837891
+        ],
+        [
+          59.64719903469086,
+          607.1582183837891
+        ]
+      ]
+    },
+    {
+      "title": "Recombinant erythropoietin",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          315.7451820373535,
+          57.08447265625
+        ],
+        [
+          465.9169921875,
+          57.08447265625
+        ],
+        [
+          465.9169921875,
+          68.36280340701342
+        ],
+        [
+          315.7451820373535,
+          68.36280340701342
+        ]
+      ]
+    },
+    {
+      "title": "Midodrine",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          316.96814489364624,
+          419.98443603515625
+        ],
+        [
+          371.77899169921875,
+          419.98443603515625
+        ],
+        [
+          371.77899169921875,
+          431.09221172332764
+        ],
+        [
+          316.96814489364624,
+          431.09221172332764
+        ]
+      ]
+    },
+    {
+      "title": "DOPS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          52.95808357000351,
+          56.32512679696083
+        ],
+        [
+          84.628657579422,
+          56.32512679696083
+        ],
+        [
+          84.628657579422,
+          68.10515342652798
+        ],
+        [
+          52.95808357000351,
+          68.10515342652798
+        ]
+      ]
+    },
+    {
+      "title": "Pyridostigmine",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.416193068027496,
+          188.27483113110065
+        ],
+        [
+          133.4530029296875,
+          188.27483113110065
+        ],
+        [
+          133.4530029296875,
+          199.995819658041
+        ],
+        [
+          53.416193068027496,
+          199.995819658041
+        ]
+      ]
+    },
+    {
+      "title": "Atomoxetine",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.662593126297,
+          309.2969093620777
+        ],
+        [
+          122.96821117401123,
+          309.2969093620777
+        ],
+        [
+          122.96821117401123,
+          320.8551697432995
+        ],
+        [
+          53.662593126297,
+          320.8551697432995
+        ]
+      ]
+    },
+    {
+      "title": "Other agents",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.62777483463287,
+          408.3028507232666
+        ],
+        [
+          123.27603113651276,
+          408.3028507232666
+        ],
+        [
+          123.27603113651276,
+          420.2229470014572
+        ],
+        [
+          53.62777483463287,
+          420.2229470014572
+        ]
+      ]
+    },
+    {
+      "title": "Treatment of related conditions\nSUPINE HYPERTENSION AND DIURNAL BLOOD \nPRESSURE VARIATION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.66665130853653,
+          660.6411287784576
+        ],
+        [
+          262.04400634765625,
+          660.6411287784576
+        ],
+        [
+          262.04400634765625,
+          695.5419348478317
+        ],
+        [
+          53.66665130853653,
+          695.5419348478317
+        ]
+      ]
+    },
+    {
+      "title": "Postprandial hypotension",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          311.9983398914337,
+          166.90372636914253
+        ],
+        [
+          446.4639892578125,
+          165.37442949414253
+        ],
+        [
+          446.4639892578125,
+          178.18780517578125
+        ],
+        [
+          310.8030273914337,
+          178.85824209451675
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          312.0,
+          330.3402126431465
+        ],
+        [
+          372.1086459159851,
+          328.8109157681465
+        ],
+        [
+          371.27899169921875,
+          342.1878356933594
+        ],
+        [
+          310.9582414627075,
+          342.6738556623459
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          310.13110184669495,
+          511.78564453125
+        ],
+        [
+          383.3606872558594,
+          510.3607819676399
+        ],
+        [
+          383.3606872558594,
+          523.78564453125
+        ],
+        [
+          308.93578934669495,
+          525.2096348404884
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          188
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          241
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter63"
+}

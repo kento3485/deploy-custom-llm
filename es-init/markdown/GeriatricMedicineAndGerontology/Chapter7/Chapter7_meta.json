@@ -1,0 +1,358 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Genetic Mechanisms of Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          108.47625088691711,
+          54.44238303601742
+        ],
+        [
+          401.76812744140625,
+          54.44238303601742
+        ],
+        [
+          401.76812744140625,
+          79.98493811488152
+        ],
+        [
+          108.47625088691711,
+          79.98493811488152
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.171284049749374,
+          142.1276165395975
+        ],
+        [
+          139.08229529857635,
+          142.1276165395975
+        ],
+        [
+          139.08229529857635,
+          154.92279052734375
+        ],
+        [
+          53.171284049749374,
+          154.92279052734375
+        ]
+      ]
+    },
+    {
+      "title": "MITOCHONDRIAL GENETICS, OXIDATIVE \nSTRESS, AND AGING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.0,
+          141.73958685994148
+        ],
+        [
+          533.689047574997,
+          141.73958685994148
+        ],
+        [
+          532.637939453125,
+          165.86077880859375
+        ],
+        [
+          311.9389536380768,
+          165.86077880859375
+        ]
+      ]
+    },
+    {
+      "title": "CHROMOSOMAL GENE MUTATIONS \nAND AGING",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.145197331905365,
+          671.1748123168945
+        ],
+        [
+          258.0220031738281,
+          671.1748123168945
+        ],
+        [
+          258.0220031738281,
+          694.1758117675781
+        ],
+        [
+          59.145197331905365,
+          694.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Telomeres and aging",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.51373991370201,
+          629.0747222900391
+        ],
+        [
+          164.02198791503906,
+          629.0747222900391
+        ],
+        [
+          164.02198791503906,
+          640.2450277805328
+        ],
+        [
+          53.51373991370201,
+          640.2450277805328
+        ]
+      ]
+    },
+    {
+      "title": "Epigenetics and aging",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.71398577094078,
+          89.954833984375
+        ],
+        [
+          175.52198791503906,
+          89.954833984375
+        ],
+        [
+          175.52198791503906,
+          101.77768693864346
+        ],
+        [
+          59.71398577094078,
+          101.77768693864346
+        ]
+      ]
+    },
+    {
+      "title": "An integrative approach to aging \nmechanisms",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.64944243431091,
+          374.954833984375
+        ],
+        [
+          236.04397583007812,
+          374.954833984375
+        ],
+        [
+          236.04397583007812,
+          398.28312796354294
+        ],
+        [
+          58.45412993431091,
+          398.28312796354294
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.92631363868713,
+          410.60473001003265
+        ],
+        [
+          416.5422942638397,
+          410.60473001003265
+        ],
+        [
+          416.010009765625,
+          420.1451007127762
+        ],
+        [
+          316.73100113868713,
+          420.1451007127762
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.6999583244324,
+          487.69024658203125
+        ],
+        [
+          389.85908031463623,
+          487.69024658203125
+        ],
+        [
+          389.85908031463623,
+          499.69024658203125
+        ],
+        [
+          316.6999583244324,
+          499.69024658203125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter7"
+}

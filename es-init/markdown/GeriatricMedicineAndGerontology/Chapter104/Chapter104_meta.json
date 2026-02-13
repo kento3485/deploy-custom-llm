@@ -1,0 +1,720 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Geriatric Pharmacotherapy \nand Polypharmacy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          115.49609375,
+          55.05962289869785
+        ],
+        [
+          382.11212158203125,
+          55.05962289869785
+        ],
+        [
+          382.11212158203125,
+          105.47991943359375
+        ],
+        [
+          115.49609375,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.45313620567322,
+          132.97627893090248
+        ],
+        [
+          139.8327398300171,
+          132.97627893090248
+        ],
+        [
+          139.8327398300171,
+          144.85427847504616
+        ],
+        [
+          53.45313620567322,
+          144.85427847504616
+        ]
+      ]
+    },
+    {
+      "title": "EFFICACY AND SAFETY \nOF PHARMACOTHERAPY \nFOR ELDERLY PATIENTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.330241680145264,
+          306.9850426018238
+        ],
+        [
+          189.6739959716797,
+          306.9850426018238
+        ],
+        [
+          189.6739959716797,
+          342.83293184638023
+        ],
+        [
+          53.330241680145264,
+          342.83293184638023
+        ]
+      ]
+    },
+    {
+      "title": "MEDICATION-RELATED PROBLEMS \nIN ELDERLY PATIENTS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.0,
+          306.89643877744675
+        ],
+        [
+          502.0690002441406,
+          306.89643877744675
+        ],
+        [
+          502.0690002441406,
+          331.1965684890747
+        ],
+        [
+          312.0,
+          331.1965684890747
+        ]
+      ]
+    },
+    {
+      "title": "EPIDEMIOLOGY OF ADVERSE DRUG \nREACTIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.21352070569992,
+          495.13134765625
+        ],
+        [
+          254.97499084472656,
+          495.13134765625
+        ],
+        [
+          254.97499084472656,
+          518.13232421875
+        ],
+        [
+          59.21352070569992,
+          518.13232421875
+        ]
+      ]
+    },
+    {
+      "title": "ADVERSE DRUG REACTION RISK \nFACTORS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          316.9054026603699,
+          363.1748046875
+        ],
+        [
+          495.8699951171875,
+          363.1748046875
+        ],
+        [
+          495.8699951171875,
+          386.1758117675781
+        ],
+        [
+          316.9054026603699,
+          386.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "EPIDEMIOLOGY OF ADVERSE DRUG \nWITHDRAWAL EVENTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.40420091152191,
+          495.1748046875
+        ],
+        [
+          248.97499084472656,
+          495.1748046875
+        ],
+        [
+          248.97499084472656,
+          518.1758117675781
+        ],
+        [
+          53.40420091152191,
+          518.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "ADVERSE DRUG WITHDRAWAL RISK \nFACTORS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          310.6835618019104,
+          264.1748046875
+        ],
+        [
+          510.63800048828125,
+          264.1748046875
+        ],
+        [
+          510.63800048828125,
+          287.4214021861553
+        ],
+        [
+          310.6835618019104,
+          287.4214021861553
+        ]
+      ]
+    },
+    {
+      "title": "EPIDEMIOLOGY OF THERAPEUTIC \nFAILURE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.5883996486664,
+          396.1748046875
+        ],
+        [
+          495.3590087890625,
+          396.1748046875
+        ],
+        [
+          495.3590087890625,
+          419.614737868309
+        ],
+        [
+          310.3930871486664,
+          419.614737868309
+        ]
+      ]
+    },
+    {
+      "title": "THERAPEUTIC FAILURE RISK FACTORS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.4798409938812,
+          617.0320858955383
+        ],
+        [
+          519.2179565429688,
+          617.0320858955383
+        ],
+        [
+          519.2179565429688,
+          628.1748199462891
+        ],
+        [
+          311.4798409938812,
+          628.1748199462891
+        ]
+      ]
+    },
+    {
+      "title": "MEASURES TO REDUCE MEDICATION-\nRELATED PROBLEMS IN ELDERLY \nPATIENTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.32654792070389,
+          483.1748046875
+        ],
+        [
+          265.8733870983124,
+          482.6970205307007
+        ],
+        [
+          265.8733870983124,
+          518.1768188476562
+        ],
+        [
+          59.32654792070389,
+          518.6012409925461
+        ]
+      ]
+    },
+    {
+      "title": "Health systems design",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.0,
+          673.0747146606445
+        ],
+        [
+          178.57998657226562,
+          673.0556983351707
+        ],
+        [
+          178.57998657226562,
+          684.0747146606445
+        ],
+        [
+          58.84340080618858,
+          684.8184219002724
+        ]
+      ]
+    },
+    {
+      "title": "Health services approaches",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          318.0,
+          332.07470703125
+        ],
+        [
+          462.324098110199,
+          332.07470703125
+        ],
+        [
+          461.128785610199,
+          343.07470703125
+        ],
+        [
+          317.16921186447144,
+          343.61015796661377
+        ]
+      ]
+    },
+    {
+      "title": "Patient/caregiver education",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.96239042282104,
+          584.9748229980469
+        ],
+        [
+          463.4859924316406,
+          584.9748229980469
+        ],
+        [
+          463.4859924316406,
+          595.9748229980469
+        ],
+        [
+          317.96239042282104,
+          596.8389546275139
+        ]
+      ]
+    },
+    {
+      "title": "PRINCIPLES OF GERIATRIC \nPHARMACOTHERAPY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.798834055662155,
+          121.1749267578125
+        ],
+        [
+          198.8809814453125,
+          121.1749267578125
+        ],
+        [
+          198.8809814453125,
+          144.1759033203125
+        ],
+        [
+          53.798834055662155,
+          144.1759033203125
+        ]
+      ]
+    },
+    {
+      "title": "Table 104-1. Principles of Geriatric Pharmacotherapy",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.7883420586586,
+          313.2474060058594
+        ],
+        [
+          277.9100036621094,
+          313.2474060058594
+        ],
+        [
+          277.9100036621094,
+          323.3009033203125
+        ],
+        [
+          53.7883420586586,
+          323.3009033203125
+        ]
+      ]
+    },
+    {
+      "title": "Table 104-2. Medications Associated With Adverse Drug Withdrawal Events in the Elderly",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.353241086006165,
+          511.8718566894531
+        ],
+        [
+          428.4293575286865,
+          511.8718566894531
+        ],
+        [
+          427.2340450286865,
+          521.9253540039062
+        ],
+        [
+          52.157928586006165,
+          521.9253540039062
+        ]
+      ]
+    },
+    {
+      "title": "Table 104-3. Medication Appropriateness Index",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.0,
+          60.00006103515625
+        ],
+        [
+          261.1300048828125,
+          60.00006103515625
+        ],
+        [
+          261.1300048828125,
+          70.0535888671875
+        ],
+        [
+          60.0,
+          70.0535888671875
+        ]
+      ]
+    },
+    {
+      "title": "Questions to Ask About Each Individual Medication",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.99626588821411,
+          79.05267333984375
+        ],
+        [
+          268.6060667037964,
+          79.05267333984375
+        ],
+        [
+          268.6060667037964,
+          87.22085098922253
+        ],
+        [
+          70.99626588821411,
+          87.22085098922253
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.4991466999054,
+          122.1749267578125
+        ],
+        [
+          378.301997423172,
+          122.1749267578125
+        ],
+        [
+          378.301997423172,
+          133.1749267578125
+        ],
+        [
+          316.4991466999054,
+          133.1749267578125
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.8421862125397,
+          407.5859461426735
+        ],
+        [
+          393.7446119785309,
+          407.5859461426735
+        ],
+        [
+          393.7446119785309,
+          424.6899145245552
+        ],
+        [
+          316.8421862125397,
+          424.6899145245552
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter104"
+}

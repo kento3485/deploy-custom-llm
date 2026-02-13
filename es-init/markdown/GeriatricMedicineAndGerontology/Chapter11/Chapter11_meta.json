@@ -1,0 +1,605 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Premature Aging Syndrome \nHutchinson-Gilford Progeria: \nInsights Into Normal Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          115.49609375,
+          55.4879150390625
+        ],
+        [
+          424.32806396484375,
+          55.4879150390625
+        ],
+        [
+          424.32806396484375,
+          131.8535515666008
+        ],
+        [
+          115.49609375,
+          131.8535515666008
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.09491270780563,
+          186.7285928875208
+        ],
+        [
+          139.12038749456406,
+          186.7285928875208
+        ],
+        [
+          139.12038749456406,
+          199.56911185383797
+        ],
+        [
+          53.09491270780563,
+          199.56911185383797
+        ]
+      ]
+    },
+    {
+      "title": "HGPS: disease description",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.599426835775375,
+          330.8786261379719
+        ],
+        [
+          191.72866487503052,
+          330.8786261379719
+        ],
+        [
+          191.72866487503052,
+          343.04931640625
+        ],
+        [
+          53.599426835775375,
+          343.04931640625
+        ]
+      ]
+    },
+    {
+      "title": "Molecular genetics and cell biology\nLAMIN A",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.33737313747406,
+          670.1494835615158
+        ],
+        [
+          239.70219719409943,
+          670.1494835615158
+        ],
+        [
+          239.70219719409943,
+          695.9741030931473
+        ],
+        [
+          53.33737313747406,
+          695.9741030931473
+        ]
+      ]
+    },
+    {
+      "title": "MUTATIONS IN LMNA CAUSE HGPS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.0,
+          399.4862451553345
+        ],
+        [
+          470.8227889537811,
+          397.9569482803345
+        ],
+        [
+          470.0220031738281,
+          408.7979431152344
+        ],
+        [
+          311.79194712638855,
+          410.21428513526917
+        ]
+      ]
+    },
+    {
+      "title": "FARNESYLATION AND HGPS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.0,
+          509.6617988348007
+        ],
+        [
+          180.0354641675949,
+          508.1325019598007
+        ],
+        [
+          179.5229949951172,
+          518.6874389648438
+        ],
+        [
+          53.030720472335815,
+          519.4910595417023
+        ]
+      ]
+    },
+    {
+      "title": "Aging and HGPS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.3687288761139,
+          585.1414947509766
+        ],
+        [
+          400.02233719825745,
+          584.6954002976418
+        ],
+        [
+          399.3949890136719,
+          596.1414947509766
+        ],
+        [
+          310.1734163761139,
+          597.4321358799934
+        ]
+      ]
+    },
+    {
+      "title": "OVERLAP BETWEEN HGPS AND ARTERIOSCLEROSIS \nOF AGING",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.0,
+          631.7540283203125
+        ],
+        [
+          286.5419921875,
+          631.7540283203125
+        ],
+        [
+          286.5419921875,
+          651.2711985111237
+        ],
+        [
+          54.0,
+          651.2711985111237
+        ]
+      ]
+    },
+    {
+      "title": "Clinical care",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.65856194496155,
+          286.2749328613281
+        ],
+        [
+          122.97499084472656,
+          286.2749328613281
+        ],
+        [
+          122.97499084472656,
+          297.2749328613281
+        ],
+        [
+          59.65856194496155,
+          297.2749328613281
+        ]
+      ]
+    },
+    {
+      "title": "DIAGNOSTICS AND GENETIC COUNSELING",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.58575177192688,
+          300.85406494140625
+        ],
+        [
+          249.79959297180176,
+          300.85406494140625
+        ],
+        [
+          249.79959297180176,
+          310.16299599409103
+        ],
+        [
+          59.58575177192688,
+          310.16299599409103
+        ]
+      ]
+    },
+    {
+      "title": "CARDIAC CARE AND LOW-DOSE ASPIRIN",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.43859022855759,
+          487.85406494140625
+        ],
+        [
+          239.02798461914062,
+          487.85406494140625
+        ],
+        [
+          239.02798461914062,
+          496.85406494140625
+        ],
+        [
+          59.43859022855759,
+          496.85406494140625
+        ]
+      ]
+    },
+    {
+      "title": "INTUBATION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.7360351085663,
+          157.7540283203125
+        ],
+        [
+          375.4085590839386,
+          157.7540283203125
+        ],
+        [
+          375.4085590839386,
+          167.3486239761114
+        ],
+        [
+          316.7360351085663,
+          167.3486239761114
+        ]
+      ]
+    },
+    {
+      "title": "PHYSICAL THERAPY (PT) AND OCCUPATIONAL \nTHERAPY (OT)",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.0,
+          279.3563306629658
+        ],
+        [
+          524.5230102539062,
+          279.3563306629658
+        ],
+        [
+          524.5230102539062,
+          299.6693582832813
+        ],
+        [
+          318.0,
+          299.6693582832813
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          316.0210654735565,
+          479.10638427734375
+        ],
+        [
+          389.58049750328064,
+          479.10638427734375
+        ],
+        [
+          389.58049750328064,
+          491.10638427734375
+        ],
+        [
+          316.0210654735565,
+          491.10638427734375
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENT",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          308.71765065193176,
+          212.5481136739254
+        ],
+        [
+          404.0069885253906,
+          212.5481136739254
+        ],
+        [
+          404.0069885253906,
+          221.81728246808052
+        ],
+        [
+          308.71765065193176,
+          221.81728246808052
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          143
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          86
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter11"
+}

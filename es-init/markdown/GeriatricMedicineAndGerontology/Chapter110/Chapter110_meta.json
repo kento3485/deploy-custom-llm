@@ -1,0 +1,385 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Pressure Sores",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          120.43043375015259,
+          55.4879150390625
+        ],
+        [
+          271.2195360660553,
+          55.4879150390625
+        ],
+        [
+          271.2195360660553,
+          79.4879150390625
+        ],
+        [
+          120.43043375015259,
+          79.4879150390625
+        ]
+      ]
+    },
+    {
+      "title": "NORMAL AGING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.44876304268837,
+          417.9823459982872
+        ],
+        [
+          148.63925063610077,
+          417.9823459982872
+        ],
+        [
+          148.63925063610077,
+          430.0860290527344
+        ],
+        [
+          59.44876304268837,
+          430.0860290527344
+        ]
+      ]
+    },
+    {
+      "title": "PATHOPHYSIOLOGY OF PRESSURE \nULCERS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          316.93538761138916,
+          153.22054933011532
+        ],
+        [
+          509.322998046875,
+          153.22054933011532
+        ],
+        [
+          509.322998046875,
+          177.91758777201176
+        ],
+        [
+          316.93538761138916,
+          177.91758777201176
+        ]
+      ]
+    },
+    {
+      "title": "RISK ASSESSMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.60320687294006,
+          342.1748046875
+        ],
+        [
+          158.52198791503906,
+          342.1748046875
+        ],
+        [
+          158.52198791503906,
+          353.1748046875
+        ],
+        [
+          53.60320687294006,
+          353.1748046875
+        ]
+      ]
+    },
+    {
+      "title": "PRESSURE ULCER CLASSIFICATION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.1443889141083,
+          111.17486572265625
+        ],
+        [
+          502.72900390625,
+          111.17486572265625
+        ],
+        [
+          502.72900390625,
+          122.75754176080227
+        ],
+        [
+          311.1443889141083,
+          122.75754176080227
+        ]
+      ]
+    },
+    {
+      "title": "MANAGEMENT AND TREATMENT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.7309923171997,
+          683.1748123168945
+        ],
+        [
+          492.87298583984375,
+          682.4068670868874
+        ],
+        [
+          492.87298583984375,
+          694.1748123168945
+        ],
+        [
+          311.7309923171997,
+          694.326963365078
+        ]
+      ]
+    },
+    {
+      "title": "QUALITY INIDICATOR AND LITIGATION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.51115703582764,
+          253.99276837706566
+        ],
+        [
+          527.1428804397583,
+          252.46347150206566
+        ],
+        [
+          525.9475679397583,
+          265.17486572265625
+        ],
+        [
+          316.31584453582764,
+          266.00755897164345
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.8191776275635,
+          595.1748199462891
+        ],
+        [
+          392.0585603713989,
+          593.8123767971992
+        ],
+        [
+          392.0585603713989,
+          606.1748199462891
+        ],
+        [
+          317.8191776275635,
+          606.833335340023
+        ]
+      ]
+    },
+    {
+      "title": "Table 110-1. Minimizing Litigation from Pressure Ulcers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.50751584768295,
+          59.67283223569393
+        ],
+        [
+          289.0603265762329,
+          59.67283223569393
+        ],
+        [
+          289.0603265762329,
+          70.09758438169956
+        ],
+        [
+          53.50751584768295,
+          70.09758438169956
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.00959777832031,
+          267.10774451494217
+        ],
+        [
+          125.3615951538086,
+          267.10774451494217
+        ],
+        [
+          125.3615951538086,
+          280.37664794921875
+        ],
+        [
+          54.00959777832031,
+          280.37664794921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          120
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter110"
+}

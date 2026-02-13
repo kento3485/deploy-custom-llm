@@ -1,0 +1,40 @@
+services:
+  # --- FastAPI Web Service ---
+  - type: web
+    name: llm-api
+    runtime: docker
+    dockerfilePath: ./llm-api/Dockerfile
+    dockerContext: ./llm-api
+    envVars:
+      - key: MY_SECRET_KEY
+        sync: false  # Render Dashboardで手動設定
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ELASTICSEARCH_URL
+        value: http://elasticsearch:9200
+
+  # --- Elasticsearch Private Service ---
+  - type: pserv
+    name: elasticsearch
+    runtime: docker
+    dockerfilePath: ./elasticsearch/Dockerfile
+    dockerContext: ./elasticsearch
+    disk:
+      name: es-data
+      mountPath: /usr/share/elasticsearch/data
+      sizeGB: 10
+    envVars:
+      - key: ES_JAVA_OPTS
+        value: "-Xms512m -Xmx512m"
+
+  # --- DB初期化 Worker（初回のみ。データ投入後に render.yaml から削除する） ---
+  - type: worker
+    name: es-init
+    runtime: docker
+    dockerfilePath: ./es-init/Dockerfile
+    dockerContext: ./es-init
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false  # Render Dashboardで手動設定
+      - key: ELASTICSEARCH_URL
+        value: http://elasticsearch:9200

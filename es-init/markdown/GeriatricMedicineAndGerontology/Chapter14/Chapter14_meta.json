@@ -1,0 +1,506 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Effects of Aging on the \nCardiovascular System",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          121.0,
+          55.4879150390625
+        ],
+        [
+          343.86413526535034,
+          55.4879150390625
+        ],
+        [
+          343.86413526535034,
+          105.47991943359375
+        ],
+        [
+          121.0,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "AGING-ASSOCIATED CHANGES \nIN VASCULAR STRUCTURE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          339.51333367824554
+        ],
+        [
+          231.7429962158203,
+          339.51333367824554
+        ],
+        [
+          231.7429962158203,
+          364.1363220214844
+        ],
+        [
+          58.824518859386444,
+          364.1363220214844
+        ]
+      ]
+    },
+    {
+      "title": "ENDOTHELIAL FUNCTION IN AGING",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          571.9378963708878
+        ],
+        [
+          509.8080403804779,
+          571.9378963708878
+        ],
+        [
+          509.322998046875,
+          584.9519476890564
+        ],
+        [
+          317.18114018440247,
+          584.9519476890564
+        ]
+      ]
+    },
+    {
+      "title": "ARTERIAL STIFFNESS IN AGING \nARTERIES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.10641527175903,
+          417.5794867873192
+        ],
+        [
+          484.9969787597656,
+          417.5794867873192
+        ],
+        [
+          484.9969787597656,
+          441.14300537109375
+        ],
+        [
+          309.91110277175903,
+          441.14300537109375
+        ]
+      ]
+    },
+    {
+      "title": "Table 14-1. Age-Related Changes in the Vasculature",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.70948815345764,
+          324.3705749511719
+        ],
+        [
+          538.5651404857635,
+          324.3705749511719
+        ],
+        [
+          538.5651404857635,
+          334.424072265625
+        ],
+        [
+          317.70948815345764,
+          334.424072265625
+        ]
+      ]
+    },
+    {
+      "title": "EFFECT OF THE AGING PROCESS ON THE \nSTRUCTURE OF THE HEART",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.56338453292847,
+          616.1790161132812
+        ],
+        [
+          541.7179565429688,
+          615.762976706028
+        ],
+        [
+          541.7179565429688,
+          639.1800231933594
+        ],
+        [
+          316.56338453292847,
+          639.3768176436424
+        ]
+      ]
+    },
+    {
+      "title": "MYOCARDIAL FUNCTION IN THE AGING \nHEART AT REST",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.74260771274567,
+          604.9272213578224
+        ],
+        [
+          270.3809814453125,
+          604.9272213578224
+        ],
+        [
+          270.3809814453125,
+          628.1759185791016
+        ],
+        [
+          53.74260771274567,
+          628.1759185791016
+        ]
+      ]
+    },
+    {
+      "title": "RESPONSE OF THE AGING HEART \nTO EXERCISE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.369883835315704,
+          165.1749267578125
+        ],
+        [
+          243.97499084472656,
+          165.1749267578125
+        ],
+        [
+          243.97499084472656,
+          188.39627927541733
+        ],
+        [
+          59.369883835315704,
+          188.39627927541733
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.97139143943787,
+          542.4018707275391
+        ],
+        [
+          390.35383200645447,
+          542.4018707275391
+        ],
+        [
+          390.35383200645447,
+          554.4018707275391
+        ],
+        [
+          316.97139143943787,
+          554.4018707275391
+        ]
+      ]
+    },
+    {
+      "title": "Effects of Aging on the Cardiovascular",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.0,
+          555.5753021240234
+        ],
+        [
+          483.5190124511719,
+          555.3258810639381
+        ],
+        [
+          483.5190124511719,
+          565.6172724366188
+        ],
+        [
+          318.0,
+          567.1465693116188
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          310.1419358253479,
+          100.17486572265625
+        ],
+        [
+          371.687762260437,
+          98.68549047410488
+        ],
+        [
+          371.687762260437,
+          111.17486572265625
+        ],
+        [
+          310.1419358253479,
+          111.62449572980404
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          205
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          181
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          209
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "TableCell",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          38
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter14"
+}

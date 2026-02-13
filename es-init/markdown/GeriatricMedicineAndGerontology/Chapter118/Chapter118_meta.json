@@ -1,0 +1,882 @@
+{
+  "table_of_contents": [
+    {
+      "title": "AGING IN EUROPE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.966103821992874,
+          132.94016768038273
+        ],
+        [
+          159.02198791503906,
+          132.94016768038273
+        ],
+        [
+          159.02198791503906,
+          144.10015869140625
+        ],
+        [
+          58.966103821992874,
+          144.10015869140625
+        ]
+      ]
+    },
+    {
+      "title": "Health care in Europe",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          409.0002136230469
+        ],
+        [
+          172.52520060539246,
+          409.0002136230469
+        ],
+        [
+          172.47499084472656,
+          420.29323267936707
+        ],
+        [
+          58.87741658091545,
+          420.29323267936707
+        ]
+      ]
+    },
+    {
+      "title": "THE DEVELOPMENT OF GERIATRIC \nMEDICINE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.3468661904335,
+          637.4458283185959
+        ],
+        [
+          249.4639892578125,
+          637.4458283185959
+        ],
+        [
+          249.4639892578125,
+          661.8603472709656
+        ],
+        [
+          59.3468661904335,
+          661.8603472709656
+        ]
+      ]
+    },
+    {
+      "title": "WESTERN EUROPE POPULATION CHANGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          369.81746006011963,
+          537.7935247421265
+        ],
+        [
+          538.8485383987427,
+          536.2642278671265
+        ],
+        [
+          537.6532258987427,
+          546.7073059082031
+        ],
+        [
+          368.62214756011963,
+          547.4328367710114
+        ]
+      ]
+    },
+    {
+      "title": "GERIATRIC MEDICINE IN SELECTED \nCOUNTRIES TODAY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.74825268983841,
+          63.9991455078125
+        ],
+        [
+          245.31198120117188,
+          63.9991455078125
+        ],
+        [
+          245.31198120117188,
+          89.163000382483
+        ],
+        [
+          53.74825268983841,
+          90.692297257483
+        ]
+      ]
+    },
+    {
+      "title": "United Kingdom",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.87999314069748,
+          90.003173828125
+        ],
+        [
+          140.17401123046875,
+          90.003173828125
+        ],
+        [
+          140.17401123046875,
+          101.71815879642963
+        ],
+        [
+          53.87999314069748,
+          103.24745567142963
+        ]
+      ]
+    },
+    {
+      "title": "SPECIALISTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0,
+          586.5782318115234
+        ],
+        [
+          111.43899750709534,
+          586.4701370000839
+        ],
+        [
+          111.01499938964844,
+          595.799930691719
+        ],
+        [
+          52.88785421848297,
+          597.329227566719
+        ]
+      ]
+    },
+    {
+      "title": "Table 118-1. Number of Consultants in the Larger \nMedical Specialties in the United Kingdom (2006)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.75731134414673,
+          59.84014892578125
+        ],
+        [
+          519.7899780273438,
+          59.04510319232941
+        ],
+        [
+          519.7899780273438,
+          80.84014892578125
+        ],
+        [
+          309.75731134414673,
+          81.17037887871265
+        ]
+      ]
+    },
+    {
+      "title": "CONSULTANT NUMBERS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.9982669353485,
+          278.70416259765625
+        ],
+        [
+          423.50339913368225,
+          277.6962632238865
+        ],
+        [
+          423.02398681640625,
+          287.70416259765625
+        ],
+        [
+          310.8029544353485,
+          288.7266809642315
+        ]
+      ]
+    },
+    {
+      "title": "THE WORK OF A GERIATRICIAN",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.9949109554291,
+          476.70416259765625
+        ],
+        [
+          449.52886962890625,
+          475.56937140226364
+        ],
+        [
+          449.52886962890625,
+          485.70416259765625
+        ],
+        [
+          311.9949109554291,
+          486.6621875166893
+        ]
+      ]
+    },
+    {
+      "title": "Table 118-2. Recent United Kingdom Policy Documents \nRelevant to Geriatric Medicine",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.948024332523346,
+          59.99993896484375
+        ],
+        [
+          292.80999755859375,
+          59.99993896484375
+        ],
+        [
+          292.80999755859375,
+          80.99993896484375
+        ],
+        [
+          59.948024332523346,
+          80.99993896484375
+        ]
+      ]
+    },
+    {
+      "title": "GERIATRIC MEDICINE IN OTHER \nEUROPEAN COUNTRIES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          60.0,
+          517.1917419433594
+        ],
+        [
+          232.97499084472656,
+          517.1917419433594
+        ],
+        [
+          232.97499084472656,
+          540.1927032470703
+        ],
+        [
+          58.89511299133301,
+          540.1927032470703
+        ]
+      ]
+    },
+    {
+      "title": "GERIATRIC MEDICINE ORGANIZATIONS \nIN EUROPE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.0,
+          473.0123448371887
+        ],
+        [
+          525.927978515625,
+          473.0123448371887
+        ],
+        [
+          525.927978515625,
+          496.1759338378906
+        ],
+        [
+          312.0,
+          496.1759338378906
+        ]
+      ]
+    },
+    {
+      "title": "IAGG",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.0,
+          695.0649108886719
+        ],
+        [
+          340.5172019004822,
+          694.7890940308571
+        ],
+        [
+          340.5172019004822,
+          706.0649108886719
+        ],
+        [
+          312.0,
+          706.6617731451988
+        ]
+      ]
+    },
+    {
+      "title": "EUGMS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.64907765388489,
+          452.8808652162552
+        ],
+        [
+          102.32864284515381,
+          452.8808652162552
+        ],
+        [
+          101.55799102783203,
+          464.3660863637924
+        ],
+        [
+          58.45376515388489,
+          464.3660863637924
+        ]
+      ]
+    },
+    {
+      "title": "EUMS - Geriatric Medicine Section",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.0,
+          177.3773657977581
+        ],
+        [
+          500.2913203239441,
+          177.3773657977581
+        ],
+        [
+          500.2913203239441,
+          189.19315364956856
+        ],
+        [
+          318.0,
+          189.19315364956856
+        ]
+      ]
+    },
+    {
+      "title": "Training and the Curriculum",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          317.2246584892273,
+          650.1586219668388
+        ],
+        [
+          466.05594778060913,
+          650.1586219668388
+        ],
+        [
+          466.05594778060913,
+          662.0028321146965
+        ],
+        [
+          317.2246584892273,
+          662.0028321146965
+        ]
+      ]
+    },
+    {
+      "title": "Table 118-4. Key Points from a Position Paper \non the State of Geriatric Medicine in Europe*",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          58.52055644989014,
+          59.99993896484375
+        ],
+        [
+          254.47000122070312,
+          58.57086154818535
+        ],
+        [
+          254.47000122070312,
+          80.99993896484375
+        ],
+        [
+          58.52055644989014,
+          81.50263738632202
+        ]
+      ]
+    },
+    {
+      "title": "European Academy for Medicine \nfor Ageing (EAMA)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.952620565891266,
+          539.7965732216835
+        ],
+        [
+          233.5800018310547,
+          538.2672763466835
+        ],
+        [
+          233.5800018310547,
+          563.1585083007812
+        ],
+        [
+          58.757308065891266,
+          564.6372866034508
+        ]
+      ]
+    },
+    {
+      "title": "Table 118-5. Achievements and Activities \nof the EUMS - GM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          59.99993896484375
+        ],
+        [
+          497.1856892108917,
+          59.20110496133566
+        ],
+        [
+          496.3500061035156,
+          80.99993896484375
+        ],
+        [
+          318.0,
+          81.44141160696745
+        ]
+      ]
+    },
+    {
+      "title": "Table 118-6. Definition of the Specialty of Geriatric \nMedicine",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          305.5173973739147
+        ],
+        [
+          533.5899658203125,
+          303.9881004989147
+        ],
+        [
+          533.5899658203125,
+          327.0865783691406
+        ],
+        [
+          318.0,
+          327.8867244422436
+        ]
+      ]
+    },
+    {
+      "title": "The European Masters Program \nin Gerontology (EuMaG)",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0,
+          682.2297061085701
+        ],
+        [
+          487.3009948730469,
+          680.7004092335701
+        ],
+        [
+          487.3009948730469,
+          706.1512145996094
+        ],
+        [
+          317.657142162323,
+          707.2973311543465
+        ]
+      ]
+    },
+    {
+      "title": "COLLABORATIVE RESEARCH IN EUROPE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.489887833595276,
+          177.175048828125
+        ],
+        [
+          269.7649841308594,
+          177.175048828125
+        ],
+        [
+          269.7649841308594,
+          188.24974577128887
+        ],
+        [
+          53.489887833595276,
+          188.24974577128887
+        ]
+      ]
+    },
+    {
+      "title": "Links between nongovernmental \norganizations",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          53.60750216245651,
+          353.1750183105469
+        ],
+        [
+          230.0439910888672,
+          353.1750183105469
+        ],
+        [
+          230.0439910888672,
+          376.176025390625
+        ],
+        [
+          53.60750216245651,
+          376.176025390625
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.0,
+          122.1705793440342
+        ],
+        [
+          394.5791931152344,
+          122.1705793440342
+        ],
+        [
+          394.5791931152344,
+          133.175048828125
+        ],
+        [
+          312.0,
+          133.175048828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          400
+        ],
+        [
+          "TableCell",
+          203
+        ],
+        [
+          "Line",
+          90
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter118"
+}

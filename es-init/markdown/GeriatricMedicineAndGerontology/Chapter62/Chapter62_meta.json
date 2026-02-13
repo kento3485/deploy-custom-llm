@@ -1,0 +1,1555 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Stroke: Clinical Presentation, \nManagement and Organization \nof Services",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          112.51960754394531,
+          55.4879150390625
+        ],
+        [
+          413.81561279296875,
+          55.4879150390625
+        ],
+        [
+          413.81561279296875,
+          131.471923828125
+        ],
+        [
+          112.51960754394531,
+          131.471923828125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.37928640842438,
+          165.47145733237267
+        ],
+        [
+          139.9953407049179,
+          165.47145733237267
+        ],
+        [
+          139.9953407049179,
+          177.54400259256363
+        ],
+        [
+          53.37928640842438,
+          177.54400259256363
+        ]
+      ]
+    },
+    {
+      "title": "DEFINITIONS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.24773120880127,
+          164.90480822324753
+        ],
+        [
+          382.6936254501343,
+          164.90480822324753
+        ],
+        [
+          382.6936254501343,
+          177.2222900390625
+        ],
+        [
+          311.24773120880127,
+          177.2222900390625
+        ]
+      ]
+    },
+    {
+      "title": "STROKE TYPES",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.315868973731995,
+          430.1748046875
+        ],
+        [
+          141.906005859375,
+          430.1748046875
+        ],
+        [
+          141.906005859375,
+          441.1748046875
+        ],
+        [
+          59.315868973731995,
+          441.1748046875
+        ]
+      ]
+    },
+    {
+      "title": "Ischemic stroke subtypes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.5151331424713,
+          387.07470703125
+        ],
+        [
+          451.03009486198425,
+          387.07470703125
+        ],
+        [
+          450.63800048828125,
+          398.07470703125
+        ],
+        [
+          316.3198206424713,
+          398.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Table 62-1. Oxfordshire Community Stroke Project \nClassification (OCSP)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.46215546131134,
+          290.28379341959953
+        ],
+        [
+          266.2400207519531,
+          290.28379341959953
+        ],
+        [
+          266.2400207519531,
+          311.6289978027344
+        ],
+        [
+          52.46215546131134,
+          311.6289978027344
+        ]
+      ]
+    },
+    {
+      "title": "Total Anterior Circulation Infarct (TACI)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          62.80544516444206,
+          320.0277262330055
+        ],
+        [
+          193.5679931640625,
+          320.0277262330055
+        ],
+        [
+          193.5679931640625,
+          328.3412711620331
+        ],
+        [
+          62.80544516444206,
+          328.3412711620331
+        ]
+      ]
+    },
+    {
+      "title": "Partial Anterior Circulation Infarct (PACI)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.00399780273438,
+          401.8080060482025
+        ],
+        [
+          201.26913213729858,
+          401.8080060482025
+        ],
+        [
+          201.26913213729858,
+          411.74712896347046
+        ],
+        [
+          66.00399780273438,
+          411.74712896347046
+        ]
+      ]
+    },
+    {
+      "title": "Posterior Circulation Infarct (POCI)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.00399780273438,
+          464.3270232081413
+        ],
+        [
+          178.90798950195312,
+          462.7977263331413
+        ],
+        [
+          178.90798950195312,
+          473.5279541015625
+        ],
+        [
+          65.10524439811707,
+          473.5279541015625
+        ]
+      ]
+    },
+    {
+      "title": "Lacunar Infarction (LACI)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          66.00399780273438,
+          564.5279846191406
+        ],
+        [
+          149.73196864128113,
+          563.4335160255432
+        ],
+        [
+          148.53665614128113,
+          573.1760630607605
+        ],
+        [
+          66.00399780273438,
+          574.7053599357605
+        ]
+      ]
+    },
+    {
+      "title": "CLINICAL PRESENTATION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.57209986448288,
+          67.142822265625
+        ],
+        [
+          199.42706394195557,
+          65.87132547050714
+        ],
+        [
+          199.42706394195557,
+          78.142822265625
+        ],
+        [
+          59.57209986448288,
+          78.85801624506712
+        ]
+      ]
+    },
+    {
+      "title": "Stroke",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.939328879117966,
+          167.04278564453125
+        ],
+        [
+          96.33787214756012,
+          165.97995507717133
+        ],
+        [
+          95.14255964756012,
+          178.04278564453125
+        ],
+        [
+          58.744016379117966,
+          178.67016023397446
+        ]
+      ]
+    },
+    {
+      "title": "Effects of cerebral white matter lesions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.0,
+          112.11480712890625
+        ],
+        [
+          523.3809814453125,
+          112.11480712890625
+        ],
+        [
+          523.3809814453125,
+          123.11480712890625
+        ],
+        [
+          318.0,
+          123.11480712890625
+        ]
+      ]
+    },
+    {
+      "title": "INVESTIGATIONS\nBrain imaging\nDIAGNOSIS OF HEMORRHAGE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.94681429862976,
+          283.0387914776802
+        ],
+        [
+          451.0199890136719,
+          283.0387914776802
+        ],
+        [
+          451.0199890136719,
+          320.6940612792969
+        ],
+        [
+          317.94681429862976,
+          320.6940612792969
+        ]
+      ]
+    },
+    {
+      "title": "RECOGNITION OF ISCHEMIC CHANGES ON CT",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.0,
+          454.40596175193787
+        ],
+        [
+          519.3194346427917,
+          454.40596175193787
+        ],
+        [
+          519.3194346427917,
+          464.58861100673676
+        ],
+        [
+          318.0,
+          464.58861100673676
+        ]
+      ]
+    },
+    {
+      "title": "MRI FINDINGS IN STROKE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.0,
+          607.9895487427711
+        ],
+        [
+          432.7257778644562,
+          607.9895487427711
+        ],
+        [
+          432.7257778644562,
+          617.720988214016
+        ],
+        [
+          318.0,
+          617.720988214016
+        ]
+      ]
+    },
+    {
+      "title": "EVALUATING TISSUE AT RISK",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.57465824484825,
+          179.40096093714237
+        ],
+        [
+          185.82976412773132,
+          179.40096093714237
+        ],
+        [
+          185.82976412773132,
+          188.960186496377
+        ],
+        [
+          53.57465824484825,
+          188.960186496377
+        ]
+      ]
+    },
+    {
+      "title": "Diagnosis of stroke mechanism\nEXTRACRANIAL ARTERY ULTRASOUND",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.86074185371399,
+          319.2748107910156
+        ],
+        [
+          229.08259999752045,
+          319.2748107910156
+        ],
+        [
+          229.08259999752045,
+          344.2884194254875
+        ],
+        [
+          53.86074185371399,
+          344.2884194254875
+        ]
+      ]
+    },
+    {
+      "title": "CT ANGIOGRAPHY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.74627831578255,
+          575.2817865014076
+        ],
+        [
+          135.51300048828125,
+          575.2817865014076
+        ],
+        [
+          135.51300048828125,
+          585.1222481131554
+        ],
+        [
+          53.74627831578255,
+          585.1222481131554
+        ]
+      ]
+    },
+    {
+      "title": "MR ANGIOGRAPHY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.78368654847145,
+          674.5816349387169
+        ],
+        [
+          138.50999450683594,
+          674.5816349387169
+        ],
+        [
+          138.50999450683594,
+          683.8539352416992
+        ],
+        [
+          53.78368654847145,
+          683.8539352416992
+        ]
+      ]
+    },
+    {
+      "title": "STROKE PATTERNS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.0,
+          234.2649880349636
+        ],
+        [
+          398.01300048828125,
+          234.2649880349636
+        ],
+        [
+          398.01300048828125,
+          243.75396728515625
+        ],
+        [
+          312.0,
+          243.75396728515625
+        ]
+      ]
+    },
+    {
+      "title": "ECHOCARDIOGRAPHY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.4633529186249,
+          476.1452845931053
+        ],
+        [
+          409.010986328125,
+          476.1452845931053
+        ],
+        [
+          409.010986328125,
+          485.7539367675781
+        ],
+        [
+          311.4633529186249,
+          485.7539367675781
+        ]
+      ]
+    },
+    {
+      "title": "Blood tests for the diagnosis of stroke \nrisk factors",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.65114814043045,
+          60.0611572265625
+        ],
+        [
+          256.9280090332031,
+          60.0611572265625
+        ],
+        [
+          256.9280090332031,
+          83.44208572804928
+        ],
+        [
+          53.65114814043045,
+          84.97138260304928
+        ]
+      ]
+    },
+    {
+      "title": "SERUM CHOLESTEROL",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          89.6402587890625
+        ],
+        [
+          154.98736023902893,
+          88.95736460387707
+        ],
+        [
+          154.52099609375,
+          99.11506851017475
+        ],
+        [
+          53.01317909359932,
+          100.64436538517475
+        ]
+      ]
+    },
+    {
+      "title": "SERUM GLUCOSE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          190.6402587890625
+        ],
+        [
+          134.94907772541046,
+          189.43089285492897
+        ],
+        [
+          133.75376522541046,
+          199.69633546471596
+        ],
+        [
+          53.02721858024597,
+          201.22563233971596
+        ]
+      ]
+    },
+    {
+      "title": "INFLAMMATORY MARKERS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          278.6402587890625
+        ],
+        [
+          175.93914413452148,
+          277.11941662430763
+        ],
+        [
+          175.0139923095703,
+          287.6402587890625
+        ],
+        [
+          52.94261687994003,
+          288.78529903292656
+        ]
+      ]
+    },
+    {
+      "title": "ANTIPHOSPHOLIPID ANTIBODY SYNDROME",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.97712504863739,
+          366.5704727768898
+        ],
+        [
+          246.2072170972824,
+          365.0411759018898
+        ],
+        [
+          246.02398681640625,
+          375.6402587890625
+        ],
+        [
+          52.78181254863739,
+          376.61283069849014
+        ]
+      ]
+    },
+    {
+      "title": "THROMBOTIC RISK FACTORS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          553.6402282714844
+        ],
+        [
+          182.0339813232422,
+          552.123215675354
+        ],
+        [
+          182.0339813232422,
+          562.7226319313049
+        ],
+        [
+          52.839142352342606,
+          564.2519288063049
+        ]
+      ]
+    },
+    {
+      "title": "Management of stroke patients\nACUTE TREATMENT OF ISCHEMIC STROKE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          54.0,
+          682.1611099243164
+        ],
+        [
+          241.52398681640625,
+          682.1611099243164
+        ],
+        [
+          241.52398681640625,
+          705.740234375
+        ],
+        [
+          53.204118847846985,
+          706.7599210739136
+        ]
+      ]
+    },
+    {
+      "title": "ORGANIZED STROKE UNIT CARE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          312.0,
+          212.754150390625
+        ],
+        [
+          456.0131778717041,
+          211.31428733468056
+        ],
+        [
+          455.0279846191406,
+          221.754150390625
+        ],
+        [
+          311.51635551452637,
+          222.9705556333065
+        ]
+      ]
+    },
+    {
+      "title": "ANTIPLATELET THERAPY",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.85015830397606,
+          190.754150390625
+        ],
+        [
+          170.36559104919434,
+          189.26371935009956
+        ],
+        [
+          169.5030059814453,
+          199.754150390625
+        ],
+        [
+          58.65484580397606,
+          201.23914343118668
+        ]
+      ]
+    },
+    {
+      "title": "THROMBOLYSIS FOR ACUTE ISCHEMIC STROKE",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.969117760658264,
+          388.28097662329674
+        ],
+        [
+          270.05096435546875,
+          386.75167974829674
+        ],
+        [
+          270.05096435546875,
+          397.754150390625
+        ],
+        [
+          58.773805260658264,
+          398.67992001771927
+        ]
+      ]
+    },
+    {
+      "title": "EMERGING TREATMENTS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          318.0,
+          201.12351742386818
+        ],
+        [
+          431.633917093277,
+          199.59422054886818
+        ],
+        [
+          431.0039978027344,
+          210.754150390625
+        ],
+        [
+          317.58152318000793,
+          211.72438046336174
+        ]
+      ]
+    },
+    {
+      "title": "Acute treatment of intracranial hemorrhage",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          318.0,
+          365.07501220703125
+        ],
+        [
+          548.935519695282,
+          363.9907177090645
+        ],
+        [
+          547.740207195282,
+          376.07501220703125
+        ],
+        [
+          317.6227068901062,
+          376.71569234132767
+        ]
+      ]
+    },
+    {
+      "title": "RECOVERY AND REHABILITATION\nStroke recovery",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          317.7795624732971,
+          472.00809037685394
+        ],
+        [
+          501.3662552833557,
+          470.47879350185394
+        ],
+        [
+          500.1709427833557,
+          497.4794147014618
+        ],
+        [
+          316.5842499732971,
+          499.0087115764618
+        ]
+      ]
+    },
+    {
+      "title": "Rehabilitation",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.54924672842026,
+          618.0747222900391
+        ],
+        [
+          127.35899353027344,
+          618.0747222900391
+        ],
+        [
+          127.35899353027344,
+          629.2805086970329
+        ],
+        [
+          53.54924672842026,
+          629.2805086970329
+        ]
+      ]
+    },
+    {
+      "title": "SECONDARY STROKE PREVENTION",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.862528920173645,
+          463.1748046875
+        ],
+        [
+          251.98034155368805,
+          461.874818444252
+        ],
+        [
+          250.78502905368805,
+          474.1748046875
+        ],
+        [
+          58.667216420173645,
+          475.1803733110428
+        ]
+      ]
+    },
+    {
+      "title": "Antiplatelet therapy",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          60.0,
+          541.0747222900391
+        ],
+        [
+          165.22072792053223,
+          539.9121758937836
+        ],
+        [
+          165.14898681640625,
+          552.0747222900391
+        ],
+        [
+          58.97406059503555,
+          552.8503410816193
+        ]
+      ]
+    },
+    {
+      "title": "Warfarin",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          318.0,
+          166.92767997086048
+        ],
+        [
+          363.23199462890625,
+          165.39838309586048
+        ],
+        [
+          363.23199462890625,
+          178.07470703125
+        ],
+        [
+          316.8223056793213,
+          178.58427496254444
+        ]
+      ]
+    },
+    {
+      "title": "Blood pressure reduction",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          317.8395323753357,
+          485.9747314453125
+        ],
+        [
+          450.0220031738281,
+          484.8544548153877
+        ],
+        [
+          450.0220031738281,
+          496.9747314453125
+        ],
+        [
+          317.8395323753357,
+          498.2417762875557
+        ]
+      ]
+    },
+    {
+      "title": "Lipid lowering agents",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.77381467819214,
+          101.07470703125
+        ],
+        [
+          167.69598388671875,
+          101.07470703125
+        ],
+        [
+          167.69598388671875,
+          112.13771885633469
+        ],
+        [
+          53.77381467819214,
+          112.13771885633469
+        ]
+      ]
+    },
+    {
+      "title": "Carotid endarterectomy",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.376504957675934,
+          386.9747314453125
+        ],
+        [
+          179.31198120117188,
+          386.9747314453125
+        ],
+        [
+          179.31198120117188,
+          398.46593606472015
+        ],
+        [
+          53.376504957675934,
+          398.46593606472015
+        ]
+      ]
+    },
+    {
+      "title": "Endovascular therapy",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.31686335802078,
+          584.8747253417969
+        ],
+        [
+          167.69598388671875,
+          584.8747253417969
+        ],
+        [
+          167.69598388671875,
+          595.8747253417969
+        ],
+        [
+          53.31686335802078,
+          595.8747253417969
+        ]
+      ]
+    },
+    {
+      "title": "TIA clinics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          312.0,
+          145.07470703125
+        ],
+        [
+          365.50506234169006,
+          145.07470703125
+        ],
+        [
+          365.50506234169006,
+          156.37625259160995
+        ],
+        [
+          312.0,
+          156.37625259160995
+        ]
+      ]
+    },
+    {
+      "title": "PRIMARY STROKE PREVENTION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          311.3471338748932,
+          342.07470703125
+        ],
+        [
+          483.1380310058594,
+          342.07470703125
+        ],
+        [
+          483.1380310058594,
+          353.07470703125
+        ],
+        [
+          311.3471338748932,
+          353.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "ORGANIZATION OF STROKE SERVICES",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.774461805820465,
+          155.1042965054512
+        ],
+        [
+          267.2179870605469,
+          155.1042965054512
+        ],
+        [
+          267.2179870605469,
+          166.17486572265625
+        ],
+        [
+          59.774461805820465,
+          166.17486572265625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          208
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          129
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          110
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter62"
+}

@@ -1,0 +1,1903 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Valvular Heart Disease",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          114.49609375,
+          55.4879150390625
+        ],
+        [
+          334.43212890625,
+          55.4879150390625
+        ],
+        [
+          334.43212890625,
+          79.59430072456598
+        ],
+        [
+          114.49609375,
+          79.59430072456598
+        ]
+      ]
+    },
+    {
+      "title": "AORTIC STENOSIS\nEtiology and prevalence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.69474858045578,
+          118.86011691391468
+        ],
+        [
+          179.927978515625,
+          118.86011691391468
+        ],
+        [
+          179.927978515625,
+          147.1377579420805
+        ],
+        [
+          52.69474858045578,
+          147.1377579420805
+        ]
+      ]
+    },
+    {
+      "title": "Pathophysiology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.6246588230133,
+          639.3407880663872
+        ],
+        [
+          400.0110778808594,
+          639.3407880663872
+        ],
+        [
+          400.0110778808594,
+          651.4577402472496
+        ],
+        [
+          311.6246588230133,
+          651.4577402472496
+        ]
+      ]
+    },
+    {
+      "title": "Symptoms",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.0,
+          398.07470703125
+        ],
+        [
+          118.06923741102219,
+          397.5784510374069
+        ],
+        [
+          117.44200134277344,
+          409.07470703125
+        ],
+        [
+          59.07377332448959,
+          409.86248338222504
+        ]
+      ]
+    },
+    {
+      "title": "Signs",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.6280326843262,
+          167.07470703125
+        ],
+        [
+          347.3370056152344,
+          167.01288852095604
+        ],
+        [
+          347.3370056152344,
+          178.07470703125
+        ],
+        [
+          317.6280326843262,
+          179.51379838585854
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-1. Correlation of Physical Signs of Aortic \nStenosis With Severity of Aortic Stenosis in Older Persons",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.8397970199585,
+          529.1483863592148
+        ],
+        [
+          554.45245885849,
+          527.6190894842148
+        ],
+        [
+          554.45245885849,
+          552.5349578857422
+        ],
+        [
+          314.8397970199585,
+          553.1946755647659
+        ]
+      ]
+    },
+    {
+      "title": "Electrocardiography and chest \nroentgenography",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.5549099445343,
+          320.1502828001976
+        ],
+        [
+          216.5909881591797,
+          320.1502828001976
+        ],
+        [
+          216.5909881591797,
+          343.1758117675781
+        ],
+        [
+          53.5549099445343,
+          343.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Echocardiography and Doppler \nechocardiography",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.67243307828903,
+          682.9040005803108
+        ],
+        [
+          219.02198791503906,
+          682.9040005803108
+        ],
+        [
+          219.02198791503906,
+          706.1758117675781
+        ],
+        [
+          53.67243307828903,
+          706.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Natural history",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.66861486434937,
+          651.0747222900391
+        ],
+        [
+          391.3114900588989,
+          651.0747222900391
+        ],
+        [
+          391.3114900588989,
+          662.5029058456421
+        ],
+        [
+          311.66861486434937,
+          662.5029058456421
+        ]
+      ]
+    },
+    {
+      "title": "Medical management",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.643109291791916,
+          233.07489013671875
+        ],
+        [
+          168.0361944437027,
+          233.07489013671875
+        ],
+        [
+          168.0361944437027,
+          244.07489013671875
+        ],
+        [
+          53.643109291791916,
+          244.07489013671875
+        ]
+      ]
+    },
+    {
+      "title": "Aortic valve replacement",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.0,
+          507.9749450683594
+        ],
+        [
+          186.10444378852844,
+          507.9749450683594
+        ],
+        [
+          184.90913128852844,
+          518.9749450683594
+        ],
+        [
+          53.02977204322815,
+          518.9749450683594
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-3. American College of Cardiology/\nAmerican Heart Association Indications for Aortic Valve \nReplacement in Persons With Severe Aortic Stenosis (AS)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.96920019388199,
+          595.4706707596779
+        ],
+        [
+          288.44000244140625,
+          595.4706707596779
+        ],
+        [
+          288.44000244140625,
+          628.1895405650139
+        ],
+        [
+          52.77388769388199,
+          628.1895405650139
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-4. Indications for Antithrombotic Therapy \nin Patients With Aortic Valve Replacement (AVR)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          312.0,
+          517.2104797363281
+        ],
+        [
+          525.3499755859375,
+          516.3105626106262
+        ],
+        [
+          525.3499755859375,
+          538.2104644775391
+        ],
+        [
+          311.87362146377563,
+          538.6866102218628
+        ]
+      ]
+    },
+    {
+      "title": "Balloon aortic valvuloplasty",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.0,
+          541.0749206542969
+        ],
+        [
+          205.66061425209045,
+          540.4518261551857
+        ],
+        [
+          205.49697875976562,
+          552.0749206542969
+        ],
+        [
+          58.85614988207817,
+          552.4724505543709
+        ]
+      ]
+    },
+    {
+      "title": "Percutaneous transcatheter implantation \nof aortic valve prostheses",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.8550720214844,
+          221.1749267578125
+        ],
+        [
+          536.2180786132812,
+          220.9288640320301
+        ],
+        [
+          536.2180786132812,
+          244.1759033203125
+        ],
+        [
+          316.6597595214844,
+          244.80919316411018
+        ]
+      ]
+    },
+    {
+      "title": "AORTIC REGURGITATION\nEtiology and prevalence",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.2804334163666,
+          384.1749267578125
+        ],
+        [
+          453.8022072315216,
+          383.823039829731
+        ],
+        [
+          453.8022072315216,
+          409.7873906493187
+        ],
+        [
+          317.2804334163666,
+          411.3166875243187
+        ]
+      ]
+    },
+    {
+      "title": "Pathophysiology",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.58115589618683,
+          68.20062255859375
+        ],
+        [
+          142.010986328125,
+          68.20062255859375
+        ],
+        [
+          142.010986328125,
+          79.67423551529646
+        ],
+        [
+          53.58115589618683,
+          79.67423551529646
+        ]
+      ]
+    },
+    {
+      "title": "Symptoms",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.47844284772873,
+          464.1005859375
+        ],
+        [
+          111.44200134277344,
+          464.1005859375
+        ],
+        [
+          111.44200134277344,
+          475.1005859375
+        ],
+        [
+          53.47844284772873,
+          475.1005859375
+        ]
+      ]
+    },
+    {
+      "title": "Signs",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.416808634996414,
+          640.0007171630859
+        ],
+        [
+          83.33699798583984,
+          640.0007171630859
+        ],
+        [
+          83.33699798583984,
+          651.4699212312698
+        ],
+        [
+          53.416808634996414,
+          651.4699212312698
+        ]
+      ]
+    },
+    {
+      "title": "Electrocardiography and chest \nroentgenography",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.0,
+          386.1748046875
+        ],
+        [
+          474.59100341796875,
+          386.1748046875
+        ],
+        [
+          474.59100341796875,
+          409.1758117675781
+        ],
+        [
+          311.06756615638733,
+          409.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Echocardiography and Doppler \nechocardiography",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.96423292160034,
+          617.1748199462891
+        ],
+        [
+          477.0220031738281,
+          617.1748199462891
+        ],
+        [
+          477.0220031738281,
+          640.1758117675781
+        ],
+        [
+          311.96423292160034,
+          640.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Natural history",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          58.94753649830818,
+          222.07470703125
+        ],
+        [
+          138.85899353027344,
+          222.07470703125
+        ],
+        [
+          138.85899353027344,
+          233.07470703125
+        ],
+        [
+          58.94753649830818,
+          233.90858924388885
+        ]
+      ]
+    },
+    {
+      "title": "Medical and surgical management",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          59.75468158721924,
+          595.9748229980469
+        ],
+        [
+          240.97984063625336,
+          595.8383404612541
+        ],
+        [
+          240.97984063625336,
+          606.9748229980469
+        ],
+        [
+          59.75468158721924,
+          607.6448408961296
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-5. American College of Cardiology/\nAmerican Heart Association Indications for Aortic Valve \nReplacement in Persons With Chronic Severe Aortic \nRegurgitation (AR)",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          318.0,
+          585.0862731933594
+        ],
+        [
+          547.97998046875,
+          584.889455974102
+        ],
+        [
+          547.97998046875,
+          628.0862731933594
+        ],
+        [
+          317.09476017951965,
+          628.302483022213
+        ]
+      ]
+    },
+    {
+      "title": "MITRAL ANNULAR CALCIUM",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.80676347017288,
+          342.1750183105469
+        ],
+        [
+          207.82978105545044,
+          342.1750183105469
+        ],
+        [
+          207.82978105545044,
+          353.1750183105469
+        ],
+        [
+          53.80676347017288,
+          353.1750183105469
+        ]
+      ]
+    },
+    {
+      "title": "Prevalence",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          53.5915247797966,
+          651.0750122070312
+        ],
+        [
+          110.85899353027344,
+          651.0750122070312
+        ],
+        [
+          110.85899353027344,
+          662.4448478221893
+        ],
+        [
+          53.5915247797966,
+          662.4448478221893
+        ]
+      ]
+    },
+    {
+      "title": "Predisposing factors",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          311.33797788619995,
+          67.88915681093931
+        ],
+        [
+          418.9530029296875,
+          67.88915681093931
+        ],
+        [
+          418.9530029296875,
+          79.15118408203125
+        ],
+        [
+          311.33797788619995,
+          79.15118408203125
+        ]
+      ]
+    },
+    {
+      "title": "Diagnosis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          59.735152155160904,
+          101.07501220703125
+        ],
+        [
+          111.76073384284973,
+          100.17451076209545
+        ],
+        [
+          111.33700561523438,
+          112.07501220703125
+        ],
+        [
+          58.539839655160904,
+          112.86373583972454
+        ]
+      ]
+    },
+    {
+      "title": "Chamber size",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          60.0,
+          661.9750061035156
+        ],
+        [
+          131.64033687114716,
+          660.872940838337
+        ],
+        [
+          130.906005859375,
+          672.9750061035156
+        ],
+        [
+          58.82901933789253,
+          673.904073536396
+        ]
+      ]
+    },
+    {
+      "title": "Atrial fibrillation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          317.67804408073425,
+          277.4179382324219
+        ],
+        [
+          403.6637213230133,
+          275.93646106123924
+        ],
+        [
+          403.58001708984375,
+          288.4179382324219
+        ],
+        [
+          316.48273158073425,
+          288.88419368863106
+        ]
+      ]
+    },
+    {
+      "title": "Conduction defects",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          318.0,
+          343.31793212890625
+        ],
+        [
+          419.4530029296875,
+          341.9972276687622
+        ],
+        [
+          419.4530029296875,
+          354.31793212890625
+        ],
+        [
+          316.8971586227417,
+          354.66241747140884
+        ]
+      ]
+    },
+    {
+      "title": "Mitral regurgitation",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          318.0,
+          530.2178192138672
+        ],
+        [
+          421.3009948730469,
+          530.068027317524
+        ],
+        [
+          421.3009948730469,
+          541.3157892823219
+        ],
+        [
+          317.6974503993988,
+          542.8450861573219
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-7. Prevalence of Mitral Regurgitation (MR) \nand of Mitral Stenosis (MS) Diagnosed by Doppler \nEchocardiography in Persons With Mitral Annular Calcium",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          53.17992478609085,
+          59.99993896484375
+        ],
+        [
+          291.7200012207031,
+          59.99993896484375
+        ],
+        [
+          291.7200012207031,
+          91.99993896484375
+        ],
+        [
+          53.17992478609085,
+          91.99993896484375
+        ]
+      ]
+    },
+    {
+      "title": "Mitral stenosis",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          54.0,
+          299.0419006347656
+        ],
+        [
+          131.87630420923233,
+          298.6697241961956
+        ],
+        [
+          131.6269989013672,
+          310.0419006347656
+        ],
+        [
+          53.113625943660736,
+          310.85607531666756
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial endocarditis",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          54.0,
+          540.9419097900391
+        ],
+        [
+          167.7806292772293,
+          540.2616441249847
+        ],
+        [
+          167.70700073242188,
+          551.9419097900391
+        ],
+        [
+          53.05609095096588,
+          552.5351289510727
+        ]
+      ]
+    },
+    {
+      "title": "Cardiac events",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          311.031343460083,
+          453.0908203125
+        ],
+        [
+          389.0329895019531,
+          452.87531143426895
+        ],
+        [
+          389.0329895019531,
+          464.0908203125
+        ],
+        [
+          309.836030960083,
+          464.9693017601967
+        ]
+      ]
+    },
+    {
+      "title": "Mitral valve replacement",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          311.3485929965973,
+          595.9908142089844
+        ],
+        [
+          442.21795654296875,
+          595.5155677199364
+        ],
+        [
+          442.21795654296875,
+          606.9908142089844
+        ],
+        [
+          310.1532804965973,
+          607.5867828726768
+        ]
+      ]
+    },
+    {
+      "title": "Cerebrovascular events",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          310.70719957351685,
+          683.8908157348633
+        ],
+        [
+          434.8809814453125,
+          683.8908157348633
+        ],
+        [
+          434.8809814453125,
+          694.8908157348633
+        ],
+        [
+          310.70719957351685,
+          695.4646019339561
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-9. Incidence of New Thromboembolic (TE) \nStroke at 44 Months",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          59.921988129615784,
+          545.2320709228516
+        ],
+        [
+          277.2420959472656,
+          545.1453786492348
+        ],
+        [
+          277.2420959472656,
+          566.2320709228516
+        ],
+        [
+          58.726675629615784,
+          566.5106379389763
+        ]
+      ]
+    },
+    {
+      "title": "MITRAL STENOSIS\nPrevalence and etiology",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          316.90627813339233,
+          450.1748046875
+        ],
+        [
+          443.3150939941406,
+          449.1862934231758
+        ],
+        [
+          443.3150939941406,
+          475.1778259277344
+        ],
+        [
+          315.71096563339233,
+          476.15676552057266
+        ]
+      ]
+    },
+    {
+      "title": "Pathophysiology",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          317.9920959472656,
+          596.0747222900391
+        ],
+        [
+          406.0030822753906,
+          594.7695407867432
+        ],
+        [
+          406.0030822753906,
+          607.0747222900391
+        ],
+        [
+          317.19529366493225,
+          607.8161680698395
+        ]
+      ]
+    },
+    {
+      "title": "Symptoms and signs",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          317.27124094963074,
+          672.9748077392578
+        ],
+        [
+          428.60809326171875,
+          672.1618661284447
+        ],
+        [
+          428.60809326171875,
+          683.9748077392578
+        ],
+        [
+          317.27124094963074,
+          685.2890465855598
+        ]
+      ]
+    },
+    {
+      "title": "Diagnostic tests",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.57738497853279,
+          189.02313232421875
+        ],
+        [
+          138.34799194335938,
+          189.02313232421875
+        ],
+        [
+          138.34799194335938,
+          200.46894121170044
+        ],
+        [
+          53.57738497853279,
+          200.46894121170044
+        ]
+      ]
+    },
+    {
+      "title": "Management of mitral stenosis",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.726931273937225,
+          276.916866928339
+        ],
+        [
+          217.80099487304688,
+          276.916866928339
+        ],
+        [
+          217.80099487304688,
+          287.9231262207031
+        ],
+        [
+          53.726931273937225,
+          287.9231262207031
+        ]
+      ]
+    },
+    {
+      "title": "ACUTE MITRAL REGURGITATION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.51626145839691,
+          538.6735424995422
+        ],
+        [
+          231.2756234407425,
+          538.6735424995422
+        ],
+        [
+          231.2756234407425,
+          550.9230194091797
+        ],
+        [
+          53.51626145839691,
+          550.9230194091797
+        ]
+      ]
+    },
+    {
+      "title": "Signs",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          53.50915735960007,
+          628.4788506031036
+        ],
+        [
+          83.41206014156342,
+          628.4788506031036
+        ],
+        [
+          83.41206014156342,
+          639.9450302124023
+        ],
+        [
+          53.50915735960007,
+          639.9450302124023
+        ]
+      ]
+    },
+    {
+      "title": "Diagnosis and management",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          311.2006015777588,
+          59.26568603515625
+        ],
+        [
+          458.68499755859375,
+          59.26568603515625
+        ],
+        [
+          458.68499755859375,
+          70.26568603515625
+        ],
+        [
+          311.2006015777588,
+          70.26568603515625
+        ]
+      ]
+    },
+    {
+      "title": "CHRONIC MITRAL REGURGITATION\nPrevalence and etiology",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          312.0,
+          173.1097627133131
+        ],
+        [
+          503.24421787261963,
+          173.1097627133131
+        ],
+        [
+          503.24421787261963,
+          198.49251821637154
+        ],
+        [
+          312.0,
+          198.49251821637154
+        ]
+      ]
+    },
+    {
+      "title": "Pathophysiology",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          312.0,
+          343.1552378833294
+        ],
+        [
+          400.010986328125,
+          343.1552378833294
+        ],
+        [
+          400.010986328125,
+          354.3940391242504
+        ],
+        [
+          311.2310972213745,
+          354.3940391242504
+        ]
+      ]
+    },
+    {
+      "title": "Symptoms and signs",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          311.4392409324646,
+          497.0655822753906
+        ],
+        [
+          422.65305948257446,
+          497.0655822753906
+        ],
+        [
+          422.6159973144531,
+          508.0655822753906
+        ],
+        [
+          310.2439284324646,
+          508.0655822753906
+        ]
+      ]
+    },
+    {
+      "title": "Diagnosis",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          58.61979040503502,
+          68.09247073531151
+        ],
+        [
+          111.33700561523438,
+          66.56317386031151
+        ],
+        [
+          111.33700561523438,
+          79.11602783203125
+        ],
+        [
+          58.61979040503502,
+          79.73442287743092
+        ]
+      ]
+    },
+    {
+      "title": "Management",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.843578577041626,
+          277.0160217285156
+        ],
+        [
+          129.6739959716797,
+          276.32895943522453
+        ],
+        [
+          129.6739959716797,
+          288.0160217285156
+        ],
+        [
+          58.648266077041626,
+          288.52576473355293
+        ]
+      ]
+    },
+    {
+      "title": "Timing of surgery",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          59.914450854063034,
+          419.9160461425781
+        ],
+        [
+          152.89498901367188,
+          419.4253959059715
+        ],
+        [
+          152.89498901367188,
+          430.9160461425781
+        ],
+        [
+          58.719138354063034,
+          431.7664595246315
+        ]
+      ]
+    },
+    {
+      "title": "Table 44-10. Indications for Mitral Valve Surgery in \nPersons With Nonischemic Severe Mitral Regurgitation",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          318.0,
+          59.99993896484375
+        ],
+        [
+          546.473397731781,
+          59.99993896484375
+        ],
+        [
+          545.278085231781,
+          80.99993896484375
+        ],
+        [
+          318.0,
+          81.76148329675198
+        ]
+      ]
+    },
+    {
+      "title": "TRICUSPID REGURGITATION",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          318.0,
+          385.674852758646
+        ],
+        [
+          472.9786412715912,
+          384.145555883646
+        ],
+        [
+          471.7833287715912,
+          397.0279235839844
+        ],
+        [
+          317.6296741962433,
+          397.96931594610214
+        ]
+      ]
+    },
+    {
+      "title": "TRICUSPID STENOSIS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          317.6942038536072,
+          606.0279235839844
+        ],
+        [
+          435.410014629364,
+          604.6152294874191
+        ],
+        [
+          435.410014629364,
+          617.0279235839844
+        ],
+        [
+          317.6942038536072,
+          618.0803039073944
+        ]
+      ]
+    },
+    {
+      "title": "PULMONIC REGURGITATION",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          53.25187772512436,
+          155.17486572265625
+        ],
+        [
+          208.20032501220703,
+          155.17486572265625
+        ],
+        [
+          208.20032501220703,
+          166.30633310973644
+        ],
+        [
+          53.25187772512436,
+          166.30633310973644
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          282
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "TextInlineMath",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "TableCell",
+          50
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          296
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "TableCell",
+          56
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          257
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          42
+        ],
+        [
+          "Line",
+          20
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter44"
+}

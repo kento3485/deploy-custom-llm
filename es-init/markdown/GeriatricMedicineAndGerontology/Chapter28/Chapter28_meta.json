@@ -1,0 +1,685 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Normal Cognitive Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.7517421245575,
+          55.4879150390625
+        ],
+        [
+          339.12811279296875,
+          55.4879150390625
+        ],
+        [
+          339.12811279296875,
+          80.48515769094229
+        ],
+        [
+          109.7517421245575,
+          80.48515769094229
+        ]
+      ]
+    },
+    {
+      "title": "Intelligence and Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.027058988809586,
+          254.83626651763916
+        ],
+        [
+          171.35899353027344,
+          254.83626651763916
+        ],
+        [
+          171.35899353027344,
+          266.8466700911522
+        ],
+        [
+          53.027058988809586,
+          266.8466700911522
+        ]
+      ]
+    },
+    {
+      "title": "PREMORBID ABILITY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          311.57081723213196,
+          146.38326032459736
+        ],
+        [
+          402.29659724235535,
+          144.85396344959736
+        ],
+        [
+          402.0179748535156,
+          156.0683093816042
+        ],
+        [
+          310.37550473213196,
+          157.5976062566042
+        ]
+      ]
+    },
+    {
+      "title": "COGNITIVE RESERVE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          58.833387583494186,
+          58.66888427734375
+        ],
+        [
+          153.01498413085938,
+          58.46123852580786
+        ],
+        [
+          153.01498413085938,
+          67.83003703504801
+        ],
+        [
+          58.833387583494186,
+          69.35933391004801
+        ]
+      ]
+    },
+    {
+      "title": "Attention and Processing Speed",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.0,
+          57.10479736328125
+        ],
+        [
+          488.152813911438,
+          57.10479736328125
+        ],
+        [
+          488.152813911438,
+          68.10479736328125
+        ],
+        [
+          318.0,
+          69.08903624117374
+        ]
+      ]
+    },
+    {
+      "title": "Memory",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.64077925682068,
+          255.07470703125
+        ],
+        [
+          98.0,
+          255.07470703125
+        ],
+        [
+          98.0,
+          266.41048818826675
+        ],
+        [
+          53.64077925682068,
+          266.41048818826675
+        ]
+      ]
+    },
+    {
+      "title": "WORKING MEMORY (SHORT-TERM MEMORY)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          54.0,
+          454.48021441698074
+        ],
+        [
+          254.510986328125,
+          454.48021441698074
+        ],
+        [
+          254.510986328125,
+          463.8166353106499
+        ],
+        [
+          54.0,
+          463.8166353106499
+        ]
+      ]
+    },
+    {
+      "title": "LONG-TERM MEMORY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.5883631706238,
+          498.7539367675781
+        ],
+        [
+          410.5050048828125,
+          497.31387466192245
+        ],
+        [
+          410.5050048828125,
+          507.7539367675781
+        ],
+        [
+          311.5883631706238,
+          508.159244120121
+        ]
+      ]
+    },
+    {
+      "title": "OVERALL AGE-RELATED CHANGES IN MEMORY",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          318.0,
+          399.7539367675781
+        ],
+        [
+          529.3070132732391,
+          398.33712565898895
+        ],
+        [
+          528.1117007732391,
+          408.7539367675781
+        ],
+        [
+          317.59326910972595,
+          409.40819334983826
+        ]
+      ]
+    },
+    {
+      "title": "Verbal Abilities",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.478910446167,
+          695.0747146606445
+        ],
+        [
+          398.0798645019531,
+          694.9665817022324
+        ],
+        [
+          398.0798645019531,
+          706.1350039243698
+        ],
+        [
+          317.478910446167,
+          707.6643007993698
+        ]
+      ]
+    },
+    {
+      "title": "Executive Functions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          311.4004647731781,
+          178.07489013671875
+        ],
+        [
+          417.4529321193695,
+          178.07489013671875
+        ],
+        [
+          417.4529321193695,
+          189.07489013671875
+        ],
+        [
+          311.4004647731781,
+          189.07489013671875
+        ]
+      ]
+    },
+    {
+      "title": "Lifestyle Factors Associated with \nCognitive Functioning\nLEISURE ACTIVITIES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.74865359067917,
+          461.2749328613281
+        ],
+        [
+          236.0549774169922,
+          461.04217118024826
+        ],
+        [
+          236.0549774169922,
+          496.85406494140625
+        ],
+        [
+          58.55334109067917,
+          496.85406494140625
+        ]
+      ]
+    },
+    {
+      "title": "PHYSICAL ACTIVITIES",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.50145387649536,
+          531.3496441841125
+        ],
+        [
+          415.78147172927856,
+          529.8203473091125
+        ],
+        [
+          414.58615922927856,
+          540.7540283203125
+        ],
+        [
+          316.30614137649536,
+          541.7309228181839
+        ]
+      ]
+    },
+    {
+      "title": "SOCIAL ACTIVITIES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.075542867183685,
+          58.69390869140625
+        ],
+        [
+          138.5189971923828,
+          58.69390869140625
+        ],
+        [
+          138.5189971923828,
+          68.78563173115253
+        ],
+        [
+          53.075542867183685,
+          68.78563173115253
+        ]
+      ]
+    },
+    {
+      "title": "HEALTH FACTORS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.86393824219704,
+          410.6939392089844
+        ],
+        [
+          134.00999450683594,
+          410.6939392089844
+        ],
+        [
+          134.00999450683594,
+          419.95179176330566
+        ],
+        [
+          53.86393824219704,
+          419.95179176330566
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.76480746269226,
+          233.0347900390625
+        ],
+        [
+          370.6908538341522,
+          233.0347900390625
+        ],
+        [
+          370.6908538341522,
+          244.0347900390625
+        ],
+        [
+          311.76480746269226,
+          244.0347900390625
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS\nNormal Cognitive Aging",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          309.9865758419037,
+          524.4515686035156
+        ],
+        [
+          415.01385498046875,
+          524.4515686035156
+        ],
+        [
+          415.01385498046875,
+          546.625
+        ],
+        [
+          309.9865758419037,
+          546.625
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENT",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          316.63338589668274,
+          124.75396728515625
+        ],
+        [
+          410.0069885253906,
+          124.75396728515625
+        ],
+        [
+          410.0069885253906,
+          134.40560773015022
+        ],
+        [
+          316.63338589668274,
+          134.40560773015022
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          228
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          52
+        ],
+        [
+          "Line",
+          26
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter28"
+}

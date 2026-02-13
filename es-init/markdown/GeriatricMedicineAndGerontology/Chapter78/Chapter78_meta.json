@@ -1,0 +1,733 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Liver",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          121.29608917236328,
+          55.4879150390625
+        ],
+        [
+          209.256103515625,
+          55.4879150390625
+        ],
+        [
+          209.256103515625,
+          79.4879150390625
+        ],
+        [
+          121.29608917236328,
+          79.4879150390625
+        ]
+      ]
+    },
+    {
+      "title": "STRUCTURE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.59622558951378,
+          121.78512820601463
+        ],
+        [
+          126.62699127197266,
+          120.25583133101463
+        ],
+        [
+          126.62699127197266,
+          133.129638671875
+        ],
+        [
+          58.59622558951378,
+          133.89622324705124
+        ]
+      ]
+    },
+    {
+      "title": "FUNCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.659236788749695,
+          540.1296081542969
+        ],
+        [
+          117.91450667381287,
+          539.3210481405258
+        ],
+        [
+          117.46400451660156,
+          551.1296081542969
+        ],
+        [
+          58.463924288749695,
+          552.5847862958908
+        ]
+      ]
+    },
+    {
+      "title": "DRUG AND ALCOHOL METABOLISM",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0000915527344,
+          408.1244201660156
+        ],
+        [
+          512.059246301651,
+          406.82386457920074
+        ],
+        [
+          511.1380920410156,
+          419.1244201660156
+        ],
+        [
+          317.8555462360382,
+          420.3731324672699
+        ]
+      ]
+    },
+    {
+      "title": "INVESTIGATIONS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.72458755970001,
+          265.1748046875
+        ],
+        [
+          148.80799806118011,
+          265.1748046875
+        ],
+        [
+          148.80799806118011,
+          276.1748046875
+        ],
+        [
+          53.72458755970001,
+          276.1748046875
+        ]
+      ]
+    },
+    {
+      "title": "Table 78-1. Interpreting LFTs in the Elderly",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          308.988098859787,
+          59.99993896484375
+        ],
+        [
+          490.34002685546875,
+          59.99993896484375
+        ],
+        [
+          490.34002685546875,
+          70.053466796875
+        ],
+        [
+          308.988098859787,
+          70.053466796875
+        ]
+      ]
+    },
+    {
+      "title": "RADIOLOGY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.356806457042694,
+          441.1748046875
+        ],
+        [
+          125.40599822998047,
+          439.8755412697792
+        ],
+        [
+          125.40599822998047,
+          452.1748046875
+        ],
+        [
+          59.356806457042694,
+          453.4760532975197
+        ]
+      ]
+    },
+    {
+      "title": "Table 78-2. Initial Serologic Tests in Elderly Patients \nwith Abnormal LFTs",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          59.99993896484375
+        ],
+        [
+          541.5017323493958,
+          59.99993896484375
+        ],
+        [
+          541.5017323493958,
+          80.99993896484375
+        ],
+        [
+          318.0,
+          80.99993896484375
+        ]
+      ]
+    },
+    {
+      "title": "LIVER BIOPSY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.9016819000244,
+          671.8786699175835
+        ],
+        [
+          392.5798645019531,
+          670.3493730425835
+        ],
+        [
+          392.5798645019531,
+          682.9115142822266
+        ],
+        [
+          316.9016819000244,
+          683.7085055708885
+        ]
+      ]
+    },
+    {
+      "title": "LIVER DISEASES",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.375707000494,
+          375.1749267578125
+        ],
+        [
+          142.62701416015625,
+          375.1749267578125
+        ],
+        [
+          142.62701416015625,
+          386.2419219017029
+        ],
+        [
+          53.375707000494,
+          386.2419219017029
+        ]
+      ]
+    },
+    {
+      "title": "Table 78-3. Common Causes of Acute and Chronic Liver \nDisease Presenting in the Elderly",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.524651408195496,
+          619.0302581787109
+        ],
+        [
+          286.7799987792969,
+          619.0302581787109
+        ],
+        [
+          286.7799987792969,
+          640.0302581787109
+        ],
+        [
+          53.524651408195496,
+          640.0302581787109
+        ]
+      ]
+    },
+    {
+      "title": "COMPLICATIONS OF CIRRHOSIS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.82218420505524,
+          441.08173871040344
+        ],
+        [
+          231.77598571777344,
+          441.08173871040344
+        ],
+        [
+          231.77598571777344,
+          452.2598683834076
+        ],
+        [
+          58.62687170505524,
+          452.2598683834076
+        ]
+      ]
+    },
+    {
+      "title": "ACUTE LIVER FAILURE",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          59.72078436613083,
+          67.064697265625
+        ],
+        [
+          180.6288707256317,
+          67.064697265625
+        ],
+        [
+          180.6288707256317,
+          78.064697265625
+        ],
+        [
+          59.72078436613083,
+          78.064697265625
+        ]
+      ]
+    },
+    {
+      "title": "LIVER TRANSPLANTATION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          317.1381325721741,
+          606.1750183105469
+        ],
+        [
+          461.12966108322144,
+          606.1750183105469
+        ],
+        [
+          461.12966108322144,
+          617.1750183105469
+        ],
+        [
+          317.1381325721741,
+          617.1750183105469
+        ]
+      ]
+    },
+    {
+      "title": "FOCAL LIVER LESIONS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          53.377818167209625,
+          177.17486572265625
+        ],
+        [
+          175.0439910888672,
+          177.17486572265625
+        ],
+        [
+          175.0439910888672,
+          188.4192177951336
+        ],
+        [
+          53.377818167209625,
+          188.4192177951336
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS\nThe Liver",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          311.0359396934509,
+          380.9970515370369
+        ],
+        [
+          383.3616027832031,
+          380.9970515370369
+        ],
+        [
+          383.3616027832031,
+          403.74359130859375
+        ],
+        [
+          311.0359396934509,
+          403.74359130859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          277
+        ],
+        [
+          "Line",
+          141
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          324
+        ],
+        [
+          "Line",
+          154
+        ],
+        [
+          "TableCell",
+          51
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          252
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          126
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          171
+        ],
+        [
+          "Line",
+          86
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter78"
+}

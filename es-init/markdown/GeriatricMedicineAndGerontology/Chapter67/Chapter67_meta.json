@@ -1,0 +1,755 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Disorders of the Spinal Cord \nand Nerve Roots",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          121.0,
+          55.185883931815624
+        ],
+        [
+          395.6080017089844,
+          55.185883931815624
+        ],
+        [
+          395.6080017089844,
+          105.47991943359375
+        ],
+        [
+          121.0,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "CERVICAL RADICULOPATHY \nAND MYELOPATHY\nGeneral issues",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.46900835633278,
+          337.94236010313034
+        ],
+        [
+          213.41697692871094,
+          337.94236010313034
+        ],
+        [
+          213.41697692871094,
+          376.2001953125
+        ],
+        [
+          59.46900835633278,
+          376.2001953125
+        ]
+      ]
+    },
+    {
+      "title": "Radiculopathy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.2206094264984,
+          341.70334392786026
+        ],
+        [
+          393.18499755859375,
+          341.70334392786026
+        ],
+        [
+          393.18499755859375,
+          354.1989333629608
+        ],
+        [
+          317.2206094264984,
+          354.1989333629608
+        ]
+      ]
+    },
+    {
+      "title": "Cervical myelopathy",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.28984475135803,
+          485.48091208934784
+        ],
+        [
+          425.1662142276764,
+          485.48091208934784
+        ],
+        [
+          425.1662142276764,
+          497.7544902563095
+        ],
+        [
+          317.28984475135803,
+          497.7544902563095
+        ]
+      ]
+    },
+    {
+      "title": "Investigations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.6648485660553,
+          211.07470703125
+        ],
+        [
+          385.9639892578125,
+          211.07470703125
+        ],
+        [
+          385.9639892578125,
+          222.07470703125
+        ],
+        [
+          310.6648485660553,
+          222.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Management",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.5443309545517,
+          145.07470703125
+        ],
+        [
+          129.6739959716797,
+          145.07470703125
+        ],
+        [
+          129.6739959716797,
+          156.14880421757698
+        ],
+        [
+          59.5443309545517,
+          156.14880421757698
+        ]
+      ]
+    },
+    {
+      "title": "CORD COMPRESSION IN RHEUMATOID \nARTHRITIS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.96100425720215,
+          110.17486572265625
+        ],
+        [
+          530.0909423828125,
+          110.17486572265625
+        ],
+        [
+          530.0909423828125,
+          133.17584228515625
+        ],
+        [
+          317.96100425720215,
+          133.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "SPINAL CORD COMPRESSION \nAND THORACIC DISK PROTRUSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          318.0,
+          682.1748123168945
+        ],
+        [
+          506.5683889389038,
+          682.1268444657326
+        ],
+        [
+          506.5683889389038,
+          705.1758117675781
+        ],
+        [
+          318.0,
+          705.7951031327248
+        ]
+      ]
+    },
+    {
+      "title": "CORD COMPRESSION FROM \nINTRADURAL TUMORS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.0,
+          605.1560211181641
+        ],
+        [
+          208.64898681640625,
+          603.8871240019798
+        ],
+        [
+          208.64898681640625,
+          628.1570129394531
+        ],
+        [
+          52.84474629163742,
+          628.7062756419182
+        ]
+      ]
+    },
+    {
+      "title": "METASTATIC SPINAL TUMORS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.0,
+          265.1749267578125
+        ],
+        [
+          477.6269836425781,
+          264.7431634962559
+        ],
+        [
+          477.6269836425781,
+          276.1749267578125
+        ],
+        [
+          311.2653865814209,
+          277.22353836894035
+        ]
+      ]
+    },
+    {
+      "title": "VASCULAR DISORDERS OF THE \nSPINAL CORD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.227674186229706,
+          231.1749267578125
+        ],
+        [
+          232.3699951171875,
+          231.1749267578125
+        ],
+        [
+          232.3699951171875,
+          254.1759033203125
+        ],
+        [
+          59.227674186229706,
+          254.1759033203125
+        ]
+      ]
+    },
+    {
+      "title": "SPINAL CORD INJURY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          59.50108623504639,
+          584.0252594947815
+        ],
+        [
+          177.98599243164062,
+          584.0252594947815
+        ],
+        [
+          177.98599243164062,
+          595.1749114990234
+        ],
+        [
+          59.50108623504639,
+          595.1749114990234
+        ]
+      ]
+    },
+    {
+      "title": "PAGET'S DISEASE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.46379947662354,
+          551.0321075320244
+        ],
+        [
+          415.17401123046875,
+          551.0321075320244
+        ],
+        [
+          415.17401123046875,
+          562.1749114990234
+        ],
+        [
+          316.46379947662354,
+          562.1749114990234
+        ]
+      ]
+    },
+    {
+      "title": "NEUROLOGIC COMPLICATIONS \nOF DEGENERATIVE DISEASE \nOF THE LUMBAR SPINE",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.19827324151993,
+          241.17486572265625
+        ],
+        [
+          225.1599884033203,
+          241.17486572265625
+        ],
+        [
+          225.1599884033203,
+          276.17681884765625
+        ],
+        [
+          53.19827324151993,
+          276.17681884765625
+        ]
+      ]
+    },
+    {
+      "title": "Acute nerve root entrapment",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.32010990381241,
+          464.07470703125
+        ],
+        [
+          206.81199645996094,
+          464.07470703125
+        ],
+        [
+          206.81199645996094,
+          475.07470703125
+        ],
+        [
+          53.32010990381241,
+          475.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Chronic nerve root entrapment",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          53.59942227602005,
+          573.9748229980469
+        ],
+        [
+          216.59100341796875,
+          573.9748229980469
+        ],
+        [
+          216.59100341796875,
+          584.9978713989258
+        ],
+        [
+          53.59942227602005,
+          584.9978713989258
+        ]
+      ]
+    },
+    {
+      "title": "Neurogenic claudication",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.399545043706894,
+          59.5648193359375
+        ],
+        [
+          187.27734053134918,
+          59.5648193359375
+        ],
+        [
+          187.27734053134918,
+          70.5648193359375
+        ],
+        [
+          59.399545043706894,
+          70.5648193359375
+        ]
+      ]
+    },
+    {
+      "title": "Investigations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.58108714222908,
+          290.46484375
+        ],
+        [
+          133.9639892578125,
+          290.46484375
+        ],
+        [
+          133.9639892578125,
+          301.46484375
+        ],
+        [
+          59.58108714222908,
+          301.46484375
+        ]
+      ]
+    },
+    {
+      "title": "Management",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          59.75459039211273,
+          422.3648376464844
+        ],
+        [
+          130.41018784046173,
+          422.3648376464844
+        ],
+        [
+          130.41018784046173,
+          433.3648376464844
+        ],
+        [
+          59.75459039211273,
+          433.3648376464844
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          318.0096130371094,
+          372.8326416015625
+        ],
+        [
+          390.05788564682007,
+          372.8326416015625
+        ],
+        [
+          390.05788564682007,
+          384.8326416015625
+        ],
+        [
+          318.0096130371094,
+          384.8326416015625
+        ]
+      ]
+    },
+    {
+      "title": "Disorders of the Spinal Cord \nand Nerve Roots",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          316.6555645465851,
+          386.006103515625
+        ],
+        [
+          441.02099609375,
+          385.268679946661
+        ],
+        [
+          441.02099609375,
+          405.80609130859375
+        ],
+        [
+          315.4602520465851,
+          405.8500392436981
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          124
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PictureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          221
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          102
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter67"
+}

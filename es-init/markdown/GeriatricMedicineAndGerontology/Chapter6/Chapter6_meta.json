@@ -1,0 +1,601 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Biology of Aging",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          110.20182645320892,
+          55.09133546054363
+        ],
+        [
+          269.7921142578125,
+          55.09133546054363
+        ],
+        [
+          269.7921142578125,
+          80.85158479213715
+        ],
+        [
+          110.20182645320892,
+          80.85158479213715
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.02671700716019,
+          110.76508297026157
+        ],
+        [
+          140.79812210798264,
+          110.76508297026157
+        ],
+        [
+          140.79812210798264,
+          123.05002538859844
+        ],
+        [
+          53.02671700716019,
+          123.05002538859844
+        ]
+      ]
+    },
+    {
+      "title": "THE INSULIN-SIGNALING PATHWAY \nAND LONGEVITY REGULATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          310.77913427352905,
+          396.1827087402344
+        ],
+        [
+          508.8119812011719,
+          395.11308521032333
+        ],
+        [
+          508.8119812011719,
+          419.54468554258347
+        ],
+        [
+          309.58382177352905,
+          421.07398241758347
+        ]
+      ]
+    },
+    {
+      "title": "CELL PROLIFERATION, TELOMERASE, \nAND TELOMERE FUNCTION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.3493926525116,
+          462.1748046875
+        ],
+        [
+          256.9389953613281,
+          462.1748046875
+        ],
+        [
+          256.9389953613281,
+          485.1758117675781
+        ],
+        [
+          53.3493926525116,
+          485.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Telomere structure and replicative \nsenescence",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.426935851573944,
+          562.1748199462891
+        ],
+        [
+          237.39198303222656,
+          562.1748199462891
+        ],
+        [
+          237.39198303222656,
+          585.1758117675781
+        ],
+        [
+          53.426935851573944,
+          585.1758117675781
+        ]
+      ]
+    },
+    {
+      "title": "Altered phenotype and cancer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.0,
+          277.07470703125
+        ],
+        [
+          469.95880651474,
+          277.07470703125
+        ],
+        [
+          469.70697021484375,
+          288.2387415468693
+        ],
+        [
+          311.6833519935608,
+          288.2387415468693
+        ]
+      ]
+    },
+    {
+      "title": "Too much telomerase activity and cancer",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.99874114990234,
+          452.9747314453125
+        ],
+        [
+          527.7759399414062,
+          452.9747314453125
+        ],
+        [
+          527.7759399414062,
+          464.3703333735466
+        ],
+        [
+          311.99874114990234,
+          464.3703333735466
+        ]
+      ]
+    },
+    {
+      "title": "Too little telomerase activity and aging",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.06041646003723,
+          628.8747253417969
+        ],
+        [
+          517.4029541015625,
+          628.8747253417969
+        ],
+        [
+          517.4029541015625,
+          639.8747253417969
+        ],
+        [
+          311.06041646003723,
+          639.8747253417969
+        ]
+      ]
+    },
+    {
+      "title": "Telomere length as a biomarker \nof physiologic age",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.82471942901611,
+          474.1748046875
+        ],
+        [
+          229.93898010253906,
+          473.62232744693756
+        ],
+        [
+          229.93898010253906,
+          497.1758117675781
+        ],
+        [
+          58.62940692901611,
+          497.9057958126068
+        ]
+      ]
+    },
+    {
+      "title": "CELL DEATH AND CELL REPLACEMENT \u2014\nA CRITICAL ROLE FOR STEM CELLS?",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          60.0,
+          649.1748199462891
+        ],
+        [
+          280.80291748046875,
+          648.5958623886108
+        ],
+        [
+          280.80291748046875,
+          672.1758117675781
+        ],
+        [
+          59.1032931804657,
+          673.1025087833405
+        ]
+      ]
+    },
+    {
+      "title": "PROGEROID SYNDROMES \nAND NORMAL AGING",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.43940472602844,
+          638.1748199462891
+        ],
+        [
+          460.4170227050781,
+          636.653644323349
+        ],
+        [
+          460.4170227050781,
+          661.3710544109344
+        ],
+        [
+          316.24409222602844,
+          662.9003512859344
+        ]
+      ]
+    },
+    {
+      "title": "PROTEIN DAMAGE AND SARCOPENIA\u2014\nDOES PROTEIN OXIDATIVE DAMAGE \nPLAY A CAUSAL ROLE?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.401109397411346,
+          285.1749267578125
+        ],
+        [
+          267.28997802734375,
+          285.1749267578125
+        ],
+        [
+          267.28997802734375,
+          320.17694091796875
+        ],
+        [
+          53.401109397411346,
+          320.17694091796875
+        ]
+      ]
+    },
+    {
+      "title": "WHY INVEST IN BASIC AGING \nRESEARCH?\u2014THE LONGEVITY DIVIDEND",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.65043020248413,
+          517.1749267578125
+        ],
+        [
+          537.5569968223572,
+          516.2402302622795
+        ],
+        [
+          537.406005859375,
+          540.1759185791016
+        ],
+        [
+          316.45511770248413,
+          540.6197463870049
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS\nBiology of Aging",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          309.7512195110321,
+          514.70556640625
+        ],
+        [
+          383.5050048828125,
+          514.70556640625
+        ],
+        [
+          383.5050048828125,
+          536.8789978027344
+        ],
+        [
+          309.7512195110321,
+          536.8789978027344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          124
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          53
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter6"
+}

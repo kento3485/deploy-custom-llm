@@ -1,0 +1,159 @@
+# Ethical Issues in Geriatric Medicine
+
+Søren Holm
+
+In one sense there are no ethical issues or principles that are specific to geriatric medicine. Our moral status as persons do not change when we grow old and the old are due the same measure of respect and attention as the young.1 The clinical situations in which ethical issues arise are also in most cases very similar to clinical situations that may arise in other areas of medical practice.
+
+In another sense there are specific ethical issues in geriatric medicine caused by (1) a stereotypic social image in many Western societies of the elderly and old as less competent and less worthy of attention than the young, (2) the tendency in many health care systems to underfund geriatric medicine in comparison to other specialties, and (3) the complex interface between health care and social services for the old.
+
+This chapter will briefly review some core general elements of medical ethics as they relate to geriatric medicine before considering some of the ethical problems that occur frequently in geriatric medicine, including decision making for incompetent patients, advanced decision making and the use of health care proxies, research involving the incompetent, and end of life issues. The final section will be concerned with resource allocation and the health care claims of the elderly and old.
+
+## **Respect for autonomy**
+
+The cornerstone of clinical medical ethics is respect for autonomy or self-determination.2 Competent patients who are informed about the available treatment options can decide which of the treatment options they prefer and can also decide not to have any treatment at all. It is generally accepted both in ethics and in law that competent patients can refuse treatment even if that treatment is simple and life saving.
+
+The main reason that we ought to respect autonomy in health care is that the life the decisions are about is the life of the patient and he or she has a right to be able to shape that life according to his or her own values and ideas about the good life.
+
+In most health care systems, respect for autonomy is institutionalized in clinical practice through a requirement for valid, informed consent for diagnostic and therapeutic procedures. And in research ethics, there is even stronger protection of autonomy through much more explicit informed consent requirements.
+
+But respect for autonomy entails more than just respecting the decisions people make, it also entails respecting them as the primary decision makers in relation to their own life. This means first that patients have to be involved in decisionmaking processes at a point where there is real choice and before a default decision has been established by *fait à compli; s*econd that they should not be forced to make decisions before they are ready to make them; and third that patients have to be given the information that they require to make a decision, not only the information that I as a health care professional think is relevant.
+
+Taking patients seriously as decision makers may therefore have implications for the way decision-making processes are designed and structured at the ward or department level to ensure that patients are involved at the right time and that there is time enough for them to be properly informed.
+
+In a broader perspective, respect for self-determination also creates an obligation to promote people's abilities to make decisions by promoting their autonomy. If there is something we can do which will enable a person to make autonomous decisions we should do it. This may include clinically relatively trivial interventions (e.g., rehydrating a dehydrated and confused patient), but may also include patient education or the use of modern patient decision support programs.
+
+Two common misunderstandings of what respect for self-determination means need to be mentioned. The first misunderstanding is that respect for autonomy entails that patients have to make all decisions themselves and that they cannot delegate decision making to other people. But delegating decision making is a perfectly autonomous thing to do! We all do it on a regular basis. And there is nothing ethically problematic in a patient asking a doctor to make the decision if that patient trusts that the doctor is able to make a better decision. Forcing patients to make decisions they do not want to make is not respecting the patient's selfdetermination.
+
+The other common misconception is that you respect people's autonomy by giving them what they want and that this means that if you want something, for instance a specific treatment, I have a moral obligation to help you get it. But respect for autonomy only, strictly speaking, implies a negative duty of noninterference. Any positive duty to help cannot be derived from respect for self-determination, it has to be justified differently, for instance through some account of the professional obligations that flow from an established doctor-patient relationship.
+
+## **Paternalism**
+
+Paternalism is the term used for actions we take or decisions we make for another person with the intention of benefiting that person. The word is derived from the Latin word for father and the idea is that a paternalist decision is like the decision a good father makes for his child. It is important to note that an action can only count as paternalist if it is done to benefit the other person. Actions chosen and performed to benefit the doctor, the health care system, or with mixed intentions are not paternalistic, but simply coercive.
+
+Paternalistic decision making is not problematic if the person in question is incompetent (see latter discussion). This situation is sometimes referred to as genuine paternalism.
+
+Paternalistic decision making is, however, problematic if the person is competent and wants to make his or her own decisions. In that case the paternalistic action overrides the autonomy of the person. Paternalistic decision making can be justified in emergency situations where there is no time to consult the patient and it can sometimes be justified in a public health context, but it is rarely, if ever justified in nonemergency interactions with individual patients.
+
+An increasingly common form of paternalism is what can be called informational paternalism. Informational paternalism occurs when patient have clearly signaled that they do not want some piece of information about their condition (e.g., do not want to know the precise prognosis) but where they are given information nevertheless because the health care team thinks that it is… "best for them to know…" This is sometimes supported by the claim that health care professionals have a duty to tell the truth to their patients. But it does not follow from that duty, which is essentially a duty not to lie or to tell the truth if asked, that there is a duty to impress the truth on people who do not want to hear it. This is easily seen if we consider a parallel example: Every one of us have a duty to tell the truth to our friends but this does not generate an obligation to provide unsolicited evaluations of their dress sense or latest hair cut, even if those evaluations are the gospel truth!
+
+## **Dignity**
+
+In the context of geriatric medicine, respecting and preserving the dignity of patients is the second ethical consideration that takes center stage. Respect for autonomy and for the decisions of a person can be seen as part of preserving and respecting the dignity of that person, but dignity is a complex concept that is not exhausted by respect for self-determination.3
+
+To treat someone in a dignified manner is to treat them in a way that recognizes that they are a complete person with personal integrity and worth and a protected zone of privacy. Exactly what this means will vary from culture to culture and from time period to time period. But everyone within a culture will be able to identify a core set of behaviors that count as undignified and disrespectful behavior. This is also an area where research focusing on the experiences of patients can play a role in making it clearer when they experience care as impinging on their dignity. It should come as no surprise that many old people think it is undignified if they are shabbily dressed or if they are exposed naked or half naked to the gaze of others.3
+
+In this context it is important to remember that some of the largest problems in relation to the protection of dignity are brought about by the numerous small routine violations of dignity that may erode both a person's sense of personal worth and the staff's sense of what is right and proper. Although the actions are done by individual health care professionals, the solution to this kind of problem is often organizational.
+
+## **The incompetent patient**
+
+Not all patients are competent to make decisions about health care matters. Patients may become temporarily incompetent during an acute illness episode or they may become permanently incompetent (e.g., in the later stages of dementia). But health care and other decisions still have to be made even when the patient cannot make them himself.
+
+The concept of incompetence initially seems to be straightforward. The normal adult is the paradigm case of an individual who is competent to make decisions, and that competence is lost if the person becomes unconscious, is very inebriated, or develops late stage Alzheimer's disease where almost all memory and most reasoning capacities are gone. Between the extremes of full competence and complete incompetence there is, however, a very wide range of situations where a person is either partially competent (i.e., competent to make certain decisions but not others), or where a person's competence is questionable. This grey area is created by two complicating factors (1) competence is always competence to make a specific decision and (2) we do not have a good account of exactly what it takes to be competent and how far you can deviate from the norm before you become incompetent.
+
+That competence is always the competence to make a specific decision is very obvious in the case of children. It is not the case that one day they are completely incompetent to make decisions, and the next day they become fully competent. Even a 3-year-old is competent to decide which ice cream he or she wants when given the choice on a warm day at the beach. In the same way, someone with dementia may be incompetent to make decisions about his or her treatment, without being incompetent to make decisions about what to eat for dinner, or when to get up in the morning.
+
+The second complicating factor in decisions about competence is that it is unclear how rational and how informed a decision has to be to count as competent. Most of the decisions the people make do not conform to strict rules of rationality and are performed in a situation of at least partial ignorance. Just think of the ways most of us decide on quite important things such as applying to medical school, buying a house, marrying, or starting to save for a pension. We do not seek all the information that we could have sought and we do not always think carefully through all the options. This means that unless we want to rule most decision making to be incompetent, and therefore possibly open to being overruled by others, we have to have a less stringent standard of competent decision making than full rationality and complete information.
+
+We could try to say that what matters is not how the decision was made, but its content (i.e., what decision that was made). But this is a problematic argument since we generally allow people to make foolish choices, even about very important things. That a decision is not one that I would have made does not *eo ipse* make it an incompetent decision.
+
+Here it is important to note that questions about incompetence are often only raised when our patients make decisions that we do not agree with. This is in itself problematic. There are probably as many patients who make decisions that we do agree with, but where we could have challenged their competence to make these decisions.
+
+## **Decision making for the incompetent**
+
+In a situation where one person has to make important decisions for another, often called proxy decision making, there are in principle two different ways in which such a decision can be made. These are commonly referred to as the "substituted judgment standard" and the "best interest standard."4
+
+According to the substituted judgment standard, the task of the decision maker is to try to make the decision the incompetent person would have made, if competent. This might involve empathic identification with the patient to discern what the patient would have decided. The problem with this standard for proxy decision making is that it is not obvious which of the incompetent person's characteristics that should play a role. Should I for instance make rash decisions for a patient who all his life was a rash decision maker or should I take account of a patient's needle phobia? Because of these problems the substituted judgment standard has fallen out of favor.
+
+The best interest standard specifies the task of the proxy decision maker as making the decision that is in the patient's best interest (i.e., the decision that is most likely to benefit the patient). This is the standard that is accepted in most jurisdictions for legal decision making for the incompetent. The conception of best interest that is at play here is quite wide. A patient's best interest is not confined to his "medical best interest" (e.g., which treatment that is medically optimal), it also encompasses social issues, etc. It is furthermore generally accepted that what is in a patient's best interest is at least partly determined by the patient's prior values and life goals. If understood in this broad way and drawing on knowledge about the patient's values decision making guided by best interest will often come close to decision making guided by substituted judgment.
+
+The term "best interest" seems to imply that there is one and only one decision and course of action that will promote the patient's best interest and that our task is to find that course of action. But this view rests on a mistake. There are many situations where we will be unable to decide which course of action will benefit the patient most because of uncertainties about the clinical situation and/or uncertainties about the patient's values.5 We are often able to identify some decisions that are clearly not in the patient's best interest without being able to specify one of the remaining options as the one that clearly serves his or her interest the most.
+
+## **Advanced decision making**
+
+Many jurisdictions now allow people to make legally valid advance decisions about health care that come into force if and when the person becomes incompetent. This can either be in the form of advance directives or in the form of the appointment of a designated proxy decision maker or a combination of the two.
+
+Advance directives allow a person to specify what treatment he or she wants or does not want in specific future circumstances and are most useful for persons who suffer from a disease process with at least a somewhat predictable future course. In that situation it is also possible to help patients to clarify their wishes for future treatment by outlining the range of likely scenarios.
+
+Advance directives formulated in more general terms such as "If I become unable to take care of myself, I do not want…" will always require a considerable amount of interpretation to decide whether they apply to the situation at hand and whether they should still be considered valid.
+
+The problems in writing sufficiently specific advance directives have led to a move toward combining advance directives with the appointment of a designated proxy decision maker.
+
+The task of the designated proxy is to make decisions on behalf of the patient when the patient is no longer competent to make those decisions. These decisions have to be made in the best interest of the patient (see previous discussion concerning "best interest"), just as decisions for patients who do not have a designated proxy. But the advantage of having a proxy is that patients can appoint someone who knows them and their values and preferences well and who is therefore more likely to evaluate best interest in the same way as the patient.
+
+In jurisdictions where it is possible to designate a proxy it is usually the case that health care professionals can only override the proxy's decisions if they can show that they are clearly not in the patient's best interest.
+
+## **The role of the family in decision making**
+
+In most Western countries family members have no formal role in decision making *qua* family members. There may be a requirement to consult them before decisions are made concerning an incompetent patient but there is usually no legal requirement to follow their advice unless they are the patient's legally designated proxy decision maker.
+
+In reality families do justifiably play a larger role in decision making in many circumstances. Many competent patients want to involve their family members in the decisions and some may want to leave decisions to the family or some specific relative.
+
+In relation to incompetent patient families often have a better understanding of the patient's value system than the health care team has and it is furthermore often the family that has to care for the patient outside of the health care context. This means that it will almost always be appropriate to consult the family before important decisions are made about incompetent patients. But it is also important to realize the interests of the patient and the family can be entangled in complicated ways that may make it difficult for family members to see clearly what is best for the patient. There may also be conflicting views among family members as to what should be done.
+
+## **Research and incompetent persons**
+
+The traditional research ethics problem discussed in connection with dementia research is the problem of research involving persons who are incapable of giving valid informed consent. This problem has been extensively analyzed and at the regulatory level of research ethics a consensus has developed on the requirements that have to be fulfilled for such research to be deemed ethically acceptable. These requirements are: (1) consent must be sought from the person's representative (proxy); (2) if the person is able to assent or dissent, although unable to consent, the person's assent must be obtained; (3) the research must either be directly beneficial to the person, or it must be beneficial to the patient group to which the person belongs, and it must be impossible to perform the research in a group of patients who can consent; and (4) the risk to the person must be minimal in those circumstances where there is no direct benefit.
+
+This consensus is, for instance expressed in paragraphs 27 to 29 of the most recent revision of the Helsinki Declaration from the World Medical Association.6
+
+The restriction on types of research that an incompetent person can be included in can be justified in three different ways:
+
+The first line of argument is based on the historical fact that vulnerable groups have often been used in ethically problematic research and that if the incompetent could be used as research participants in ordinary projects there is a risk that they would become an easy source of research material.
+
+The second focuses on the intersection of interests between the person with a specific condition and the group of sufferers with that condition. The argument is that even if a person does not realize a personal benefit from the research, he is benefited indirectly through the benefits accruing to the group.
+
+The third possible justification is the pragmatic one that unless we allow some kinds of research without consent into conditions where all sufferers are incompetent, very little progress will be made in the treatment of such conditions (the "golden ghetto" argument), but such research should be limited to those projects that cannot be performed in any other way to minimize the infringements caused by research without consent.
+
+## **End of life issues**
+
+Three types of end of life issues are currently under discussion in medical ethics: (1) withdrawing and withholding treatment, (2) physician assisted suicide, and (3) active euthanasia.
+
+There is no doubt that a doctor can withdraw or withhold any treatment if either (1) a competent patient refuses the treatment or (2) the treatment is futile (i.e., cannot benefit the patient). But there are still three open questions in relation to withdrawing and withholding:
+
+- Is there a moral difference between withdrawing and withholding?
+- What about treatments that are not completely futile, or not futile from all points of view?
+- Is the provision of nutrition and hydration treatment?
+
+Doctors often feel that there is a difference between withdrawing and withholding a given treatment. It feels more difficult to stop a treatment that is going on than it feels not to start a treatment. But it is very difficult to find any good justification for this feeling. The consequences of stopping and not starting are often the same (e.g., think of stopping and not starting respiratory support in a patient who needs it). And the reasons for the decision are almost always also very similar (e.g., it is not in the patient's best interest to continue/initiate this treatment). This has meant that there is a growing consensus that despite the phenomenological difference (i.e., the difference in how it feels), there is no real ethical difference between decisions to withdraw and decisions to withhold.
+
+When thinking of withdrawing or withholding a treatment from a patient it is not difficult to reach a decision if the treatment in question is completely futile, if it has no chance of benefiting the patient in any way. But there are many situations where the treatment is not completely futile. It may have some small chance of being successful, or it may be likely to prolong the patient's life but raise the subsequent question of whether this longer life is worth having seen from the point of view of the patient. A typical situation where these issues arise is when contemplating cardiopulmonary resuscitation and the appropriateness of a do not resuscitate decision. If the patient is competent, all of this can be discussed with the patient and the patient can decide. But in the case of the noncompetent patient, others must decide what is in the best interest of the patient. It is not possible to give a percentage figure for when a treatment can be regarded as futile but it is generally agreed that a mere theoretical chance that something will work does not make it a worthwhile treatment.
+
+The final controversial issue in relation to withdrawing and withholding is whether nutrition and hydration or "food and water" should be defined as treatment or as basic humane care that can never be withdrawn or withheld? Part of this controversy has been a discussion of whether withdrawal of nutrition and hydration leads to suffering and whether such suffering (e.g., thirst) can be relieved, but this discussion is in some sense a red herring. The real core issue in the controversy is not suffering but whether it can ever be justified not to provide this basic level of care. Legally the position is now settled in many jurisdictions by explicit legal judgments that it is acceptable to withdraw nutrition and hydration, but the ethical discussion is still not over, partly because it involves the thorny question of whether it is ever better for a person to be dead than alive. This links the withdrawing/withholding issue to the discussion of physician-assisted suicide and euthanasia.
+
+## **Physician-assisted suicide and euthanasia**
+
+Physician-assisted suicide (PAS) is the situation where a doctor provides a patient with the means to commit suicide (e.g., by issuing a prescription for a lethal combination of drugs), but the patient performs the physical act of actually taking the drugs.
+
+Active euthanasia is the situation where a doctor actively ends the life of a patient (e.g., by injecting a lethal combination of drugs). In relation to active euthanasia, it is possible to distinguish between voluntary euthanasia where the patient has requested euthanasia, nonvoluntary euthanasia where the patient is incompetent and nothing is known about his or her wishes, and involuntary euthanasia where a patient is killed against his or her will. Involuntary euthanasia is murder and nonvoluntary euthanasia raises a host of complex ethical and legal problems so the discussion about euthanasia is usually focused on whether or not voluntary active euthanasia should be legalized.
+
+Physician-assisted suicide and/or voluntary active euthanasia has been legalized in a few countries. PAS is legal in Switzerland, the Netherlands. and the U.S. state of Oregon and active euthanasia is legal in the Netherlands and Belgium. In all cases, except in Switzerland, there are extensive procedural safeguards in place to try to ensure that the decision to ask for PAS or euthanasia is well considered and fully voluntary.
+
+The ethical justification of PAS and/or euthanasia proceeds along two dimensions. The first line of justification relies on respect for autonomy. If people have a strong interest in leading their life according to their own values, then it is plausible that they also have a strong interest in how that life ends and that their choices should be respected. A hypothetical example which is often discussed in this line of argument is the successful academic with the first symptoms of Alzheimer disease who does not want his life to end in severe dementia and who claims that such an end would make a mockery of his life's achievements and would furthermore be undignified. Proponents of this line of argument often claim that it is the individual person who has to decide whether he would be better off dead and that only he can make that evaluation.
+
+The second line of justification focuses on suffering and is based on the claim that if a person is in great pain, has breathing difficulties, or severe psychological suffering and there is no way to relieve the suffering then PAS or euthanasia may be justified to end the suffering.
+
+The two lines of justification come together in the core cases of severe irremediable suffering in a person with terminal illness who wants the suffering to end.
+
+The opposition towards legalizing PAS and/or euthanasia may either be opposition to the two practices as such, for instance based on the view that suicide or killing is never right, or it may be opposition to the legalization of the practices. It is quite common for people to agree that there are specific cases where active voluntary euthanasia is justified, but still argue that it should not be legalized.
+
+The arguments against legalization are primarily of two kinds. One line of argument claims that it is important that the law symbolically upholds the view that taking the life of another human being is always wrong. The second line of argument is worried about slippery slopes and a gradual expansion from core cases to less core cases. Here the argument is that even if we write a law that only allows PAS or euthanasia for people with terminal illness and irremediable suffering who wish to die, then we will over time also allow euthanasia in cases where the voluntary element is less clear or in cases where the suffering is not present but merely predicted for the future. Some also worry that we will allow euthanasia in situations where the decision is formally voluntary but based on motivations that are perceived as problematic (e.g., if a patient wants euthanasia not to be a burden to family or an economic drain on the health care system). Would it not be better if these problems were solved in another way for instance by appropriate allocation of resources to health and social care for the elderly?
+
+## **Priority setting and the elderly**
+
+Until this point the chapter has mainly been concerned with decision making in relation to specific identifiable patients but resource allocation decisions between groups of patients also raise ethical issues. No health care system has the resources to provide the medically optimal treatment to everyone who is ill. There is always a mismatch between the available resources and the claims on the health care system. This means that priority setting between patients and patient groups is a reality in all health care systems. Politicians may want to deny this, but it is nevertheless a fact.
+
+This raises the question how the health care claims of the old should be prioritized? Should the claims of the old be given the same, greater, or lesser weight than the claims of the young? It is obvious that people's unreflective opinion on this issue vary according to how it is framed. We generally, and rightly agree that old people have the same worth and importance as young people and that, for instance there should be no difference in how we treat severe pain in the old and the young. But many people will express the opposite opinion if the issue is, for instance who should receive a kidney transplant and the hypothetical choice is between someone who is young and someone who is very old. People's views are often further complicated by considerations of merit and past contribution to the development of the welfare state. Those who are old now did not have access to the kind of health care we have today when they were young and may therefore have a stronger claim now.
+
+It is difficult to devise a resource allocation system that takes into account of all these views concerning the relevance of age to priority setting and far beyond the scope of this chapter to try to settle which, if any is correct.
+
+It is, however, important to note that some views on this issue raise considerable ethical worries. Some of the major tools of health economics directly institutionalize discrimination of the old. A range of these tools calculate the benefit of an intervention in terms of the increase in welfare/health or decrease in suffering/illness it produces and the time the patient experiences this benefit. But because the old have shorter life expectancy than the young, this has the consequence that a given curative treatment counts for less if given to an old person than to a young person, simply because the older person is likely to have less life left in which to benefit.1 This is clearly unjust and against all principles of respecting every human being equally. The same is true of any kind of resource allocation that primarily bases itself on future contribution to society because that will also systematically discriminate against the elderly and old.
+
+## KEY POINTS
+
+- The elderly and old have the same moral status and importance as anyone else.
+- The health care claims of the elderly and old should be treated with the same attention as the health care claims of everyone else.
+- Decision making for persons who are incompetent to make their own decisions have to be guided by what is in those persons' "best interest."
+- The concept of "best interest" covers a wider range of considerations than merely "medical best interest."
+- Advanced decision making is most useful for patients with a predictable clinical course.
+
+For a complete list of references, please visit online only at www.expertconsult.com

@@ -1,0 +1,435 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Social Gerontology",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          109.62369507551193,
+          55.4879150390625
+        ],
+        [
+          295.1361083984375,
+          55.4879150390625
+        ],
+        [
+          295.1361083984375,
+          79.4879150390625
+        ],
+        [
+          109.62369507551193,
+          79.4879150390625
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.49255493283272,
+          121.98200744390488
+        ],
+        [
+          145.4400351047516,
+          120.45271056890488
+        ],
+        [
+          144.96400451660156,
+          133.129638671875
+        ],
+        [
+          58.29724243283272,
+          134.39744040369987
+        ]
+      ]
+    },
+    {
+      "title": "THE \"PROBLEM\" OF OLD AGE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          60.0,
+          660.9577876925468
+        ],
+        [
+          221.19953083992004,
+          659.4284908175468
+        ],
+        [
+          220.00421833992004,
+          672.1296157836914
+        ],
+        [
+          58.84605914354324,
+          673.2505940794945
+        ]
+      ]
+    },
+    {
+      "title": "THEORETICAL APPROACHES: FROM \nFUNCTIONALISM TO STRUCTURED \nDEPENDENCY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.520465552806854,
+          318.1748046875
+        ],
+        [
+          248.35899353027344,
+          318.1748046875
+        ],
+        [
+          248.35899353027344,
+          353.17681884765625
+        ],
+        [
+          53.520465552806854,
+          353.17681884765625
+        ]
+      ]
+    },
+    {
+      "title": "INCREASING LIFE EXPECTANCY AND \nCOMPRESSION OF MORBIDITY\u2014\nA GOLDEN AGE",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          310.9064426422119,
+          670.1748123168945
+        ],
+        [
+          512.4859619140625,
+          670.1748123168945
+        ],
+        [
+          512.4859619140625,
+          705.1768112182617
+        ],
+        [
+          310.9064426422119,
+          705.1768112182617
+        ]
+      ]
+    },
+    {
+      "title": "OPPORTUNITY AGE\u2014SUCCESSFUL \nAGING AND THE THIRD AGE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.1469602584839,
+          165.17486572265625
+        ],
+        [
+          509.9389953613281,
+          165.17486572265625
+        ],
+        [
+          509.9389953613281,
+          188.77166126668453
+        ],
+        [
+          317.1469602584839,
+          188.77166126668453
+        ]
+      ]
+    },
+    {
+      "title": "INEQUALITIES IN LATER LIFE\u2014\nCONTINUITIES AND IMPACT",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          310.93598985671997,
+          517.0953260064125
+        ],
+        [
+          477.04400634765625,
+          517.0953260064125
+        ],
+        [
+          477.04400634765625,
+          540.1749114990234
+        ],
+        [
+          310.93598985671997,
+          540.1749114990234
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUDING COMMENTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          318.0,
+          573.1749114990234
+        ],
+        [
+          462.5731701850891,
+          572.9319300055504
+        ],
+        [
+          461.63800048828125,
+          584.1749114990234
+        ],
+        [
+          317.83719778060913,
+          585.56067019701
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0096130371094,
+          59.33251141011715
+        ],
+        [
+          383.3616027832031,
+          59.33251141011715
+        ],
+        [
+          383.3616027832031,
+          74.61864294111729
+        ],
+        [
+          312.0096130371094,
+          74.61864294111729
+        ]
+      ]
+    },
+    {
+      "title": "Social Gerontology",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          312.0,
+          72.6795654296875
+        ],
+        [
+          394.0169982910156,
+          72.6795654296875
+        ],
+        [
+          394.0169982910156,
+          84.92771074175835
+        ],
+        [
+          312.0,
+          84.92771074175835
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter31"
+}

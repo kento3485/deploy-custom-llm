@@ -1,0 +1,577 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Injury in Older People",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          119.11217200756073,
+          55.4879150390625
+        ],
+        [
+          331.2077136039734,
+          55.4879150390625
+        ],
+        [
+          331.2077136039734,
+          79.88520339131355
+        ],
+        [
+          119.11217200756073,
+          79.88520339131355
+        ]
+      ]
+    },
+    {
+      "title": "PHYSIOLOGIC CHANGES IN OLDER \nVICTIMS OF TRAUMA",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.3081202507019,
+          120.20542725920677
+        ],
+        [
+          507.4969787597656,
+          118.67613038420677
+        ],
+        [
+          507.4969787597656,
+          144.181884765625
+        ],
+        [
+          316.1128077507019,
+          145.09967163205147
+        ]
+      ]
+    },
+    {
+      "title": "The neuroendocrine responses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          318.0,
+          266.08099365234375
+        ],
+        [
+          479.70336842536926,
+          265.05531871318817
+        ],
+        [
+          479.3590087890625,
+          277.0810241699219
+        ],
+        [
+          317.2604434490204,
+          277.79504120349884
+        ]
+      ]
+    },
+    {
+      "title": "Metabolic changes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          317.79035997390747,
+          661.9810104370117
+        ],
+        [
+          417.3120903968811,
+          660.6358550190926
+        ],
+        [
+          417.3120903968811,
+          672.9810104370117
+        ],
+        [
+          317.79035997390747,
+          673.8080257773399
+        ]
+      ]
+    },
+    {
+      "title": "DOES RECOVERY OCCUR IN OLDER \nVICTIMS OF TRAUMA?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.67128401994705,
+          407.3165283203125
+        ],
+        [
+          246.5549774169922,
+          407.3165283203125
+        ],
+        [
+          246.5549774169922,
+          430.3175354003906
+        ],
+        [
+          53.67128401994705,
+          430.3175354003906
+        ]
+      ]
+    },
+    {
+      "title": "The physiologic recovery",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          53.47814190387726,
+          541.2165222167969
+        ],
+        [
+          184.81198120117188,
+          541.2165222167969
+        ],
+        [
+          184.81198120117188,
+          552.2165222167969
+        ],
+        [
+          53.47814190387726,
+          552.2165222167969
+        ]
+      ]
+    },
+    {
+      "title": "Functional recovery",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.87099504470825,
+          310.2165222167969
+        ],
+        [
+          415.3119812011719,
+          310.2165222167969
+        ],
+        [
+          415.3119812011719,
+          321.2165222167969
+        ],
+        [
+          311.87099504470825,
+          321.2165222167969
+        ]
+      ]
+    },
+    {
+      "title": "HOW TO ASSESS INJURY AND MEASURE \nOUTCOME?",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.192053377628326,
+          198.17486572265625
+        ],
+        [
+          285.0489807128906,
+          198.17486572265625
+        ],
+        [
+          285.0489807128906,
+          221.17584228515625
+        ],
+        [
+          59.192053377628326,
+          221.17584228515625
+        ]
+      ]
+    },
+    {
+      "title": "INJURY PATTERNS IN OLDER PEOPLE",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.34211778640747,
+          166.17486572265625
+        ],
+        [
+          519.4708914756775,
+          166.17486572265625
+        ],
+        [
+          519.4708914756775,
+          177.21609610319138
+        ],
+        [
+          317.34211778640747,
+          177.21609610319138
+        ]
+      ]
+    },
+    {
+      "title": "Head injuries",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          316.89482402801514,
+          266.07470703125
+        ],
+        [
+          386.4639892578125,
+          266.07470703125
+        ],
+        [
+          386.4639892578125,
+          277.07470703125
+        ],
+        [
+          316.89482402801514,
+          277.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Thoracic trauma",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          317.0696997642517,
+          683.9748077392578
+        ],
+        [
+          403.5690002441406,
+          683.9748077392578
+        ],
+        [
+          403.5690002441406,
+          695.125074505806
+        ],
+        [
+          317.0696997642517,
+          695.125074505806
+        ]
+      ]
+    },
+    {
+      "title": "Abdominal trauma",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.51477041840553,
+          277.0749206542969
+        ],
+        [
+          152.39498901367188,
+          277.0749206542969
+        ],
+        [
+          152.39498901367188,
+          288.0749206542969
+        ],
+        [
+          53.51477041840553,
+          288.0749206542969
+        ]
+      ]
+    },
+    {
+      "title": "Fractures following falls",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          53.71726003289223,
+          529.9749145507812
+        ],
+        [
+          179.9169921875,
+          529.9749145507812
+        ],
+        [
+          179.9169921875,
+          540.9749145507812
+        ],
+        [
+          53.71726003289223,
+          540.9749145507812
+        ]
+      ]
+    },
+    {
+      "title": "Multiple injuries",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.0301032066345,
+          673.0749130249023
+        ],
+        [
+          397.389461517334,
+          672.6084555387497
+        ],
+        [
+          397.389461517334,
+          684.0749130249023
+        ],
+        [
+          311.0301032066345,
+          684.4184095859528
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          60.0,
+          254.1749267578125
+        ],
+        [
+          142.4715340733528,
+          253.05252242088318
+        ],
+        [
+          141.31199645996094,
+          265.1749267578125
+        ],
+        [
+          58.958265602588654,
+          265.7027776837349
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS\nInjury in Older People",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          316.51734924316406,
+          129.91281978785992
+        ],
+        [
+          410.52899169921875,
+          128.38352291285992
+        ],
+        [
+          410.52899169921875,
+          152.26324462890625
+        ],
+        [
+          315.32203674316406,
+          152.26324462890625
+        ]
+      ]
+    },
+    {
+      "title": "\u2022 Although injuries are more common in younger adults, older \npeople are much more likely to die from their injuries (accounting \nfor over a third of all trauma deaths).",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          324.25222635269165,
+          160.67840576171875
+        ],
+        [
+          547.4537086486816,
+          159.22005732357502
+        ],
+        [
+          546.7080078125,
+          187.87841796875
+        ],
+        [
+          323.05691385269165,
+          188.1147281974554
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter102"
+}

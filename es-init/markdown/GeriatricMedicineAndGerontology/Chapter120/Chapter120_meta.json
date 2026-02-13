@@ -1,0 +1,631 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Geriatrics in the Rest of the \nWorld",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          115.0,
+          54.00259584188461
+        ],
+        [
+          381.6159973144531,
+          54.00259584188461
+        ],
+        [
+          381.6159973144531,
+          105.47991943359375
+        ],
+        [
+          115.0,
+          105.47991943359375
+        ]
+      ]
+    },
+    {
+      "title": "Life Expectancy, Morbidity, and Disability",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.32189732789993,
+          254.80191707611084
+        ],
+        [
+          271.0079650878906,
+          254.80191707611084
+        ],
+        [
+          271.0079650878906,
+          266.482967376709
+        ],
+        [
+          53.32189732789993,
+          266.482967376709
+        ]
+      ]
+    },
+    {
+      "title": "Chronic diseases of major impact \nin the elderly population",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.48825544118881,
+          549.2492968440056
+        ],
+        [
+          231.25399780273438,
+          549.2492968440056
+        ],
+        [
+          231.25399780273438,
+          573.9486236572266
+        ],
+        [
+          53.48825544118881,
+          573.9486236572266
+        ]
+      ]
+    },
+    {
+      "title": "Frailty",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.0,
+          441.9476318359375
+        ],
+        [
+          345.4270370006561,
+          440.5072723031044
+        ],
+        [
+          345.0220031738281,
+          452.9476318359375
+        ],
+        [
+          311.13957381248474,
+          454.0490729212761
+        ]
+      ]
+    },
+    {
+      "title": "Communicable diseases",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.71401143074036,
+          607.0834197998047
+        ],
+        [
+          444.9993989467621,
+          607.0834197998047
+        ],
+        [
+          444.9993989467621,
+          618.0834197998047
+        ],
+        [
+          317.71401143074036,
+          618.7956683635712
+        ]
+      ]
+    },
+    {
+      "title": "TUBERCULOSIS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.9254746437073,
+          674.6625442504883
+        ],
+        [
+          387.95981454849243,
+          673.5284231901169
+        ],
+        [
+          387.95981454849243,
+          683.6625442504883
+        ],
+        [
+          317.9254746437073,
+          684.8319096565247
+        ]
+      ]
+    },
+    {
+      "title": "INFLUENZA-LIKE ILLNESS (ILI)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          53.57400619983673,
+          586.7384920120239
+        ],
+        [
+          185.03997802734375,
+          586.7384920120239
+        ],
+        [
+          185.03997802734375,
+          596.1704006195068
+        ],
+        [
+          53.57400619983673,
+          596.1704006195068
+        ]
+      ]
+    },
+    {
+      "title": "SEVERE ACUTE RESPIRATORY SYNDROME (SARS)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.16146063804626,
+          179.75396728515625
+        ],
+        [
+          533.1388857364655,
+          179.75396728515625
+        ],
+        [
+          533.1388857364655,
+          189.0965108424425
+        ],
+        [
+          311.16146063804626,
+          189.0965108424425
+        ]
+      ]
+    },
+    {
+      "title": "Geriatric medicine development",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.0,
+          464.07470703125
+        ],
+        [
+          480.10198974609375,
+          464.07470703125
+        ],
+        [
+          480.10198974609375,
+          475.07470703125
+        ],
+        [
+          312.0,
+          475.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Comprehensive geriatric assessment",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          59.5285359621048,
+          134.0578313022852
+        ],
+        [
+          253.9824389219284,
+          134.0578313022852
+        ],
+        [
+          253.9824389219284,
+          145.07470703125
+        ],
+        [
+          59.5285359621048,
+          145.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "Health and social services",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          317.81432604789734,
+          101.07470703125
+        ],
+        [
+          453.26853346824646,
+          101.07470703125
+        ],
+        [
+          453.26853346824646,
+          112.07470703125
+        ],
+        [
+          317.81432604789734,
+          112.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "PRIMARY AND SECONDARY HEALTH CARE",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          318.0,
+          179.48342759907246
+        ],
+        [
+          506.00013399124146,
+          179.48342759907246
+        ],
+        [
+          506.00013399124146,
+          188.91771639883518
+        ],
+        [
+          318.0,
+          188.91771639883518
+        ]
+      ]
+    },
+    {
+      "title": "LONG-TERM CARE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          53.57834708690643,
+          366.2496135234833
+        ],
+        [
+          135.0089874267578,
+          366.2496135234833
+        ],
+        [
+          135.0089874267578,
+          375.7540588378906
+        ],
+        [
+          53.57834708690643,
+          375.7540588378906
+        ]
+      ]
+    },
+    {
+      "title": "END OF LIFE CARE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          312.0,
+          597.0102818012238
+        ],
+        [
+          392.5229797363281,
+          597.0102818012238
+        ],
+        [
+          392.5229797363281,
+          606.7540283203125
+        ],
+        [
+          312.0,
+          606.7540283203125
+        ]
+      ]
+    },
+    {
+      "title": "Prevention of chronic diseases \nand functional decline",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.61092162132263,
+          154.93643461167812
+        ],
+        [
+          222.5909881591797,
+          154.93643461167812
+        ],
+        [
+          222.5909881591797,
+          178.52708034217358
+        ],
+        [
+          59.61092162132263,
+          178.52708034217358
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.14666557312012,
+          440.6801396012306
+        ],
+        [
+          133.97499084472656,
+          440.6801396012306
+        ],
+        [
+          133.97499084472656,
+          452.4956941008568
+        ],
+        [
+          59.14666557312012,
+          452.4956941008568
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.05178904533386,
+          220.07421165704727
+        ],
+        [
+          389.3616027832031,
+          220.07421165704727
+        ],
+        [
+          389.3616027832031,
+          232.97894287109375
+        ],
+        [
+          317.05178904533386,
+          232.97894287109375
+        ]
+      ]
+    },
+    {
+      "title": "Geriatrics in the Rest of the World",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          318.0,
+          234.15234375
+        ],
+        [
+          464.73719358444214,
+          234.15234375
+        ],
+        [
+          464.73719358444214,
+          244.1692714691162
+        ],
+        [
+          318.0,
+          244.1692714691162
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          207
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          229
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          133
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter120"
+}

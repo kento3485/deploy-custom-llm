@@ -1,0 +1,826 @@
+{
+  "table_of_contents": [
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.383417546749115,
+          111.2161865234375
+        ],
+        [
+          140.72680753469467,
+          109.84981736540794
+        ],
+        [
+          139.53149503469467,
+          122.2161865234375
+        ],
+        [
+          52.188105046749115,
+          123.71114712953568
+        ]
+      ]
+    },
+    {
+      "title": "AGE-RELATED CHANGES IN MOBILITY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.79736125469208,
+          430.2162170410156
+        ],
+        [
+          259.22863805294037,
+          428.89338076114655
+        ],
+        [
+          258.13800048828125,
+          441.2162170410156
+        ],
+        [
+          52.60204875469208,
+          442.4446088075638
+        ]
+      ]
+    },
+    {
+      "title": "Executive function",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.0,
+          277.01959228515625
+        ],
+        [
+          409.18499755859375,
+          275.8946676850319
+        ],
+        [
+          409.18499755859375,
+          288.01959228515625
+        ],
+        [
+          311.3016092777252,
+          288.8195784687996
+        ]
+      ]
+    },
+    {
+      "title": "Walking speed",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          312.0,
+          573.9196166992188
+        ],
+        [
+          390.3137061595917,
+          572.510962665081
+        ],
+        [
+          389.1183936595917,
+          584.9196166992188
+        ],
+        [
+          311.57665371894836,
+          586.0874860882759
+        ]
+      ]
+    },
+    {
+      "title": "Gait initiation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.45547044277191,
+          57.24481201171875
+        ],
+        [
+          132.20871949195862,
+          56.821227706968784
+        ],
+        [
+          132.20871949195862,
+          68.24481201171875
+        ],
+        [
+          59.45547044277191,
+          69.28550127893686
+        ]
+      ]
+    },
+    {
+      "title": "Rising from a chair",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.807921290397644,
+          222.14483642578125
+        ],
+        [
+          159.88575947284698,
+          221.6463986635208
+        ],
+        [
+          158.69044697284698,
+          233.14483642578125
+        ],
+        [
+          58.612608790397644,
+          234.33142340183258
+        ]
+      ]
+    },
+    {
+      "title": "COMMON DISORDERS OF GAIT",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          59.734965205192566,
+          606.1448059082031
+        ],
+        [
+          227.4749755859375,
+          605.4280884861946
+        ],
+        [
+          227.4749755859375,
+          617.1448059082031
+        ],
+        [
+          58.539652705192566,
+          618.2814068198204
+        ]
+      ]
+    },
+    {
+      "title": "Middle level disorders",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          60.0,
+          684.0447158813477
+        ],
+        [
+          178.5909881591797,
+          683.9115219712257
+        ],
+        [
+          178.5909881591797,
+          695.0447158813477
+        ],
+        [
+          58.97269722819328,
+          696.2162759900093
+        ]
+      ]
+    },
+    {
+      "title": "Lowest level disorders",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          318.0,
+          134.038818359375
+        ],
+        [
+          438.48529052734375,
+          133.12616103887558
+        ],
+        [
+          438.48529052734375,
+          145.038818359375
+        ],
+        [
+          316.9716832637787,
+          145.63894852995872
+        ]
+      ]
+    },
+    {
+      "title": "CLINICAL ASSESSMENT OF BALANCE \nAND MOBILITY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.15697383880615,
+          373.3226349055767
+        ],
+        [
+          516.7759399414062,
+          371.7933380305767
+        ],
+        [
+          516.7759399414062,
+          397.1598205566406
+        ],
+        [
+          309.96166133880615,
+          397.8621606230736
+        ]
+      ]
+    },
+    {
+      "title": "IMMOBILITY IN OLDER PEOPLE: \nIMPACT AND INTERVENTIONS\nOlder people in hospital",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          316.3282835483551,
+          306.1748046875
+        ],
+        [
+          489.14898681640625,
+          304.88750982284546
+        ],
+        [
+          489.14898681640625,
+          343.2521023750305
+        ],
+        [
+          316.3282835483551,
+          344.7813992500305
+        ]
+      ]
+    },
+    {
+      "title": "HIERARCHICAL ASSESSMENT OF BALANCE AND MOBILITY",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          189.2359743118286,
+          60.55682373046875
+        ],
+        [
+          432.32864141464233,
+          60.293858237564564
+        ],
+        [
+          432.32864141464233,
+          72.55682373046875
+        ],
+        [
+          189.2359743118286,
+          73.04203974455595
+        ]
+      ]
+    },
+    {
+      "title": "Notes for scoring the HABAM.",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.730939239263535,
+          533.6223544478416
+        ],
+        [
+          169.7410888671875,
+          532.0930575728416
+        ],
+        [
+          169.7410888671875,
+          542.4174652099609
+        ],
+        [
+          54.730939239263535,
+          542.9761367440224
+        ]
+      ]
+    },
+    {
+      "title": "A",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.30322051048279,
+          684.7444025874138
+        ],
+        [
+          63.4269717335701,
+          684.7444025874138
+        ],
+        [
+          62.2316592335701,
+          694.8960647583008
+        ],
+        [
+          53.10790801048279,
+          694.8960647583008
+        ]
+      ]
+    },
+    {
+      "title": "HIERARCHICAL ASSESSMENT OF BALANCE AND MOBILITY",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          192.44031500816345,
+          60.56341552734375
+        ],
+        [
+          437.50082659721375,
+          60.399187579751015
+        ],
+        [
+          437.50082659721375,
+          72.56341552734375
+        ],
+        [
+          192.44031500816345,
+          73.02385577559471
+        ]
+      ]
+    },
+    {
+      "title": "Notes for scoring the HABAM.",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          60.33767822384834,
+          532.8792210817337
+        ],
+        [
+          175.17259216308594,
+          532.8792210817337
+        ],
+        [
+          175.17259216308594,
+          542.4304656982422
+        ],
+        [
+          59.14236572384834,
+          542.4304656982422
+        ]
+      ]
+    },
+    {
+      "title": "B",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.44564872980118,
+          684.8627588152885
+        ],
+        [
+          67.37913966178894,
+          684.8627588152885
+        ],
+        [
+          66.56999969482422,
+          695.0626602172852
+        ],
+        [
+          58.25033622980118,
+          695.0626602172852
+        ]
+      ]
+    },
+    {
+      "title": "Community-dwelling older people",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          53.4219565987587,
+          277.07470703125
+        ],
+        [
+          233.07998657226562,
+          277.07470703125
+        ],
+        [
+          233.07998657226562,
+          288.07470703125
+        ],
+        [
+          53.4219565987587,
+          288.07470703125
+        ]
+      ]
+    },
+    {
+      "title": "IMPAIRED MOBILITY AND FRAILTY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          312.0,
+          67.16485595703125
+        ],
+        [
+          495.9749755859375,
+          67.16485595703125
+        ],
+        [
+          495.9749755859375,
+          78.17368179559708
+        ],
+        [
+          312.0,
+          78.17368179559708
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          317.9964244365692,
+          67.05218505859375
+        ],
+        [
+          391.9750061035156,
+          65.71067999303341
+        ],
+        [
+          391.9750061035156,
+          78.05218505859375
+        ],
+        [
+          317.9964244365692,
+          78.48377184569836
+        ]
+      ]
+    },
+    {
+      "title": "KEY POINTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          317.8931550979614,
+          241.67034912109375
+        ],
+        [
+          389.3616027832031,
+          241.61952549219131
+        ],
+        [
+          389.3616027832031,
+          255.14998519420624
+        ],
+        [
+          316.6978425979614,
+          256.67928206920624
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          212
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListGroup",
+          4
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "TableCell",
+          32
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          121
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          680
+        ],
+        [
+          "Span",
+          187
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "TableCell",
+          630
+        ],
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          65
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          224
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Chapter105"
+}
