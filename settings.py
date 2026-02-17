@@ -1,3 +1,5 @@
+from typing import Annotated
+
 from pydantic import Field
 from pydantic_settings import BaseSettings
 
@@ -21,6 +23,35 @@ class Settings(BaseSettings):
         env="OPENAI_API_KEY",
         description="OpenAI API key for accessing OpenAI services",
     )
+    WEBSOCKETS_URL_LOCAL: str = Field(
+        default="ws://localhost:8000/llm/ws",
+        env="WEBSOCKETS_URL_LOCAL",
+        description="WebSocket URL for local development",
+    )
+    WEBSOCKETS_URL: str = Field(
+        default="wss://dummy.onrender.com/llm/ws",
+        env="WEBSOCKETS_URL",
+        description="WebSocket URL for production",
+    )
+    ELASTIC_PASSWORD: Annotated[
+        str,
+        Field(
+            default="elastic_password",
+            description="ElasticSearch Password",
+        ),
+    ]
+    ELASTIC_USER: Annotated[
+        str,
+        Field(default="elastic", description="ElasticSearch User"),
+    ]
+    ELASTIC_IP: Annotated[
+        str,
+        Field(default="es01", description="ElasticSearch IP"),
+    ]
+    ELASTIC_PORT: Annotated[
+        str,
+        Field(default="9200", description="ElasticSearch Port"),
+    ]
 
     class Config:
         env_file = ".env"

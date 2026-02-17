@@ -7,56 +7,28 @@ from fastapi import (
     WebSocketDisconnect,
     status,
 )
-from openai import AsyncOpenAI
-from pydantic import BaseModel
-
-from settings import settings
+from .retriever import run_rag_stream
+from .settings import settings
 
 # 認証用のトークン
 MY_SECRET_KEY = settings.MY_SECRET_KEY
-OPENAI_API_KEY = settings.OPENAI_API_KEY
 
 app = FastAPI()
-
-# クライアント初期化
-client = AsyncOpenAI(api_key=OPENAI_API_KEY)
-
-
-class LLMRequest(BaseModel):
-    prompt: str
-    streaming: bool = False
-
 
 # --- 共通ロジック ---
 
 
 async def my_actual_llm_generator_async(prompt: str):
     """
-    OpenAIのストリームをラップする共通ジェネレータ。
+    RAGストリームをラップする共通ジェネレータ。
     """
     try:
-        stream = await client.chat.completions.create(
-            model="gpt-4o-mini",
-            messages=[{"role": "user", "content": prompt}],
-            stream=True,
-        )
-
-        yield "[custom_llm]"
-        async for chunk in stream:
-            content = chunk.choices[0].delta.content
-            if content is not None:
-                yield content
-
+        async for chunk in run_rag_stream(prompt):
+            yield chunk
     except Exception as e:
         print(f"Error: {e}")
         yield f"[System Error: {str(e)}]"
 
-# async def my_actual_llm_generator_async(prompt: str):
-#     # ダミーのストリーム生成器（実際にはOpenAIのストリームを使用）
-#     results = f"This is a simulated response from the LLM. You said: {prompt}"
-#     for char in results:
-#         await asyncio.sleep(0.03)  # 擬似的な遅延
-#         yield char
 
 def verify_token(token: str) -> bool:
     """トークン検証用ヘルパー関数"""
