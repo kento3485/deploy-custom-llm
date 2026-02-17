@@ -11,7 +11,7 @@ from openai import AsyncOpenAI, OpenAI
 from settings import settings
 
 EMBEDDING_MODEL = "text-embedding-ada-002"
-CHAT_MODEL = "gpt-4o"
+CHAT_MODEL = "gpt-4o-mini"
 ES_INDEX = "geriatric_medicine_and_gerontology"
 
 # 最後に取得された文書数を追跡するためのグローバル変数
