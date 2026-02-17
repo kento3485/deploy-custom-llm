@@ -212,7 +212,7 @@ async def run_rag_stream(query: str, *, k: int = 3) -> AsyncGenerator[str, None]
     context = [d.get("text", "") for d in docs if d.get("text")]
     sources = [d.get("metadata", {}).get("source", "unknown") for d in docs]
     async for chunk in generate_answer_stream(
-        query, context, sources=sources, generate_sources=True
+        query, context, sources=sources, generate_sources=False
     ):
         yield chunk
 
