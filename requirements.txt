@@ -3,3 +3,4 @@ uvicorn[standard]==0.37.0
 openai==1.109.1
 pydantic==2.11.5
 pydantic-settings==2.8.1
+elasticsearch>=8.0.0
