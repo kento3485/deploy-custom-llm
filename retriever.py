@@ -170,7 +170,7 @@ CONTEXT:
 """
         context_instruction = "- Prefer facts supported by the CONTEXT.\n"
     prompt = f"""
-You are a precise assistant. Use the CONTEXT when possible; if missing, say so.
+You are a precise assistant.
 {context_section}
 QUESTION:
 {query}
