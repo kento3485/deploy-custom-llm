@@ -7,8 +7,8 @@ from fastapi import (
     WebSocketDisconnect,
     status,
 )
-from .retriever import run_rag_stream
-from .settings import settings
+from retriever import run_rag_stream
+from settings import settings
 
 # 認証用のトークン
 MY_SECRET_KEY = settings.MY_SECRET_KEY
